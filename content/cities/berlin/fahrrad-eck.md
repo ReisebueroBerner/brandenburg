@@ -1,0 +1,4 @@
+---
+title: "Fahrrad Eck"
+url: /berlin/fahrrad-eck/
+---

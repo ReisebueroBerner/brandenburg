@@ -1,0 +1,4 @@
+---
+title: Planetal
+url: /planetal/
+---

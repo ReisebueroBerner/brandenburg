@@ -1,0 +1,4 @@
+---
+title: "Das Haartelier"
+url: /templin/das-haartelier/
+---

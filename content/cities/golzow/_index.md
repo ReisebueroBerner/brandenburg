@@ -1,0 +1,4 @@
+---
+title: Golzow
+url: /golzow/
+---

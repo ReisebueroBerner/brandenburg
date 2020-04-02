@@ -1,0 +1,4 @@
+---
+title: Boitzenburg
+url: /boitzenburg/
+---

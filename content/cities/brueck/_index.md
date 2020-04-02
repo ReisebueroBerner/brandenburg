@@ -1,0 +1,4 @@
+---
+title: Brück
+url: /brueck/
+---

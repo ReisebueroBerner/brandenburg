@@ -1,0 +1,4 @@
+---
+title: "Minimarkt Stresow"
+url: /berlin/minimarkt-stresow/
+---

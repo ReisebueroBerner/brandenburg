@@ -1,0 +1,4 @@
+---
+title: "Aldi"
+url: /bernau-bei-berlin/aldi/
+---

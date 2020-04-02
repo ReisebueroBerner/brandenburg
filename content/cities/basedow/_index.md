@@ -1,0 +1,4 @@
+---
+title: Basedow
+url: /basedow/
+---

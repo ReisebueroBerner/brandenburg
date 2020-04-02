@@ -1,0 +1,4 @@
+---
+title: Schwedt
+url: /schwedt/
+---

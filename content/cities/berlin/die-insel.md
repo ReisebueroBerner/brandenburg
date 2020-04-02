@@ -1,0 +1,4 @@
+---
+title: "Die Insel"
+url: /berlin/die-insel/
+---

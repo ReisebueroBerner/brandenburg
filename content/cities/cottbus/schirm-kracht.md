@@ -1,0 +1,4 @@
+---
+title: "Schirm Kracht"
+url: /cottbus/schirm-kracht/
+---

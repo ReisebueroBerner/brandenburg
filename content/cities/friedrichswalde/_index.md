@@ -1,0 +1,4 @@
+---
+title: Friedrichswalde
+url: /friedrichswalde/
+---

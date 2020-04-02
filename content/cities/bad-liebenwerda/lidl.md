@@ -1,0 +1,4 @@
+---
+title: "Lidl"
+url: /bad-liebenwerda/lidl/
+---

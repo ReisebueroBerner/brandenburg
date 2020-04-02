@@ -1,0 +1,4 @@
+---
+title: "Galerie Spandow"
+url: /berlin/galerie-spandow/
+---

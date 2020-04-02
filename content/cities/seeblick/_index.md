@@ -1,0 +1,4 @@
+---
+title: Seeblick
+url: /seeblick/
+---

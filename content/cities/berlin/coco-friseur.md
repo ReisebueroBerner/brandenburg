@@ -1,0 +1,4 @@
+---
+title: "Coco Friseur"
+url: /berlin/coco-friseur/
+---

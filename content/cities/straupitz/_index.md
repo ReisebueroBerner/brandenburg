@@ -1,0 +1,4 @@
+---
+title: Straupitz
+url: /straupitz/
+---

@@ -1,0 +1,4 @@
+---
+title: Göritz
+url: /goeritz/
+---

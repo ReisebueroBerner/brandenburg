@@ -1,0 +1,4 @@
+---
+title: Lanz
+url: /lanz/
+---

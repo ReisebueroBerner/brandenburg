@@ -1,0 +1,4 @@
+---
+title: "XL Cut Friseur"
+url: /berlin/xl-cut-friseur/
+---
