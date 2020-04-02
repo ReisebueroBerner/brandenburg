@@ -5,7 +5,7 @@ latitude: 52.6148084
 longitude: 13.4671798
 postcode: 13125
 city: Berlin
-street: Pankgrafenstraße
+street: "Pankgrafenstraße"
 housenumber: 25
 phone: "+49 30 9430629"
 opening_hours: "Mo-Tu off; We-Th 06:00-15:00; Fr 06:00-17:00; Sa 07:00-12:00; Su 07:00-11:00"

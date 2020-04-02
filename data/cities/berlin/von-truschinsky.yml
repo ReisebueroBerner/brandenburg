@@ -5,7 +5,7 @@ latitude: 52.499971800000004
 longitude: 13.319066000000001
 postcode: 10707
 city: Berlin
-street: Bleibtreustraße
+street: "Bleibtreustraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

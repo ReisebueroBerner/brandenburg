@@ -5,7 +5,7 @@ latitude: 52.6020089
 longitude: 13.756542900000001
 postcode: 15345
 city: Altlandsberg
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 22
 phone: "+49 33438 151501"
 opening_hours: "Tu-Fr 08:00-15:00; Mo,Sa nach Vereinbarung"

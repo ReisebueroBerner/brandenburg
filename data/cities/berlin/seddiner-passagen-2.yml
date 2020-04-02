@@ -5,7 +5,7 @@ latitude: 52.5134477
 longitude: 13.521809300000001
 postcode: 10315
 city: Berlin
-street: Seddiner Straße
+street: "Seddiner Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

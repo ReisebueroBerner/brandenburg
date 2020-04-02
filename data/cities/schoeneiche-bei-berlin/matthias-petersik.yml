@@ -5,7 +5,7 @@ latitude: 52.4590922
 longitude: 13.703618200000001
 postcode: 15566
 city: Schöneiche bei Berlin
-street: Geschwister-Scholl-Straße
+street: "Geschwister-Scholl-Straße"
 housenumber: 35
 phone: "+49 30 6498244"
 opening_hours: ""

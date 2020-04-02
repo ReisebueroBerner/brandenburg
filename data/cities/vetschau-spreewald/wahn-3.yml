@@ -5,7 +5,7 @@ latitude: 51.7854101
 longitude: 14.078012300000001
 postcode: 03226
 city: Vetschau/Spreewald
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 06:00-17:30; Sa 06:00-10:00"

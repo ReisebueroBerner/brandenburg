@@ -5,7 +5,7 @@ latitude: 52.536497000000004
 longitude: 13.410587000000001
 postcode: 10435
 city: Berlin
-street: Choriner Straße
+street: "Choriner Straße"
 housenumber: 35
 phone: ""
 opening_hours: ""

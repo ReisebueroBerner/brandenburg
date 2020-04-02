@@ -5,7 +5,7 @@ latitude: 52.94858240000001
 longitude: 14.1081727
 postcode: 
 city: Stolzenhagen
-street: Kietz
+street: "Kietz"
 housenumber: 9
 phone: ""
 opening_hours: "Fr-We 12:00+; Th 14:00+"

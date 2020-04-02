@@ -5,7 +5,7 @@ latitude: 53.0943781
 longitude: 12.896935000000001
 postcode: 16831
 city: Rheinsberg
-street: Rhinhöher Weg
+street: "Rhinhöher Weg"
 housenumber: 2A
 phone: "+49 33931-34080"
 opening_hours: ""

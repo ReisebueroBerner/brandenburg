@@ -5,7 +5,7 @@ latitude: 52.508816100000004
 longitude: 13.316980500000001
 postcode: 10625
 city: Berlin
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 71
 phone: "+49 30 37306273"
 opening_hours: ""

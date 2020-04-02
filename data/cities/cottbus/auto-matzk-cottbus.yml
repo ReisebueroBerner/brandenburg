@@ -5,7 +5,7 @@ latitude: 51.751583700000005
 longitude: 14.367480100000002
 postcode: 03042
 city: Cottbus
-street: Holbeinstraße
+street: "Holbeinstraße"
 housenumber: 22
 phone: "+49 355 756550"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"

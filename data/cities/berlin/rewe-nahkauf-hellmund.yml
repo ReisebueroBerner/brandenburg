@@ -5,7 +5,7 @@ latitude: 52.4734406
 longitude: 13.327561300000001
 postcode: 12161
 city: Berlin
-street: Görresstraße
+street: "Görresstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

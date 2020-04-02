@@ -5,7 +5,7 @@ latitude: 52.549692300000004
 longitude: 13.391480000000001
 postcode: 13357
 city: Berlin
-street: Badstraße
+street: "Badstraße"
 housenumber: 4
 phone: "+49304930000"
 opening_hours: "Mo-Sa 08:00-21:00"

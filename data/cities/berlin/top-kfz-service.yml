@@ -5,7 +5,7 @@ latitude: 52.4397948
 longitude: 13.3132339
 postcode: 12203
 city: Berlin
-street: Dürerstraße
+street: "Dürerstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

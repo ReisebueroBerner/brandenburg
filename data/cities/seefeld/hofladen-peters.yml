@@ -5,7 +5,7 @@ latitude: 52.622986000000004
 longitude: 13.6801498
 postcode: 16356
 city: Seefeld
-street: Seestraße
+street: "Seestraße"
 housenumber: 17
 phone: "+49-33398-68373"
 opening_hours: ""

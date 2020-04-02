@@ -5,7 +5,7 @@ latitude: 52.1408016
 longitude: 12.594875100000001
 postcode: 14806
 city: Bad Belzig
-street: Niemegker Straße
+street: "Niemegker Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

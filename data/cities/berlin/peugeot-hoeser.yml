@@ -5,7 +5,7 @@ latitude: 52.463797500000005
 longitude: 13.440866900000001
 postcode: 12051
 city: Berlin
-street: Juliusstraße
+street: "Juliusstraße"
 housenumber: 61-62
 phone: "+49 30 6852061"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"

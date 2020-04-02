@@ -5,7 +5,7 @@ latitude: 52.5042357
 longitude: 13.515774500000001
 postcode: 10315
 city: Berlin
-street: Alfred-Kowalke-Straße
+street: "Alfred-Kowalke-Straße"
 housenumber: 3
 phone: "+49 30 500 18 018"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

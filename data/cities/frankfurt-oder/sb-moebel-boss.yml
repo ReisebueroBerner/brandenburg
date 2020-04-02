@@ -5,7 +5,7 @@ latitude: 52.339530100000005
 longitude: 14.501415900000001
 postcode: 15234
 city: Frankfurt (Oder)
-street: Messering
+street: "Messering"
 housenumber: 9
 phone: "+49 335 414250"
 opening_hours: ""

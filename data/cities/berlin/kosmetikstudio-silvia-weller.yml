@@ -5,7 +5,7 @@ latitude: 52.53407970000001
 longitude: 13.431905100000002
 postcode: 10407
 city: Berlin
-street: Pasteurstraße
+street: "Pasteurstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

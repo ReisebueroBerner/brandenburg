@@ -5,7 +5,7 @@ latitude: 52.5708428
 longitude: 13.3795219
 postcode: 13409
 city: Berlin
-street: Provinzstraße
+street: "Provinzstraße"
 housenumber: 83A
 phone: ""
 opening_hours: ""

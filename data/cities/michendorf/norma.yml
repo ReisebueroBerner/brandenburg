@@ -5,7 +5,7 @@ latitude: 52.313030700000006
 longitude: 13.0269714
 postcode: 14552
 city: Michendorf
-street: Poststraße
+street: "Poststraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

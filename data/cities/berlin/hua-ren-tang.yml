@@ -5,7 +5,7 @@ latitude: 52.5644603
 longitude: 13.390374300000001
 postcode: 13359
 city: Berlin
-street: Kattegatstraße
+street: "Kattegatstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

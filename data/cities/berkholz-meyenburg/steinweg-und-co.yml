@@ -5,7 +5,7 @@ latitude: 53.0426985
 longitude: 14.248653000000001
 postcode: 16306
 city: Berkholz-Meyenburg
-street: Schwedter Straße
+street: "Schwedter Straße"
 housenumber: 25
 phone: "+49 3332 20850"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.526541800000004
 longitude: 13.389993800000001
 postcode: 10115
 city: Berlin
-street: Linienstraße
+street: "Linienstraße"
 housenumber: 139-140
 phone: ""
 opening_hours: "Tu-Su 14:00-18:00; Mo off"

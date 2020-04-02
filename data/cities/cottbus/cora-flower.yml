@@ -5,7 +5,7 @@ latitude: 51.7501795
 longitude: 14.3256238
 postcode: 03048
 city: Cottbus
-street: Vetschauer Straße
+street: "Vetschauer Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Su 08:00-18:00"

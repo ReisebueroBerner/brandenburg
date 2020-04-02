@@ -5,7 +5,7 @@ latitude: 52.5330407
 longitude: 13.6216503
 postcode: 12627
 city: Berlin
-street: Louis-Lewin-Straße
+street: "Louis-Lewin-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.687923700000006
 longitude: 13.2404235
 postcode: 04916
 city: Herzberg (Elster)
-street: Radelandweg
+street: "Radelandweg"
 housenumber: 6
 phone: "+49 3535 242515"
 opening_hours: "Mo-Fr 08:00-16:00"

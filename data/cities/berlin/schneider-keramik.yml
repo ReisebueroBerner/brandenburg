@@ -5,7 +5,7 @@ latitude: 52.5027453
 longitude: 13.490397000000002
 postcode: 10317
 city: Berlin
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Tu,Th 14:00-19:00"

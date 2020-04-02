@@ -5,7 +5,7 @@ latitude: 52.4935576
 longitude: 13.3679559
 postcode: 10965
 city: Berlin
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 44
 phone: "+49 30 23 62 86 68"
 opening_hours: "Mo-Fr 13:00-19:00"

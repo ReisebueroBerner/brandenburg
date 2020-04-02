@@ -5,7 +5,7 @@ latitude: 52.510382400000005
 longitude: 13.284158300000001
 postcode: 14057
 city: Berlin
-street: Kaiserdamm
+street: "Kaiserdamm"
 housenumber: 21
 phone: "+49 30 3024676"
 opening_hours: ""

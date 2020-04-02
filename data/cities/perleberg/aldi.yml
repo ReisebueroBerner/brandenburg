@@ -5,7 +5,7 @@ latitude: 53.0642134
 longitude: 11.837704700000002
 postcode: 19348
 city: Perleberg
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.1447628
 longitude: 12.591158700000001
 postcode: 14806
 city: Bad Belzig
-street: Weitzgrunder Straße
+street: "Weitzgrunder Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

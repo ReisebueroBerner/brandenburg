@@ -5,7 +5,7 @@ latitude: 53.1193765
 longitude: 13.498493400000001
 postcode: 17268
 city: Templin
-street: Schinkelstraße
+street: "Schinkelstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

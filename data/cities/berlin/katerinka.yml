@@ -5,7 +5,7 @@ latitude: 52.5460184
 longitude: 13.4242062
 postcode: 10439
 city: Berlin
-street: Dunckerstraße
+street: "Dunckerstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 09:00-21:00"

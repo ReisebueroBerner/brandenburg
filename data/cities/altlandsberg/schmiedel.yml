@@ -5,7 +5,7 @@ latitude: 52.5576645
 longitude: 13.717291900000001
 postcode: 15345
 city: Altlandsberg
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 2
 phone: ""
 opening_hours: ""

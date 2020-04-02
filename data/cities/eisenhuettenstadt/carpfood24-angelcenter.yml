@@ -5,7 +5,7 @@ latitude: 52.146677200000006
 longitude: 14.6487999
 postcode: 15890
 city: Eisenhüttenstadt
-street: Oderlandstraße
+street: "Oderlandstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

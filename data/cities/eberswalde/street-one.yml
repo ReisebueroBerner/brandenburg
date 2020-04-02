@@ -5,7 +5,7 @@ latitude: 52.833586600000004
 longitude: 13.8198532
 postcode: 16225
 city: Eberswalde
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

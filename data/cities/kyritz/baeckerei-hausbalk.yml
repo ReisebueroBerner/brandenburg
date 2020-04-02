@@ -5,7 +5,7 @@ latitude: 52.942371
 longitude: 12.396305900000002
 postcode: 16866
 city: Kyritz
-street: Johann-Sebastian-Bach-Straße
+street: "Johann-Sebastian-Bach-Straße"
 housenumber: 44
 phone: "+49 33971 52423"
 opening_hours: ""

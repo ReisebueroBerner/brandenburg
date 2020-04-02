@@ -5,7 +5,7 @@ latitude: 52.497559700000004
 longitude: 13.446780500000001
 postcode: 10997
 city: Berlin
-street: Taborstraße
+street: "Taborstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

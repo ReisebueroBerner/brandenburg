@@ -5,7 +5,7 @@ latitude: 52.5854477
 longitude: 13.282565700000001
 postcode: 13507
 city: Berlin
-street: Veitstraße
+street: "Veitstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

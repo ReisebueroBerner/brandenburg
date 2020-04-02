@@ -5,7 +5,7 @@ latitude: 52.640930600000004
 longitude: 13.2034689
 postcode: 16761
 city: Hennigsdorf
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.7806718
 longitude: 14.318919900000001
 postcode: 03044
 city: Cottbus
-street: Limberger Straße
+street: "Limberger Straße"
 housenumber: 2
 phone: "+49 355 2901320"
 opening_hours: ""

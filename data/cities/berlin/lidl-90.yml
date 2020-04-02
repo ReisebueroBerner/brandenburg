@@ -5,7 +5,7 @@ latitude: 52.5317335
 longitude: 13.548988900000001
 postcode: 12681
 city: Berlin
-street: Allee der Kosmonauten
+street: "Allee der Kosmonauten"
 housenumber: 141A
 phone: ""
 opening_hours: ""

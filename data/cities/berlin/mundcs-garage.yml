@@ -5,7 +5,7 @@ latitude: 52.4265459
 longitude: 13.310217600000001
 postcode: 12207
 city: Berlin
-street: Barnackufer
+street: "Barnackufer"
 housenumber: 29 a
 phone: "+49 30 768 051 10"
 opening_hours: "Mo-Fr 9:00-19:00"

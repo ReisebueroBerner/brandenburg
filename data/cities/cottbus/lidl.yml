@@ -5,7 +5,7 @@ latitude: 51.762942800000005
 longitude: 14.351721800000002
 postcode: 03042
 city: Cottbus
-street: Dissenchener Straße
+street: "Dissenchener Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

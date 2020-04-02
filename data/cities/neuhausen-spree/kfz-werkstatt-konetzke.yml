@@ -5,7 +5,7 @@ latitude: 51.695385200000004
 longitude: 14.435442400000001
 postcode: 03058
 city: Neuhausen/Spree
-street: Alte Schulstraße
+street: "Alte Schulstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

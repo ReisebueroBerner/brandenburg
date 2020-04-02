@@ -5,7 +5,7 @@ latitude: 52.4641449
 longitude: 13.485039
 postcode: 12437
 city: Berlin
-street: Baumschulenstraße
+street: "Baumschulenstraße"
 housenumber: 78
 phone: ""
 opening_hours: ""

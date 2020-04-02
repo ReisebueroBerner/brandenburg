@@ -5,7 +5,7 @@ latitude: 52.6217411
 longitude: 13.2048114
 postcode: 
 city: Berlin
-street: Walter-Kleinow-Ring
+street: "Walter-Kleinow-Ring"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5742951
 longitude: 13.5678935
 postcode: 16356
 city: Ahrensfelde
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 75
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.153805000000006
 longitude: 14.633761000000002
 postcode: 15890
 city: Eisenhüttenstadt
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"

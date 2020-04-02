@@ -5,7 +5,7 @@ latitude: 52.5467851
 longitude: 13.4178908
 postcode: 10437
 city: Berlin
-street: Stargarder Straße
+street: "Stargarder Straße"
 housenumber: 50
 phone: "+49 172 1606899"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:00"

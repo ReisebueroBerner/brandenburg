@@ -5,7 +5,7 @@ latitude: 52.4600753
 longitude: 13.420642800000001
 postcode: 
 city: Berlin
-street: Hattenheimer Straße
+street: "Hattenheimer Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

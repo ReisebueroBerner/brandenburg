@@ -5,7 +5,7 @@ latitude: 52.134249000000004
 longitude: 13.367816900000001
 postcode: 15838
 city: Am Mellensee
-street: Karl-Fiedler-Straße
+street: "Karl-Fiedler-Straße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo 14:00-18:00; Tu-Th 11:00-18:00; Fr 11:00-17:00; Sa 09:00-11:00"

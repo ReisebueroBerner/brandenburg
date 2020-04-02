@@ -5,7 +5,7 @@ latitude: 52.5671334
 longitude: 13.3978879
 postcode: 13187
 city: Berlin
-street: Wollankstraße
+street: "Wollankstraße"
 housenumber: 119
 phone: "+49 030 47 59 94 71"
 opening_hours: ""

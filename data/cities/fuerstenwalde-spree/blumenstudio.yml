@@ -5,7 +5,7 @@ latitude: 52.3603942
 longitude: 14.063841700000001
 postcode: 15517
 city: Fürstenwalde/Spree
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 87
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.835627
 longitude: 13.789240600000001
 postcode: 16225
 city: Eberswalde
-street: Heegermühler Straße
+street: "Heegermühler Straße"
 housenumber: 19
 phone: "+4933345263377"
 opening_hours: "Mo-Sa 07:00-21:30"

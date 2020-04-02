@@ -5,7 +5,7 @@ latitude: 52.5007371
 longitude: 13.3251702
 postcode: 10719
 city: Berlin
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 168
 phone: ""
 opening_hours: "12:00-18:00+"

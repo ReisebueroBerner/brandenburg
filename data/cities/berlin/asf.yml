@@ -5,7 +5,7 @@ latitude: 52.451263600000004
 longitude: 13.638410700000001
 postcode: 12587
 city: Berlin
-street: Werlseestraße
+street: "Werlseestraße"
 housenumber: 62-66
 phone: ""
 opening_hours: ""

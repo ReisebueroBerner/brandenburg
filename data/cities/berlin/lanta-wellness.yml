@@ -5,7 +5,7 @@ latitude: 52.457523
 longitude: 13.3873511
 postcode: 12099
 city: Berlin
-street: Wenckebachstraße
+street: "Wenckebachstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00 || nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 52.5603762
 longitude: 13.431628900000002
 postcode: 13089
 city: Berlin
-street: Treskowstraße
+street: "Treskowstraße"
 housenumber: 5
 phone: "+49 30 74072379"
 opening_hours: "Mo-Fr 10:00-19:00;Mar-Sep: Sa 10:00-18:00;Oct-Feb: Sa 10:00-16:00"

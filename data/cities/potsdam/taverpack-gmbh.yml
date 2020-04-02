@@ -5,7 +5,7 @@ latitude: 52.358998500000006
 longitude: 13.105650500000001
 postcode: 14478
 city: Potsdam
-street: Zum Heizwerk
+street: "Zum Heizwerk"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Th 06:30-16:30; Fr 06:30-15:00; PH off"

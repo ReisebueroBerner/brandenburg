@@ -5,7 +5,7 @@ latitude: 52.296916100000004
 longitude: 12.8602751
 postcode: 14547
 city: Beelitz
-street: Glindower Straße
+street: "Glindower Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Su 09:00-18:00"

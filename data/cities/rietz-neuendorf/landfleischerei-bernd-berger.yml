@@ -5,7 +5,7 @@ latitude: 52.2179158
 longitude: 14.2068697
 postcode: 15848
 city: Rietz-Neuendorf
-street: Bergweg
+street: "Bergweg"
 housenumber: 6
 phone: "+49 3366 22110"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3193769
 longitude: 12.735239400000001
 postcode: 14797
 city: Kloster Lehnin
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

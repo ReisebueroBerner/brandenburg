@@ -5,7 +5,7 @@ latitude: 52.44224010000001
 longitude: 13.2941435
 postcode: 12205
 city: Berlin
-street: Curtiusstraße
+street: "Curtiusstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.515728800000005
 longitude: 13.501462900000002
 postcode: 10365
 city: Berlin
-street: Rüdigerstraße
+street: "Rüdigerstraße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00"

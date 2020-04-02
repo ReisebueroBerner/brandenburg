@@ -5,7 +5,7 @@ latitude: 52.5668992
 longitude: 13.3478714
 postcode: 13407
 city: Berlin
-street: Gotthardstraße
+street: "Gotthardstraße"
 housenumber: 19-21
 phone: ""
 opening_hours: ""

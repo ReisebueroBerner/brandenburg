@@ -5,7 +5,7 @@ latitude: 51.75120810000001
 longitude: 14.258615
 postcode: 03099
 city: Kolkwitz
-street: Friedensweg
+street: "Friedensweg"
 housenumber: 9,10
 phone: "+49 355 290431-50"
 opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.4595367
 longitude: 13.324644600000001
 postcode: 12163
 city: Berlin
-street: Deitmerstraße
+street: "Deitmerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

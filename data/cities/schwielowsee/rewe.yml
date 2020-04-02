@@ -5,7 +5,7 @@ latitude: 52.346801000000006
 longitude: 12.9978203
 postcode: 14548
 city: Schwielowsee
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00"

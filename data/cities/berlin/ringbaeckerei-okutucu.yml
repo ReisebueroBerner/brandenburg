@@ -5,7 +5,7 @@ latitude: 52.539113900000004
 longitude: 13.2728079
 postcode: 13627
 city: Berlin
-street: Goebelstraße
+street: "Goebelstraße"
 housenumber: 113
 phone: ""
 opening_hours: ""

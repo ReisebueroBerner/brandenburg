@@ -5,7 +5,7 @@ latitude: 51.485313600000005
 longitude: 14.109380300000002
 postcode: 02979
 city: Elsterheide
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

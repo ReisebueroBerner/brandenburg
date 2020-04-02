@@ -5,7 +5,7 @@ latitude: 52.299286200000004
 longitude: 13.6988126
 postcode: 15712
 city: Königs Wusterhausen
-street: Friedensaue
+street: "Friedensaue"
 housenumber: 9
 phone: "+49 3375 2935"
 opening_hours: "Mo,We 07:00-14:00; Tu-Fr 07:00-18:00; Sa 07:30-11:00"

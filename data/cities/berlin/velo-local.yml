@@ -5,7 +5,7 @@ latitude: 52.504513800000005
 longitude: 13.2950654
 postcode: 14057
 city: Berlin
-street: Holtzendorffstraße
+street: "Holtzendorffstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Tu,Th-Fr 10:00-19:00; Sa 10:00-14:00; We,Su,PH off"

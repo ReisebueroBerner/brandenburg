@@ -5,7 +5,7 @@ latitude: 52.391972
 longitude: 13.228348500000001
 postcode: 14532
 city: Stahnsdorf
-street: Wilhelm-Külz-Straße
+street: "Wilhelm-Külz-Straße"
 housenumber: 77
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.2568472
 longitude: 14.575011300000002
 postcode: 15295
 city: Brieskow-Finkenheerd
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 20a
 phone: ""
 opening_hours: ""

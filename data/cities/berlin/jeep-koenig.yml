@@ -5,7 +5,7 @@ latitude: 52.517723200000006
 longitude: 13.324846500000001
 postcode: 10587
 city: Berlin
-street: Franklinstraße
+street: "Franklinstraße"
 housenumber: 28-29
 phone: "+493036751770"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-18:00"

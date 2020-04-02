@@ -5,7 +5,7 @@ latitude: 52.09375420000001
 longitude: 12.865827300000001
 postcode: 14929
 city: Treuenbrietzen
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 7:00-20:00"

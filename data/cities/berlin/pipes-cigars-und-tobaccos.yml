@@ -5,7 +5,7 @@ latitude: 52.458874800000004
 longitude: 13.320522200000001
 postcode: 12163
 city: Berlin
-street: Muthesiusstraße
+street: "Muthesiusstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

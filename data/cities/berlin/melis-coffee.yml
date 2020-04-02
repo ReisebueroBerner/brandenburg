@@ -5,7 +5,7 @@ latitude: 52.5282883
 longitude: 13.424588600000002
 postcode: 10407
 city: Berlin
-street: Am Friedrichshain
+street: "Am Friedrichshain"
 housenumber: 35
 phone: ""
 opening_hours: ""

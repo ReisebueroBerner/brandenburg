@@ -5,7 +5,7 @@ latitude: 52.5795916
 longitude: 13.305776400000001
 postcode: 13509
 city: Berlin
-street: Soltauer Straße
+street: "Soltauer Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

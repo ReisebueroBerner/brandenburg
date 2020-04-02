@@ -5,7 +5,7 @@ latitude: 51.973215200000006
 longitude: 14.050870600000001
 postcode: 15913
 city: Märkische Heide
-street: Klein Leiner Landstraße
+street: "Klein Leiner Landstraße"
 housenumber: 5
 phone: "+49 35471 20017"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5090444
 longitude: 13.5879682
 postcode: 12621
 city: Berlin
-street: Mädewalder Weg
+street: "Mädewalder Weg"
 housenumber: 44
 phone: "+49 30 5142726"
 opening_hours: ""

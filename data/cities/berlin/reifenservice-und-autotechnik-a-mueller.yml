@@ -5,7 +5,7 @@ latitude: 52.503845600000005
 longitude: 13.5813623
 postcode: 12621
 city: Berlin
-street: Chemnitzer Straße
+street: "Chemnitzer Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.502205700000005
 longitude: 13.309198700000001
 postcode: 10629
 city: Berlin
-street: Giesebrechtstraße
+street: "Giesebrechtstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00; PH off"

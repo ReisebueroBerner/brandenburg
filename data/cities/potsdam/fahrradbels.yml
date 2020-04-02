@@ -5,7 +5,7 @@ latitude: 52.380143100000005
 longitude: 13.1324625
 postcode: 14480
 city: Potsdam
-street: Röhrenstraße
+street: "Röhrenstraße"
 housenumber: 4
 phone: "+49 331 622113"
 opening_hours: ""

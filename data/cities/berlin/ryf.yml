@@ -5,7 +5,7 @@ latitude: 52.4883351
 longitude: 13.4256425
 postcode: 12047
 city: Berlin
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 217
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

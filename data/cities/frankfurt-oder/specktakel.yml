@@ -5,7 +5,7 @@ latitude: 52.3365981
 longitude: 14.543254300000001
 postcode: 15232
 city: Frankfurt (Oder)
-street: Dresdener Platz
+street: "Dresdener Platz"
 housenumber: 9
 phone: "+49 335 5000231"
 opening_hours: ""

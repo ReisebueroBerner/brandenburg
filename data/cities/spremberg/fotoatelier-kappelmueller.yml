@@ -5,7 +5,7 @@ latitude: 51.5700986
 longitude: 14.3740389
 postcode: 03130
 city: Spremberg
-street: Dresdener Straße
+street: "Dresdener Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5420834
 longitude: 13.441020100000001
 postcode: 10409
 city: Berlin
-street: Greifswalder Straße
+street: "Greifswalder Straße"
 housenumber: 87
 phone: "+49 30 421 61 0 51"
 opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 10:00-13:00"

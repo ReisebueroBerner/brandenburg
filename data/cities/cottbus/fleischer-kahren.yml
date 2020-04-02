@@ -5,7 +5,7 @@ latitude: 51.7204014
 longitude: 14.4158501
 postcode: 03051
 city: Cottbus
-street: Kahrener Dorfstraße
+street: "Kahrener Dorfstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

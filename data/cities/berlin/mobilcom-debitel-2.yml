@@ -5,7 +5,7 @@ latitude: 52.5137288
 longitude: 13.453543100000001
 postcode: 10243
 city: Berlin
-street: Warschauer Straße
+street: "Warschauer Straße"
 housenumber: 81
 phone: "+49 180 5140440044"
 opening_hours: ""

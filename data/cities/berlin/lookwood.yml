@@ -5,7 +5,7 @@ latitude: 52.4950563
 longitude: 13.325527300000001
 postcode: 10719
 city: Berlin
-street: Düsseldorfer Straße
+street: "Düsseldorfer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

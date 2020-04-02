@@ -5,7 +5,7 @@ latitude: 52.3669656
 longitude: 12.911524900000002
 postcode: 14542
 city: Werder (Havel)
-street: Dr.-Külz-Straße
+street: "Dr.-Külz-Straße"
 housenumber: 129d
 phone: ""
 opening_hours: ""

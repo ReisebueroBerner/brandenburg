@@ -5,7 +5,7 @@ latitude: 53.1141778
 longitude: 13.5008575
 postcode: 17268
 city: Templin
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

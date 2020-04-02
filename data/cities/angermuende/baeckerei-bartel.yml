@@ -5,7 +5,7 @@ latitude: 53.016267000000006
 longitude: 14.0047674
 postcode: 
 city: Angermünde
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 36
 phone: "+49 3331 32454"
 opening_hours: ""

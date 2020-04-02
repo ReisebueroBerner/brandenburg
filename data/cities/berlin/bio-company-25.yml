@@ -5,7 +5,7 @@ latitude: 52.485663200000005
 longitude: 13.3228152
 postcode: 10715
 city: Berlin
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 103
 phone: "+49 30 263055890"
 opening_hours: "Mo-Sa 08:00-21:00"

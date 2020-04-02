@@ -5,7 +5,7 @@ latitude: 52.53197
 longitude: 13.4260769
 postcode: 10405
 city: Berlin
-street: Immanuelkirchstraße
+street: "Immanuelkirchstraße"
 housenumber: 22
 phone: "+49 30 545 945 85"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.553803800000004
 longitude: 14.3490987
 postcode: 03130
 city: Spremberg
-street: Hoyerswerdaer Straße
+street: "Hoyerswerdaer Straße"
 housenumber: 33a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.753909
 longitude: 14.333911800000001
 postcode: 03046
 city: Cottbus
-street: Bautzener Straße
+street: "Bautzener Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:03-13:00,14:03-18:00"

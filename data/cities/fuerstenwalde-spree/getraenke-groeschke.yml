@@ -5,7 +5,7 @@ latitude: 52.343119900000005
 longitude: 14.0712474
 postcode: 15517
 city: Fürstenwalde/Spree
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

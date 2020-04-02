@@ -5,7 +5,7 @@ latitude: 52.502468400000005
 longitude: 13.346179800000002
 postcode: 10787
 city: Berlin
-street: Keithstraße
+street: "Keithstraße"
 housenumber: 8
 phone: "+49 30 2135912"
 opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"

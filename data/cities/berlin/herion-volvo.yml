@@ -5,7 +5,7 @@ latitude: 52.4431133
 longitude: 13.3048341
 postcode: 12203
 city: Berlin
-street: Viktoriastraße
+street: "Viktoriastraße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; PH off"

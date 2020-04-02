@@ -5,7 +5,7 @@ latitude: 52.1923509
 longitude: 13.037923000000001
 postcode: 14547
 city: Beelitz
-street: Riebener Dorfstraße
+street: "Riebener Dorfstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.5869104
 longitude: 13.242132600000001
 postcode: 04895
 city: Falkenberg/Elster
-street: Heinrich-Zille-Straße
+street: "Heinrich-Zille-Straße"
 housenumber: 10a
 phone: "+49 35365 34747"
 opening_hours: ""

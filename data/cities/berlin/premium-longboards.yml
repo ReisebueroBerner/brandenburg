@@ -5,7 +5,7 @@ latitude: 52.419690200000005
 longitude: 13.578816300000002
 postcode: 12527
 city: Berlin
-street: Regattastraße
+street: "Regattastraße"
 housenumber: 95
 phone: "+49 30 63964040"
 opening_hours: "Mo-Fr 11:00-16:00"

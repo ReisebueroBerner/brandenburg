@@ -5,7 +5,7 @@ latitude: 52.52358400000001
 longitude: 13.148124200000002
 postcode: 13591
 city: Berlin
-street: Richard-Münch-Straße
+street: "Richard-Münch-Straße"
 housenumber: 99
 phone: "+49 30 3636564"
 opening_hours: ""

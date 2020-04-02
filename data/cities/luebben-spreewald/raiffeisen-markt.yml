@@ -5,7 +5,7 @@ latitude: 51.941701800000004
 longitude: 13.899660200000001
 postcode: 15907
 city: Lübben (Spreewald)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

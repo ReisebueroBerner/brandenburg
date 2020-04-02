@@ -5,7 +5,7 @@ latitude: 52.6064846
 longitude: 12.3387831
 postcode: 14712
 city: Rathenow
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

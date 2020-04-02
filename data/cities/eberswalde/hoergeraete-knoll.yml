@@ -5,7 +5,7 @@ latitude: 52.8320043
 longitude: 13.8104005
 postcode: 16225
 city: Eberswalde
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 15
 phone: "+493334236222"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"

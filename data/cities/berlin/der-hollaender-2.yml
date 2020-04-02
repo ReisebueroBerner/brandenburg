@@ -5,7 +5,7 @@ latitude: 52.512992700000005
 longitude: 13.2442042
 postcode: 14053
 city: Berlin
-street: Trakehner Allee
+street: "Trakehner Allee"
 housenumber: 1A
 phone: ""
 opening_hours: ""

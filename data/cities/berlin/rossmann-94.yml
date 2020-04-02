@@ -5,7 +5,7 @@ latitude: 52.5113215
 longitude: 13.613001700000002
 postcode: 12623
 city: Berlin
-street: Hönower Straße
+street: "Hönower Straße"
 housenumber: 74
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

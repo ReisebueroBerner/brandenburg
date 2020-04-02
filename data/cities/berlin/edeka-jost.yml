@@ -5,7 +5,7 @@ latitude: 52.5061041
 longitude: 13.3203142
 postcode: 10623
 city: Berlin
-street: Kantstraße
+street: "Kantstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"

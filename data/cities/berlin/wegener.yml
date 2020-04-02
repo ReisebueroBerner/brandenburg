@@ -5,7 +5,7 @@ latitude: 52.4349689
 longitude: 13.4345595
 postcode: 12349
 city: Berlin
-street: Buckower Damm
+street: "Buckower Damm"
 housenumber: 96-100
 phone: ""
 opening_hours: ""

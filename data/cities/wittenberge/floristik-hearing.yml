@@ -5,7 +5,7 @@ latitude: 52.9992942
 longitude: 11.7414216
 postcode: 19322
 city: Wittenberge
-street: Dr.-Wilhelm-Külz-Straße
+street: "Dr.-Wilhelm-Külz-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

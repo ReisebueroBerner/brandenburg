@@ -5,7 +5,7 @@ latitude: 52.5896696
 longitude: 13.3332727
 postcode: 13437
 city: Berlin
-street: Alt-Wittenau
+street: "Alt-Wittenau"
 housenumber: 85
 phone: ""
 opening_hours: ""

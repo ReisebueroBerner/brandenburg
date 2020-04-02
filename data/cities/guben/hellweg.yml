@@ -5,7 +5,7 @@ latitude: 51.9552561
 longitude: 14.6637099
 postcode: 03172
 city: Guben
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 32
 phone: "+49 3561 55610"
 opening_hours: "Mo-Sa 08:00-20:00"

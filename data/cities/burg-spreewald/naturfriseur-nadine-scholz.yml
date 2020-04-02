@@ -5,7 +5,7 @@ latitude: 51.829414400000005
 longitude: 14.1461664
 postcode: 03096
 city: Burg (Spreewald)
-street: Krabatweg
+street: "Krabatweg"
 housenumber: 5a
 phone: "+49 35603 781312"
 opening_hours: ""

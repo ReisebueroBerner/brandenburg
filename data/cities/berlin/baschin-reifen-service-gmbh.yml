@@ -5,7 +5,7 @@ latitude: 52.5015079
 longitude: 13.5617835
 postcode: 12683
 city: Berlin
-street: Köpenicker Straße
+street: "Köpenicker Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

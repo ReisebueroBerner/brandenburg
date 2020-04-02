@@ -5,7 +5,7 @@ latitude: 52.093507100000004
 longitude: 14.6341157
 postcode: 15898
 city: Neuzelle
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 111
 phone: ""
 opening_hours: ""

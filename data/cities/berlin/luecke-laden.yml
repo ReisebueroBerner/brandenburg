@@ -5,7 +5,7 @@ latitude: 52.5318605
 longitude: 13.388253
 postcode: 
 city: Berlin
-street: Invalidenstraße
+street: "Invalidenstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

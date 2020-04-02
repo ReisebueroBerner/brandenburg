@@ -5,7 +5,7 @@ latitude: 52.4564151
 longitude: 13.509149500000001
 postcode: 12439
 city: Berlin
-street: Schnellerstraße
+street: "Schnellerstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

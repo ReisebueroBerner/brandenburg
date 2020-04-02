@@ -5,7 +5,7 @@ latitude: 52.9788756
 longitude: 13.331771600000001
 postcode: 16792
 city: Zehdenick
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

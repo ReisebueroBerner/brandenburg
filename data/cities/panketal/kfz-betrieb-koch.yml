@@ -5,7 +5,7 @@ latitude: 52.655132200000004
 longitude: 13.515243900000002
 postcode: 16341
 city: Panketal
-street: Schönerlinder Straße
+street: "Schönerlinder Straße"
 housenumber: 119
 phone: ""
 opening_hours: ""

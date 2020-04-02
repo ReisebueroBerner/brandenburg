@@ -5,7 +5,7 @@ latitude: 52.462537100000006
 longitude: 13.159119
 postcode: 14089
 city: Berlin
-street: Kladower Damm
+street: "Kladower Damm"
 housenumber: 221
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; We 14:00-18:00; Sa 10:00-17:00"

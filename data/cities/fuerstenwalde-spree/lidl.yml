@@ -5,7 +5,7 @@ latitude: 52.3400496
 longitude: 14.072936
 postcode: 15517
 city: Fürstenwalde/Spree
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 65A
 phone: ""
 opening_hours: ""

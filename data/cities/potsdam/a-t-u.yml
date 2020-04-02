@@ -5,7 +5,7 @@ latitude: 52.422406300000006
 longitude: 13.0539178
 postcode: 14469
 city: Potsdam
-street: Nedlitzer Straße
+street: "Nedlitzer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00, Sa 08:00-16:00"

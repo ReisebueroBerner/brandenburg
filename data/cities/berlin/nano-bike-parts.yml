@@ -5,7 +5,7 @@ latitude: 52.444854500000005
 longitude: 13.568942900000001
 postcode: 12555
 city: Berlin
-street: Oberspreestraße
+street: "Oberspreestraße"
 housenumber: 183-185
 phone: "+493067820654"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00; We off"

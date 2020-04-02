@@ -5,7 +5,7 @@ latitude: 52.9457183
 longitude: 12.849835200000001
 postcode: 16827
 city: Neuruppin
-street: Wulkower Chaussee
+street: "Wulkower Chaussee"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

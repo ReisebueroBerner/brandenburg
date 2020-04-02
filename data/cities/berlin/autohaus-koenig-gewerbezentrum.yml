@@ -5,7 +5,7 @@ latitude: 52.4831085
 longitude: 13.368612
 postcode: 10829
 city: Berlin
-street: Wilhelm-Kabus-Straße
+street: "Wilhelm-Kabus-Straße"
 housenumber: 13-19
 phone: "+4930 64098066 0"
 opening_hours: ""

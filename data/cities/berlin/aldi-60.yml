@@ -5,7 +5,7 @@ latitude: 52.418996400000005
 longitude: 13.421743500000002
 postcode: 12349
 city: Berlin
-street: Marienfelder Chaussee
+street: "Marienfelder Chaussee"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

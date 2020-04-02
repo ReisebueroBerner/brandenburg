@@ -5,7 +5,7 @@ latitude: 52.5036769
 longitude: 13.4532234
 postcode: 10245
 city: Berlin
-street: Lehmbruckstraße
+street: "Lehmbruckstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00"

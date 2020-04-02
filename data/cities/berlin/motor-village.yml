@@ -5,7 +5,7 @@ latitude: 52.5715677
 longitude: 13.329752000000001
 postcode: 13403
 city: Berlin
-street: Ollenhauerstraße
+street: "Ollenhauerstraße"
 housenumber: 100
 phone: "+49 30 410220"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

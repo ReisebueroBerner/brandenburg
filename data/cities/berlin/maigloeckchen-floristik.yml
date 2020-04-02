@@ -5,7 +5,7 @@ latitude: 52.439074100000006
 longitude: 13.272728800000001
 postcode: 14169
 city: Berlin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 
 phone: "+49 30 811 80 80"
 opening_hours: ""

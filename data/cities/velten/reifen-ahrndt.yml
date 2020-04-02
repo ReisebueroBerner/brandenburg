@@ -5,7 +5,7 @@ latitude: 52.685956000000004
 longitude: 13.1917398
 postcode: 16727
 city: Velten
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 1
 phone: "+49 3304 509030"
 opening_hours: "Mo-Fr 08:00-18:00; PH off"

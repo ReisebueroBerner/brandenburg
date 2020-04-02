@@ -5,7 +5,7 @@ latitude: 52.5415277
 longitude: 13.440899100000001
 postcode: 10409
 city: Berlin
-street: Storkower Straße
+street: "Storkower Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

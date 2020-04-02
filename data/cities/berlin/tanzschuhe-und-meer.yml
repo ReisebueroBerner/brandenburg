@@ -5,7 +5,7 @@ latitude: 52.625259400000004
 longitude: 13.323879400000001
 postcode: 13467
 city: Berlin
-street: Elsestraße
+street: "Elsestraße"
 housenumber: 15a
 phone: "+49 176 32762038"
 opening_hours: ""

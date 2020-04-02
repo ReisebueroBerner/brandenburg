@@ -5,7 +5,7 @@ latitude: 52.48401320000001
 longitude: 13.574900900000001
 postcode: 12621
 city: Berlin
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

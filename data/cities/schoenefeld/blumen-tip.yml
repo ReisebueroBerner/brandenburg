@@ -5,7 +5,7 @@ latitude: 52.400646900000005
 longitude: 13.5150302
 postcode: 12529
 city: Schönefeld
-street: Waltersdorfer Chaussee
+street: "Waltersdorfer Chaussee"
 housenumber: 8
 phone: ""
 opening_hours: ""

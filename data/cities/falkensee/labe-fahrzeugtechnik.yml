@@ -5,7 +5,7 @@ latitude: 52.5868672
 longitude: 13.065311300000001
 postcode: 14612
 city: Falkensee
-street: Nauener Straße
+street: "Nauener Straße"
 housenumber: 113
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

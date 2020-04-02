@@ -5,7 +5,7 @@ latitude: 52.5167561
 longitude: 13.389850000000001
 postcode: 10117
 city: Berlin
-street: Unter den Linden
+street: "Unter den Linden"
 housenumber: 21
 phone: ""
 opening_hours: ""

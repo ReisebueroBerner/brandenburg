@@ -5,7 +5,7 @@ latitude: 52.5098562
 longitude: 13.4578716
 postcode: 10245
 city: Berlin
-street: Gabriel-Max-Straße
+street: "Gabriel-Max-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

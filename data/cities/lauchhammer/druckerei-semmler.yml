@@ -5,7 +5,7 @@ latitude: 51.4928199
 longitude: 13.772065300000001
 postcode: 01979
 city: Lauchhammer
-street: Wolschinkaweg
+street: "Wolschinkaweg"
 housenumber: 21
 phone: ""
 opening_hours: ""

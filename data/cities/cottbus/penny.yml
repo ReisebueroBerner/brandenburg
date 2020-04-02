@@ -5,7 +5,7 @@ latitude: 51.7256427
 longitude: 14.321157900000001
 postcode: 03048
 city: Cottbus
-street: Turower Straße
+street: "Turower Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

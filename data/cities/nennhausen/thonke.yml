@@ -5,7 +5,7 @@ latitude: 52.6036316
 longitude: 12.5055359
 postcode: 14715
 city: Nennhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 33878 90066"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:00"

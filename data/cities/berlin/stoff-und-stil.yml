@@ -5,7 +5,7 @@ latitude: 52.5246177
 longitude: 13.442623000000001
 postcode: 10249
 city: Berlin
-street: Landsberger Allee
+street: "Landsberger Allee"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

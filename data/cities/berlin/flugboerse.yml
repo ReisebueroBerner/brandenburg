@@ -5,7 +5,7 @@ latitude: 52.497693100000006
 longitude: 13.351968800000002
 postcode: 10777
 city: Berlin
-street: Nollendorfstraße
+street: "Nollendorfstraße"
 housenumber: 28
 phone: "+49 30 2163061"
 opening_hours: ""

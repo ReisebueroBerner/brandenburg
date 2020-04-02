@@ -5,7 +5,7 @@ latitude: 52.399104900000005
 longitude: 13.4508354
 postcode: 12529
 city: Schönefeld
-street: Alt Großziethen
+street: "Alt Großziethen"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00"

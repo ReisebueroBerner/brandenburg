@@ -5,7 +5,7 @@ latitude: 53.104930700000004
 longitude: 13.481022800000002
 postcode: 17268
 city: Templin
-street: Hindenburger Straße
+street: "Hindenburger Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH closed"

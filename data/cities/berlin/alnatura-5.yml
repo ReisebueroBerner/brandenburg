@@ -5,7 +5,7 @@ latitude: 52.5001242
 longitude: 13.354526900000002
 postcode: 10783
 city: Berlin
-street: Else-Lasker-Schüler-Straße
+street: "Else-Lasker-Schüler-Straße"
 housenumber: 18-22
 phone: "+49 30 25759621"
 opening_hours: "Mo-Sa 07:30-21:00; PH off"

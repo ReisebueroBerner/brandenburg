@@ -5,7 +5,7 @@ latitude: 52.403305100000004
 longitude: 13.060322900000001
 postcode: 14467
 city: Potsdam
-street: Benkertstraße
+street: "Benkertstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Termine NUR nach Vereinbarung"

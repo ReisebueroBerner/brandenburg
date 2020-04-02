@@ -5,7 +5,7 @@ latitude: 52.402804700000004
 longitude: 13.071029900000001
 postcode: 14467
 city: Potsdam
-street: Schiffbauergasse
+street: "Schiffbauergasse"
 housenumber: 4b
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

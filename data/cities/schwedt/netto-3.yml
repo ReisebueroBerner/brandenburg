@@ -5,7 +5,7 @@ latitude: 53.061776300000005
 longitude: 14.2753876
 postcode: 16303
 city: Schwedt
-street: Julian-Marchlewski-Ring
+street: "Julian-Marchlewski-Ring"
 housenumber: 97a
 phone: ""
 opening_hours: ""

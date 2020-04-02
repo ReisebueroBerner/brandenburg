@@ -5,7 +5,7 @@ latitude: 52.4994687
 longitude: 13.466132700000001
 postcode: 10245
 city: Berlin
-street: Markgrafendamm
+street: "Markgrafendamm"
 housenumber: 12
 phone: "+49-30-290-43-53-8"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.238631000000005
 longitude: 12.969976200000001
 postcode: 14547
 city: Beelitz
-street: Clara-Zetkin-Straße
+street: "Clara-Zetkin-Straße"
 housenumber: 36 A
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

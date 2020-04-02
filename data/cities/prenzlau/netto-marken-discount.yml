@@ -5,7 +5,7 @@ latitude: 53.3175279
 longitude: 13.859734300000001
 postcode: 17291
 city: Prenzlau
-street: Dr.-Wilhelm-Külz-Straße
+street: "Dr.-Wilhelm-Külz-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

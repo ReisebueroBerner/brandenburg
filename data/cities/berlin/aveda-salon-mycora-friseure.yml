@@ -5,7 +5,7 @@ latitude: 52.4348863
 longitude: 13.263129000000001
 postcode: 14169
 city: Berlin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 10
 phone: "+49 30 86316663"
 opening_hours: "Mo-We,Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-15:00"

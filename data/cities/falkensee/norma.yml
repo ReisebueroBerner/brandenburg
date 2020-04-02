@@ -5,7 +5,7 @@ latitude: 52.5674718
 longitude: 13.0985186
 postcode: 14612
 city: Falkensee
-street: Falkenhagener Straße
+street: "Falkenhagener Straße"
 housenumber: 30-32
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

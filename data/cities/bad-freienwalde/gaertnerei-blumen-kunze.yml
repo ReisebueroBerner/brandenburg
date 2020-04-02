@@ -5,7 +5,7 @@ latitude: 52.776348500000005
 longitude: 14.0254434
 postcode: 16259
 city: Bad Freienwalde
-street: Gesundbrunnenstraße
+street: "Gesundbrunnenstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

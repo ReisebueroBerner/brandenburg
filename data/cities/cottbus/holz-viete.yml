@@ -5,7 +5,7 @@ latitude: 51.7658877
 longitude: 14.3559549
 postcode: 03042
 city: Cottbus
-street: Merzdorfer Weg
+street: "Merzdorfer Weg"
 housenumber: 39
 phone: ""
 opening_hours: ""

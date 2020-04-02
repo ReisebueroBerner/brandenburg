@@ -5,7 +5,7 @@ latitude: 52.5479512
 longitude: 13.464080500000001
 postcode: 13088
 city: Berlin
-street: Gounodstraße
+street: "Gounodstraße"
 housenumber: 92
 phone: ""
 opening_hours: ""

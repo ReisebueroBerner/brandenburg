@@ -5,7 +5,7 @@ latitude: 52.3335213
 longitude: 14.539914300000001
 postcode: 15232
 city: Frankfurt (Oder)
-street: Spartakusring
+street: "Spartakusring"
 housenumber: 20
 phone: ""
 opening_hours: ""

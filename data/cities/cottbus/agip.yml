@@ -5,7 +5,7 @@ latitude: 51.720581
 longitude: 14.3432984
 postcode: 
 city: Cottbus
-street: Hänchener Straße
+street: "Hänchener Straße"
 housenumber: 
 phone: ""
 opening_hours: "24/7"

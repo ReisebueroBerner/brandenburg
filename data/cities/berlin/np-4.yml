@@ -5,7 +5,7 @@ latitude: 52.5075907
 longitude: 13.513233300000001
 postcode: 10315
 city: Berlin
-street: Massower Straße
+street: "Massower Straße"
 housenumber: 5
 phone: "+49 30 51061729"
 opening_hours: "Mo-Sa 07:00-22:00"

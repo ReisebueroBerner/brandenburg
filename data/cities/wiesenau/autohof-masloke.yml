@@ -5,7 +5,7 @@ latitude: 52.228098
 longitude: 14.5945225
 postcode: 15295
 city: Wiesenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

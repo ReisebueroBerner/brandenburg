@@ -5,7 +5,7 @@ latitude: 52.08137060000001
 longitude: 13.160935
 postcode: 14943
 city: Luckenwalde
-street: Jüterboger Straße
+street: "Jüterboger Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

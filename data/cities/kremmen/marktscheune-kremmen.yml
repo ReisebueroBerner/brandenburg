@@ -5,7 +5,7 @@ latitude: 52.756797000000006
 longitude: 13.030744400000001
 postcode: 16766
 city: Kremmen
-street: Scheunenweg
+street: "Scheunenweg"
 housenumber: 33
 phone: "+49 171 5506456"
 opening_hours: ""

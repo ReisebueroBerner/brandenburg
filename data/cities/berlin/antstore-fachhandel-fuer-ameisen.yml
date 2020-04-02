@@ -5,7 +5,7 @@ latitude: 52.4542635
 longitude: 13.3373004
 postcode: 12169
 city: Berlin
-street: Selerweg
+street: "Selerweg"
 housenumber: 41
 phone: "+49 30 76687051"
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"

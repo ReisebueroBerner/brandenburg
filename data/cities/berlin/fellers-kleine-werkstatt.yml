@@ -5,7 +5,7 @@ latitude: 52.547871900000004
 longitude: 13.569980800000002
 postcode: 12685
 city: Berlin
-street: Schönagelstraße
+street: "Schönagelstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

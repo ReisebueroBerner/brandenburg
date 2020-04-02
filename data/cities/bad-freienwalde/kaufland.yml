@@ -5,7 +5,7 @@ latitude: 52.79412730000001
 longitude: 14.0422439
 postcode: 16259
 city: Bad Freienwalde
-street: Eduardshof
+street: "Eduardshof"
 housenumber: 3
 phone: "+49 3344 42880"
 opening_hours: ""

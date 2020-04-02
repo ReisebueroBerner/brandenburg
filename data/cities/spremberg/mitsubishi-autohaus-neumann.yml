@@ -5,7 +5,7 @@ latitude: 51.576067800000004
 longitude: 14.3633939
 postcode: 03130
 city: Spremberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 51
 phone: ""
 opening_hours: ""

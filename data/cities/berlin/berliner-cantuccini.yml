@@ -5,7 +5,7 @@ latitude: 52.5384947
 longitude: 13.420777500000002
 postcode: 10435
 city: Berlin
-street: Kollwitzstraße
+street: "Kollwitzstraße"
 housenumber: 90
 phone: ""
 opening_hours: ""

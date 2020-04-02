@@ -5,7 +5,7 @@ latitude: 52.3501702
 longitude: 14.5672017
 postcode: 69-100
 city: Słubice
-street: Jana Kochanowskiego
+street: "Jana Kochanowskiego"
 housenumber: 2
 phone: "+48 957572840"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

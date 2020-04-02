@@ -5,7 +5,7 @@ latitude: 52.5367577
 longitude: 13.6031843
 postcode: 12627
 city: Berlin
-street: Fritz-Lang-Straße
+street: "Fritz-Lang-Straße"
 housenumber: 2
 phone: "+49 30 32 10 11"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 51.7157259
 longitude: 14.3176964
 postcode: 03051
 city: Cottbus
-street: Sachsendorfer Straße
+street: "Sachsendorfer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

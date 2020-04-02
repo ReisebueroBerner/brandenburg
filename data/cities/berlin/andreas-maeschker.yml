@@ -5,7 +5,7 @@ latitude: 52.560846500000004
 longitude: 13.3636847
 postcode: 13407
 city: Berlin
-street: Walderseestraße
+street: "Walderseestraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

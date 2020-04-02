@@ -5,7 +5,7 @@ latitude: 52.4959405
 longitude: 13.361836400000001
 postcode: 10783
 city: Berlin
-street: Alvenslebenstraße
+street: "Alvenslebenstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 09:30-19:30"

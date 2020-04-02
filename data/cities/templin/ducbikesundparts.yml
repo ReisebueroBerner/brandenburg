@@ -5,7 +5,7 @@ latitude: 53.11492380000001
 longitude: 13.482807600000001
 postcode: 17268
 city: Templin
-street: Ziegeleibrücke
+street: "Ziegeleibrücke"
 housenumber: 5
 phone: "+49 176 96121986"
 opening_hours: ""

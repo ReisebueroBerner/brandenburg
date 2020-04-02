@@ -5,7 +5,7 @@ latitude: 52.5092304
 longitude: 13.457111500000002
 postcode: 10245
 city: Berlin
-street: Simplonstraße
+street: "Simplonstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

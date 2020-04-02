@@ -5,7 +5,7 @@ latitude: 52.44232
 longitude: 13.2404658
 postcode: 14163
 city: Berlin
-street: Fischerhüttenstraße
+street: "Fischerhüttenstraße"
 housenumber: 68
 phone: "+49 30 80496133"
 opening_hours: "Mo-Sa 07:00-22:00"

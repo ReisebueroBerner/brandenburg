@@ -5,7 +5,7 @@ latitude: 52.3821522
 longitude: 13.088455600000001
 postcode: 14478
 city: Potsdam
-street: Horstweg
+street: "Horstweg"
 housenumber: 53c
 phone: ""
 opening_hours: "24/7"

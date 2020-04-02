@@ -5,7 +5,7 @@ latitude: 53.032087800000006
 longitude: 13.3108436
 postcode: 16792
 city: Zehdenick
-street: Ziegelei
+street: "Ziegelei"
 housenumber: 11
 phone: "+49 (0)3307 420504"
 opening_hours: "08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.526504300000006
 longitude: 13.341591300000001
 postcode: 10551
 city: Berlin
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:30-21:30"

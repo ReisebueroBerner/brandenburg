@@ -5,7 +5,7 @@ latitude: 52.4343693
 longitude: 12.5224194
 postcode: 14772
 city: Brandenburg an der Havel
-street: Tschirchdamm
+street: "Tschirchdamm"
 housenumber: 16
 phone: "+49 33 81 – 70 25 10"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

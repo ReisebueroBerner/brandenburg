@@ -5,7 +5,7 @@ latitude: 53.084079700000004
 longitude: 11.853400200000001
 postcode: 19348
 city: Perleberg
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 39 - 41
 phone: ""
 opening_hours: ""

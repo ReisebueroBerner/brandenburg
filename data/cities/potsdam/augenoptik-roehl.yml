@@ -5,7 +5,7 @@ latitude: 52.3938502
 longitude: 13.0918883
 postcode: 14482
 city: Potsdam
-street: Karl-Liebknecht-Straße
+street: "Karl-Liebknecht-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su off"

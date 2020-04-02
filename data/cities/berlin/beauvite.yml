@@ -5,7 +5,7 @@ latitude: 52.49834250000001
 longitude: 13.326518700000001
 postcode: 10719
 city: Berlin
-street: Ludwigkirchstraße
+street: "Ludwigkirchstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

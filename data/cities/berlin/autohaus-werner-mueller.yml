@@ -5,7 +5,7 @@ latitude: 52.572217300000005
 longitude: 13.521288100000001
 postcode: 13059
 city: Berlin
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14
 phone: "+49 30 96 20 08 43"
 opening_hours: ""

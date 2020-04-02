@@ -5,7 +5,7 @@ latitude: 52.4620259
 longitude: 13.3226001
 postcode: 12163
 city: Berlin
-street: Schildhornstraße
+street: "Schildhornstraße"
 housenumber: 96
 phone: ""
 opening_hours: ""

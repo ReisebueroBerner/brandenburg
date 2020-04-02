@@ -5,7 +5,7 @@ latitude: 52.50043
 longitude: 13.3507216
 postcode: 10787
 city: Berlin
-street: Kleiststraße
+street: "Kleiststraße"
 housenumber: 3-6
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 08:00-22:00"

@@ -5,7 +5,7 @@ latitude: 52.540395600000004
 longitude: 13.360859900000001
 postcode: 13353
 city: Berlin
-street: Lynarstraße
+street: "Lynarstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

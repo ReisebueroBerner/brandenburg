@@ -5,7 +5,7 @@ latitude: 52.48235390000001
 longitude: 13.453937400000001
 postcode: 
 city: Berlin
-street: Treptower Straße
+street: "Treptower Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa 07:00-15:00"

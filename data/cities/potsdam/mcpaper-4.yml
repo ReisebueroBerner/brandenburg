@@ -5,7 +5,7 @@ latitude: 52.391799400000004
 longitude: 13.094913900000002
 postcode: 14482
 city: Potsdam
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.618908000000005
 longitude: 13.3049931
 postcode: 13467
 city: Berlin
-street: Heinsestraße
+street: "Heinsestraße"
 housenumber: 51
 phone: "+49 30 40584478"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:30"

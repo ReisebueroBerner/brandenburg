@@ -5,7 +5,7 @@ latitude: 52.6141688
 longitude: 13.4849917
 postcode: 13125
 city: Berlin
-street: Alt-Karow
+street: "Alt-Karow"
 housenumber: 25
 phone: "+49 30 94396015"
 opening_hours: "Mo-Fr 08:00-18:00"

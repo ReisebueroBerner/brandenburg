@@ -5,7 +5,7 @@ latitude: 52.508410500000004
 longitude: 13.508050500000001
 postcode: 10315
 city: Berlin
-street: Einbecker Straße
+street: "Einbecker Straße"
 housenumber: 71
 phone: "+493031174528"
 opening_hours: "Mo-Fr 11:00-18:00, Sa 10:00-13:30"

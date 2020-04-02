@@ -5,7 +5,7 @@ latitude: 52.749780300000005
 longitude: 13.198151300000001
 postcode: 
 city: Oranienburg
-street: Birkenweg
+street: "Birkenweg"
 housenumber: 166
 phone: ""
 opening_hours: ""

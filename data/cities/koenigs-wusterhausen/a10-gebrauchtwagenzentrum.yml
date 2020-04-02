@@ -5,7 +5,7 @@ latitude: 52.315641400000004
 longitude: 13.6616289
 postcode: 15713
 city: Königs Wusterhausen
-street: Segelfliegerdamm
+street: "Segelfliegerdamm"
 housenumber: 23
 phone: "+49 1577 9121345"
 opening_hours: ""

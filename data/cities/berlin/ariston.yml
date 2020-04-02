@@ -5,7 +5,7 @@ latitude: 52.4858428
 longitude: 13.3389328
 postcode: 10825
 city: Berlin
-street: Meraner Straße
+street: "Meraner Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

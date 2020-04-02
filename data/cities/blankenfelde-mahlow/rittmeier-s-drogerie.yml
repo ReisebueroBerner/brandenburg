@@ -5,7 +5,7 @@ latitude: 52.329483700000004
 longitude: 13.410024400000001
 postcode: 15827
 city: Blankenfelde-Mahlow
-street: Zossener Damm
+street: "Zossener Damm"
 housenumber: 
 phone: "+49 3379 370959"
 opening_hours: "Mo-Fr 08:00-18:00"

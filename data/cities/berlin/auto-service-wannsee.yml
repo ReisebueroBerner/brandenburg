@@ -5,7 +5,7 @@ latitude: 52.4134168
 longitude: 13.1434446
 postcode: 14109
 city: Berlin
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 3a
 phone: "+49 30 54711707"
 opening_hours: ""

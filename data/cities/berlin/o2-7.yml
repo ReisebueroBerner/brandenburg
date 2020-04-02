@@ -5,7 +5,7 @@ latitude: 52.49706990000001
 longitude: 13.5207847
 postcode: 10319
 city: Berlin
-street: Otto-Schmirgal-Straße
+street: "Otto-Schmirgal-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

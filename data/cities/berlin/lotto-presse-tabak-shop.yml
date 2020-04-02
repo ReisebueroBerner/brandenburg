@@ -5,7 +5,7 @@ latitude: 52.532076
 longitude: 13.6040287
 postcode: 12627
 city: Berlin
-street: Stollberger Straße
+street: "Stollberger Straße"
 housenumber: 51
 phone: "+49 30 9911132"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:00-11:00"

@@ -5,7 +5,7 @@ latitude: 52.379505200000004
 longitude: 13.250530900000001
 postcode: 14513
 city: Teltow
-street: Stahnsdorfer Straße
+street: "Stahnsdorfer Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Apr-Oct Mo-Th 07:00-17:00; Apr-Oct Fr 07:00-15:00; Apr-Oct Sa 10:00-14:00; Nov-Mar Mo-Th 07:00-16:00; Nov-Mar Fr 07:00-15:00; Nov-Mar Sa closed; PH,Su off"

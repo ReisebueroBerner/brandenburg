@@ -5,7 +5,7 @@ latitude: 52.491038800000005
 longitude: 13.3769828
 postcode: 10965
 city: Berlin
-street: Katzbachstraße
+street: "Katzbachstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

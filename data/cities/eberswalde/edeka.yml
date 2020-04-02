@@ -5,7 +5,7 @@ latitude: 52.83319650000001
 longitude: 13.807415
 postcode: 16225
 city: Eberswalde
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 41
 phone: "+4933342779089"
 opening_hours: "Mo-Sa 07:00-21:00"

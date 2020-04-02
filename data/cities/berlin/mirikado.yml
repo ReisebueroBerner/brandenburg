@@ -5,7 +5,7 @@ latitude: 52.49128030000001
 longitude: 13.424355700000001
 postcode: 12047
 city: Berlin
-street: Pflügerstraße
+street: "Pflügerstraße"
 housenumber: 79A
 phone: ""
 opening_hours: "Mo-Fr 12:00-16:00,17:00-19:00; Sa 12:00-19:00"

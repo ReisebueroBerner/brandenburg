@@ -5,7 +5,7 @@ latitude: 51.5643122
 longitude: 14.569971
 postcode: 02959
 city: Groß Düben
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 2
 phone: "+49 35773 70297"
 opening_hours: ""

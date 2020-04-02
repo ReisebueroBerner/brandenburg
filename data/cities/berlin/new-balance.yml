@@ -5,7 +5,7 @@ latitude: 52.524804800000005
 longitude: 13.4067255
 postcode: 10178
 city: Berlin
-street: Münzstraße
+street: "Münzstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 10:30-20:00"

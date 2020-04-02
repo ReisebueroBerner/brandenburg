@@ -5,7 +5,7 @@ latitude: 52.4431153
 longitude: 13.385498100000001
 postcode: 12105
 city: Berlin
-street: Prühßstraße
+street: "Prühßstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00"

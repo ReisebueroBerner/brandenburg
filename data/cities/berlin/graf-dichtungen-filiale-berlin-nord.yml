@@ -5,7 +5,7 @@ latitude: 52.606260600000006
 longitude: 13.324234400000002
 postcode: 13469
 city: Berlin
-street: Oraniendamm
+street: "Oraniendamm"
 housenumber: 70-71
 phone: "+49 30 72 02 19 450"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"

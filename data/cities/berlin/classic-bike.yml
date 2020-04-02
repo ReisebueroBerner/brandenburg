@@ -5,7 +5,7 @@ latitude: 52.5275405
 longitude: 13.320692200000002
 postcode: 10553
 city: Berlin
-street: Huttenstraße
+street: "Huttenstraße"
 housenumber: 50
 phone: "+49 30 61 67 93 0"
 opening_hours: "Mar-Sep Mo-Fr 09:00-19:00; Oct-Feb Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su,PH off"

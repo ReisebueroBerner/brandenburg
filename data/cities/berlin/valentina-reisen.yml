@@ -5,7 +5,7 @@ latitude: 52.482409800000006
 longitude: 13.3454291
 postcode: 10825
 city: Berlin
-street: Fritz-Elsas-Straße
+street: "Fritz-Elsas-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

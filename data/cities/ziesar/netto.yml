@@ -5,7 +5,7 @@ latitude: 52.268486100000004
 longitude: 12.279151800000001
 postcode: 14793
 city: Ziesar
-street: Paplitzer Chaussee
+street: "Paplitzer Chaussee"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.496087300000006
 longitude: 13.336997100000001
 postcode: 10777
 city: Berlin
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 7
 phone: "+49 30 23629617"
 opening_hours: ""

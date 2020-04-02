@@ -5,7 +5,7 @@ latitude: 52.6351999
 longitude: 13.4948127
 postcode: 13125
 city: Berlin
-street: Walter-Friedrich-Straße
+street: "Walter-Friedrich-Straße"
 housenumber: 4A
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.5306173
 longitude: 12.332895
 postcode: 14727
 city: Premnitz
-street: Alte Hauptstraße
+street: "Alte Hauptstraße"
 housenumber: 40 - 41
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

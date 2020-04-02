@@ -5,7 +5,7 @@ latitude: 52.5384888
 longitude: 13.4170119
 postcode: 10435
 city: Berlin
-street: Sredzkistraße
+street: "Sredzkistraße"
 housenumber: 31
 phone: ""
 opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00"

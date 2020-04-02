@@ -5,7 +5,7 @@ latitude: 51.998077
 longitude: 13.079756000000001
 postcode: 14913
 city: Jüterbog
-street: Grünstraße
+street: "Grünstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

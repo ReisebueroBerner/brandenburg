@@ -5,7 +5,7 @@ latitude: 52.456119400000006
 longitude: 13.620875000000002
 postcode: 12587
 city: Berlin
-street: Fürstenwalder Damm
+street: "Fürstenwalder Damm"
 housenumber: 435-441
 phone: "+49 30 641917 0"
 opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-16:00; Sa, Su off"

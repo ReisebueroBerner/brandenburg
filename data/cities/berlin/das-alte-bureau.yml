@@ -5,7 +5,7 @@ latitude: 52.4957161
 longitude: 13.3520692
 postcode: 10781
 city: Berlin
-street: Habsburgerstraße
+street: "Habsburgerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

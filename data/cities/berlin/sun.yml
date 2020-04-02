@@ -5,7 +5,7 @@ latitude: 52.5295332
 longitude: 13.195176100000001
 postcode: 13581
 city: Berlin
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 20
 phone: "+49 30 35102936"
 opening_hours: "06:00-22:00"

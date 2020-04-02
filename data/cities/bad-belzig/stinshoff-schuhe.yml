@@ -5,7 +5,7 @@ latitude: 52.13987710000001
 longitude: 12.5876581
 postcode: 14806
 city: Bad Belzig
-street: Straße der Einheit
+street: "Straße der Einheit"
 housenumber: 4
 phone: ""
 opening_hours: ""

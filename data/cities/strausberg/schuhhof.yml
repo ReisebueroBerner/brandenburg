@@ -5,7 +5,7 @@ latitude: 52.5576178
 longitude: 13.870166800000002
 postcode: 15344
 city: Strausberg
-street: Herrenseeallee
+street: "Herrenseeallee"
 housenumber: 15
 phone: "+49 3341 315338"
 opening_hours: "Mo-Sa 09:30-20:00"

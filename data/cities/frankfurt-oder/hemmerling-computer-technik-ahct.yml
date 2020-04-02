@@ -5,7 +5,7 @@ latitude: 52.337010400000004
 longitude: 14.5526689
 postcode: 15230
 city: Frankfurt (Oder)
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 21
 phone: "+49 335 537361"
 opening_hours: "Mo-Fr 10:00-18:00"

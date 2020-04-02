@@ -5,7 +5,7 @@ latitude: 51.526337100000006
 longitude: 14.3371472
 postcode: 03130
 city: Spremberg
-street: Dresdener Chaussee
+street: "Dresdener Chaussee"
 housenumber: 88
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

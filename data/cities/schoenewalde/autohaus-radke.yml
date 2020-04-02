@@ -5,7 +5,7 @@ latitude: 51.788118100000005
 longitude: 13.282693400000001
 postcode: 04916
 city: Schönewalde
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 51
 phone: "+49 35362 350"
 opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00; Sa 08:00-12:00"

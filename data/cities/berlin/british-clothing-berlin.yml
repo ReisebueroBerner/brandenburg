@@ -5,7 +5,7 @@ latitude: 52.5029277
 longitude: 13.3173341
 postcode: 10629
 city: Berlin
-street: Schlüterstraße
+street: "Schlüterstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.7176714
 longitude: 14.136586000000001
 postcode: 16269
 city: Wriezen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

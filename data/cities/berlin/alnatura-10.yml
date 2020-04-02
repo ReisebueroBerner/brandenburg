@@ -5,7 +5,7 @@ latitude: 52.443075500000006
 longitude: 13.294283700000001
 postcode: 12205
 city: Berlin
-street: Hans-Sachs-Straße
+street: "Hans-Sachs-Straße"
 housenumber: 4b-c
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

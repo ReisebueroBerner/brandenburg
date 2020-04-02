@@ -5,7 +5,7 @@ latitude: 52.540158100000006
 longitude: 13.231655900000002
 postcode: 13599
 city: Berlin
-street: Daumstraße
+street: "Daumstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

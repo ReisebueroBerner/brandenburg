@@ -5,7 +5,7 @@ latitude: 52.599468
 longitude: 12.893782000000002
 postcode: 14641
 city: Nauen
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

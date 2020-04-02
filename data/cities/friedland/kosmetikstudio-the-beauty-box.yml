@@ -5,7 +5,7 @@ latitude: 52.106075600000004
 longitude: 14.262879400000001
 postcode: 15848
 city: Friedland
-street: Pestalozzistraße
+street: "Pestalozzistraße"
 housenumber: 2
 phone: "+49 33676 16169"
 opening_hours: ""

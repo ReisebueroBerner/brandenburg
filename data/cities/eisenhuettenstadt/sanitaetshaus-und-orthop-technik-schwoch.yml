@@ -5,7 +5,7 @@ latitude: 52.1428853
 longitude: 14.625663000000001
 postcode: 15890
 city: Eisenhüttenstadt
-street: Friedrich-Engels-Straße
+street: "Friedrich-Engels-Straße"
 housenumber: 11
 phone: "+49 3364 44705"
 opening_hours: ""

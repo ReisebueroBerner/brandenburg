@@ -5,7 +5,7 @@ latitude: 52.457722600000004
 longitude: 13.2633626
 postcode: 14195
 city: Berlin
-street: Hüttenweg
+street: "Hüttenweg"
 housenumber: 50
 phone: ""
 opening_hours: ""

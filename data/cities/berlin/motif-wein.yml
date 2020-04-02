@@ -5,7 +5,7 @@ latitude: 52.4863013
 longitude: 13.435152500000001
 postcode: 12045
 city: Berlin
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 189
 phone: ""
 opening_hours: ""

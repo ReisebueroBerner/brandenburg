@@ -5,7 +5,7 @@ latitude: 52.48196170000001
 longitude: 13.3213301
 postcode: 10715
 city: Berlin
-street: Hildegardstraße
+street: "Hildegardstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

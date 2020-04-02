@@ -5,7 +5,7 @@ latitude: 52.5341965
 longitude: 13.4867173
 postcode: 13055
 city: Berlin
-street: Landsberger Allee
+street: "Landsberger Allee"
 housenumber: 217A
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00"

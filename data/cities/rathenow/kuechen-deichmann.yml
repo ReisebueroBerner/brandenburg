@@ -5,7 +5,7 @@ latitude: 52.6093964
 longitude: 12.333055400000001
 postcode: 14712
 city: Rathenow
-street: Jederitzer Straße
+street: "Jederitzer Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

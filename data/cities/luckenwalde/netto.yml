@@ -5,7 +5,7 @@ latitude: 52.096221400000005
 longitude: 13.165461500000001
 postcode: 14943
 city: Luckenwalde
-street: Neue Beelitzer Straße
+street: "Neue Beelitzer Straße"
 housenumber: 8-9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.561345700000004
 longitude: 13.410132800000001
 postcode: 13187
 city: Berlin
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 8
 phone: "+49 30 47308750"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5141306
 longitude: 13.6498635
 postcode: 15366
 city: Hoppegarten
-street: Neuer Hönower Weg
+street: "Neuer Hönower Weg"
 housenumber: 3
 phone: "+49 3342 2488 0"
 opening_hours: ""

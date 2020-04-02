@@ -5,7 +5,7 @@ latitude: 52.6407594
 longitude: 13.514841200000001
 postcode: 13125
 city: Berlin
-street: Zepernicker Straße
+street: "Zepernicker Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

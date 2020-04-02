@@ -5,7 +5,7 @@ latitude: 52.5092489
 longitude: 13.564830200000001
 postcode: 12683
 city: Berlin
-street: Walsheimer Straße
+street: "Walsheimer Straße"
 housenumber: 2 - 24
 phone: "+49 30 34747550"
 opening_hours: ""

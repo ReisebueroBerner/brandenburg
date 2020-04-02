@@ -5,7 +5,7 @@ latitude: 53.20835760000001
 longitude: 14.3890516
 postcode: 16307
 city: Gartz (Oder)
-street: Pommernstraße
+street: "Pommernstraße"
 housenumber: 140
 phone: ""
 opening_hours: ""

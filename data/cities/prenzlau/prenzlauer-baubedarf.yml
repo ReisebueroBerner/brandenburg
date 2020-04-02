@@ -5,7 +5,7 @@ latitude: 53.326607100000004
 longitude: 13.8582239
 postcode: 17291
 city: Prenzlau
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 41
 phone: "+49 3984 87030"
 opening_hours: ""

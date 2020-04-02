@@ -5,7 +5,7 @@ latitude: 52.4770705
 longitude: 13.4413759
 postcode: 12043
 city: Berlin
-street: Richardstraße
+street: "Richardstraße"
 housenumber: 99
 phone: ""
 opening_hours: "Tu 15:00-18:00"

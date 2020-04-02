@@ -5,7 +5,7 @@ latitude: 52.548752500000006
 longitude: 13.2212045
 postcode: 13585
 city: Berlin
-street: Eiswerderstraße
+street: "Eiswerderstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 09:00-17:00"

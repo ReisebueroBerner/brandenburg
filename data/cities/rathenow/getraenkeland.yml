@@ -5,7 +5,7 @@ latitude: 52.6124292
 longitude: 12.335348300000001
 postcode: 14712
 city: Rathenow
-street: Curlandstraße
+street: "Curlandstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

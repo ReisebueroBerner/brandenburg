@@ -5,7 +5,7 @@ latitude: 52.52358520000001
 longitude: 13.400064400000002
 postcode: 10178
 city: Berlin
-street: Oranienburger Straße
+street: "Oranienburger Straße"
 housenumber: 86
 phone: ""
 opening_hours: ""

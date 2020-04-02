@@ -5,7 +5,7 @@ latitude: 51.9482055
 longitude: 14.701917400000001
 postcode: 03172
 city: Guben
-street: Sprucker Straße
+street: "Sprucker Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:30; Sa 06:30-17:30; Su 06:30-10:00"

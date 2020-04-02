@@ -5,7 +5,7 @@ latitude: 52.5475615
 longitude: 13.410312300000001
 postcode: 10437
 city: Berlin
-street: Gleimstraße
+street: "Gleimstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

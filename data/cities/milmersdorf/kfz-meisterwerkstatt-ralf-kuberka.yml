@@ -5,7 +5,7 @@ latitude: 53.112682500000005
 longitude: 13.6390723
 postcode: 17268
 city: Milmersdorf
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14b
 phone: "+49 39886 226"
 opening_hours: "Mo-Fr 7:30-16:30"

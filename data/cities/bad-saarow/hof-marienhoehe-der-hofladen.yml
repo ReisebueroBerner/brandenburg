@@ -5,7 +5,7 @@ latitude: 52.2907814
 longitude: 14.0227087
 postcode: 15526
 city: Bad Saarow
-street: Marienhöhe
+street: "Marienhöhe"
 housenumber: 3
 phone: "+49 33631 2605"
 opening_hours: "Tu 15:00-18:00; Fr 10:00-18:00; Sa 09:00-12:00"

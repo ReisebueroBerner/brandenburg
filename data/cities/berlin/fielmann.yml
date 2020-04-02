@@ -5,7 +5,7 @@ latitude: 52.450386300000005
 longitude: 13.6243148
 postcode: 12587
 city: Berlin
-street: Bölschestraße
+street: "Bölschestraße"
 housenumber: 114
 phone: ""
 opening_hours: ""

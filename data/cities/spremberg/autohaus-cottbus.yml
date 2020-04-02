@@ -5,7 +5,7 @@ latitude: 51.5595422
 longitude: 14.354844300000002
 postcode: 03130
 city: Spremberg
-street: Otto-von-Guericke-Straße
+street: "Otto-von-Guericke-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

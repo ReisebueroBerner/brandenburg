@@ -5,7 +5,7 @@ latitude: 52.37125210000001
 longitude: 13.1355593
 postcode: 14480
 city: Potsdam
-street: Stern-Center
+street: "Stern-Center"
 housenumber: 1-10
 phone: ""
 opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; PH,Su off"

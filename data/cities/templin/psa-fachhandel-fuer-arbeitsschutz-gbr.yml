@@ -5,7 +5,7 @@ latitude: 53.121231400000006
 longitude: 13.520765
 postcode: 17268
 city: Templin
-street: Prenzlauer Allee
+street: "Prenzlauer Allee"
 housenumber: 46
 phone: "+49 3987 51000"
 opening_hours: "Mo 10:00-12:00,13:00-18:00; Tu-Fr 10:00-18:00; Sa 09:00-11:00; PH off"

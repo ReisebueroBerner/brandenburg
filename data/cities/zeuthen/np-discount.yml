@@ -5,7 +5,7 @@ latitude: 52.3416585
 longitude: 13.6084157
 postcode: 15738
 city: Zeuthen
-street: Forstallee
+street: "Forstallee"
 housenumber: 43b
 phone: "+49 (033762) 188685"
 opening_hours: ""

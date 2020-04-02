@@ -5,7 +5,7 @@ latitude: 52.564716600000004
 longitude: 13.363481
 postcode: 13409
 city: Berlin
-street: Residenzstraße
+street: "Residenzstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

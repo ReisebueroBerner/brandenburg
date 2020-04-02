@@ -5,7 +5,7 @@ latitude: 52.3703736
 longitude: 13.091205500000001
 postcode: 14478
 city: Potsdam
-street: Kuckucksruf
+street: "Kuckucksruf"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.499357
 longitude: 13.3120633
 postcode: 10707
 city: Berlin
-street: Xantener Straße
+street: "Xantener Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

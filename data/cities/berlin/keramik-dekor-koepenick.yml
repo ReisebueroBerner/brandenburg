@@ -5,7 +5,7 @@ latitude: 52.442668100000006
 longitude: 13.576946900000001
 postcode: 12557
 city: Berlin
-street: Kietz
+street: "Kietz"
 housenumber: 14
 phone: "+49 30 65018889"
 opening_hours: "Nach Vereinbarung"

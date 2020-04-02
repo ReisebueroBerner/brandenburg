@@ -5,7 +5,7 @@ latitude: 52.750420500000004
 longitude: 13.2245266
 postcode: 16515
 city: Oranienburg
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

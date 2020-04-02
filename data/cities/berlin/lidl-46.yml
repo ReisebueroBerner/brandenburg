@@ -5,7 +5,7 @@ latitude: 52.4846665
 longitude: 13.461688400000002
 postcode: 12435
 city: Berlin
-street: Kiefholzstraße
+street: "Kiefholzstraße"
 housenumber: 386
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 08:00-21:00"

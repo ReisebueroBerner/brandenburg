@@ -5,7 +5,7 @@ latitude: 52.747864400000005
 longitude: 13.186606900000001
 postcode: 16515
 city: Oranienburg
-street: Germendorfer Dorfstraße
+street: "Germendorfer Dorfstraße"
 housenumber: 37
 phone: "+49 3301 6897560"
 opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"

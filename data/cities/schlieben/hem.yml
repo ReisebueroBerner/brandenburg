@@ -5,7 +5,7 @@ latitude: 51.722613100000004
 longitude: 13.3748962
 postcode: 04936
 city: Schlieben
-street: Herzberger Straße
+street: "Herzberger Straße"
 housenumber: 52
 phone: "+49 35361 80808"
 opening_hours: "24/7"

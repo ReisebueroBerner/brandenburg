@@ -5,7 +5,7 @@ latitude: 51.7500258
 longitude: 14.242536600000001
 postcode: 03099
 city: Kolkwitz
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 151a
 phone: "+49 3541 2613"
 opening_hours: ""

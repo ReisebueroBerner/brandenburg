@@ -5,7 +5,7 @@ latitude: 52.750035000000004
 longitude: 13.218441
 postcode: 16515
 city: Oranienburg
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

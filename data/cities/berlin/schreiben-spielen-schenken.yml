@@ -5,7 +5,7 @@ latitude: 52.4382559
 longitude: 13.2322377
 postcode: 14163
 city: Berlin
-street: Limastraße
+street: "Limastraße"
 housenumber: 1
 phone: "+49 308015871"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.4396409
 longitude: 13.380710500000001
 postcode: 12107
 city: Berlin
-street: Großbeerenstraße
+street: "Großbeerenstraße"
 housenumber: 2
 phone: "+49 30 66709282"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

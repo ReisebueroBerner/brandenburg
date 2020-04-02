@@ -5,7 +5,7 @@ latitude: 52.383195300000004
 longitude: 13.123575500000001
 postcode: 14480
 city: Potsdam
-street: Großbeerenstraße
+street: "Großbeerenstraße"
 housenumber: 208
 phone: "+49 331 621295"
 opening_hours: "Tu-Fr 08:00-18:00; Mo 09:00-15:30; Sa 08:00-12:00"

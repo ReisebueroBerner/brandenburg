@@ -5,7 +5,7 @@ latitude: 52.4895283
 longitude: 13.426339800000001
 postcode: 12047
 city: Berlin
-street: Hobrechtstraße
+street: "Hobrechtstraße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo 11:00-19:00; Tu-Fr 11:00-19:00; Sa 11:00-17:00"

@@ -5,7 +5,7 @@ latitude: 52.5012843
 longitude: 13.424021300000001
 postcode: 10997
 city: Berlin
-street: Naunynstraße
+street: "Naunynstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

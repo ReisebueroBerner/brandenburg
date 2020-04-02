@@ -5,7 +5,7 @@ latitude: 52.4446492
 longitude: 13.3152787
 postcode: 12203
 city: Berlin
-street: Hindenburgdamm
+street: "Hindenburgdamm"
 housenumber: 85a
 phone: "+49 30 8344443"
 opening_hours: "Mo-Sa 08:30-18:30; PH off"

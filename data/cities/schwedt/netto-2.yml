@@ -5,7 +5,7 @@ latitude: 53.0674848
 longitude: 14.2547198
 postcode: 16303
 city: Schwedt
-street: Friedrich-Engels-Straße
+street: "Friedrich-Engels-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

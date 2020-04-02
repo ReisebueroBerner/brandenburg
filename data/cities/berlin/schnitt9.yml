@@ -5,7 +5,7 @@ latitude: 52.471716
 longitude: 13.335792600000001
 postcode: 12159
 city: Berlin
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

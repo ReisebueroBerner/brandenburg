@@ -5,7 +5,7 @@ latitude: 51.868994
 longitude: 13.9672274
 postcode: 03222
 city: Lübbenau/Spreewald
-street: Fischerstraße
+street: "Fischerstraße"
 housenumber: 5
 phone: "+49 3542 43901"
 opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-16:00; Su,PH off"

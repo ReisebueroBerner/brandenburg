@@ -5,7 +5,7 @@ latitude: 52.71791820000001
 longitude: 13.200979400000001
 postcode: 16767
 city: Leegebruch
-street: Am Wall
+street: "Am Wall"
 housenumber: 20
 phone: ""
 opening_hours: ""

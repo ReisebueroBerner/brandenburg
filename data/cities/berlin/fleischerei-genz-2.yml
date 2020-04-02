@@ -5,7 +5,7 @@ latitude: 52.4221006
 longitude: 13.371339800000001
 postcode: 12277
 city: Berlin
-street: Hranitzkystraße
+street: "Hranitzkystraße"
 housenumber: 15
 phone: "+49 30 72320743"
 opening_hours: ""

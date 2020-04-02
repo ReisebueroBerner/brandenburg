@@ -5,7 +5,7 @@ latitude: 52.549005900000004
 longitude: 13.3599879
 postcode: 13347
 city: Berlin
-street: Turiner Straße
+street: "Turiner Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

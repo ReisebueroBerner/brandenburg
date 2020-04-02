@@ -5,7 +5,7 @@ latitude: 52.503030800000005
 longitude: 13.4356948
 postcode: 10997
 city: Berlin
-street: Köpenicker Straße
+street: "Köpenicker Straße"
 housenumber: 180
 phone: "+49 30 616519190"
 opening_hours: ""

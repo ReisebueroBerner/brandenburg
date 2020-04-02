@@ -5,7 +5,7 @@ latitude: 52.526418400000004
 longitude: 13.324697100000002
 postcode: 10553
 city: Berlin
-street: Reuchlinstraße
+street: "Reuchlinstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

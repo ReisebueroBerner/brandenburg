@@ -5,7 +5,7 @@ latitude: 52.563917800000006
 longitude: 13.4039719
 postcode: 13187
 city: Berlin
-street: Florapromenade
+street: "Florapromenade"
 housenumber: 7-8
 phone: "+49 30 91208173"
 opening_hours: "Mo-Fr 08:00-18:00"

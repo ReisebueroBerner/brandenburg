@@ -5,7 +5,7 @@ latitude: 52.455790400000005
 longitude: 13.326163900000001
 postcode: 12169
 city: Berlin
-street: Heesestraße
+street: "Heesestraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

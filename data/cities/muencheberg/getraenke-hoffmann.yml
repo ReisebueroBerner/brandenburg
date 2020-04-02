@@ -5,7 +5,7 @@ latitude: 52.5019299
 longitude: 14.146789100000001
 postcode: 15374
 city: Müncheberg
-street: Ernst-Thälmann-Straße
+street: "Ernst-Thälmann-Straße"
 housenumber: 22
 phone: "+49 33432 747147"
 opening_hours: "Mo-Sa 08:00-20:00"

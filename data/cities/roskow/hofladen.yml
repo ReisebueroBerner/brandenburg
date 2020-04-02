@@ -5,7 +5,7 @@ latitude: 52.46982070000001
 longitude: 12.718570300000001
 postcode: 
 city: Roskow
-street: Schwarzer Weg
+street: "Schwarzer Weg"
 housenumber: 4
 phone: ""
 opening_hours: ""

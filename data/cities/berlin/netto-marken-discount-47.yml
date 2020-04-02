@@ -5,7 +5,7 @@ latitude: 52.592739300000005
 longitude: 13.2862664
 postcode: 13507
 city: Berlin
-street: Buddestraße
+street: "Buddestraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

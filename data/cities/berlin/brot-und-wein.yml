@@ -5,7 +5,7 @@ latitude: 52.4905727
 longitude: 13.368999700000002
 postcode: 10829
 city: Berlin
-street: Hochkirchstraße
+street: "Hochkirchstraße"
 housenumber: 10
 phone: "+49 30 78712226"
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"

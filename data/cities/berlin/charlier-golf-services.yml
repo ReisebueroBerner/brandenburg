@@ -5,7 +5,7 @@ latitude: 52.4997417
 longitude: 13.3666111
 postcode: 10785
 city: Berlin
-street: Kurfürstenstraße
+street: "Kurfürstenstraße"
 housenumber: 13-14
 phone: ""
 opening_hours: ""

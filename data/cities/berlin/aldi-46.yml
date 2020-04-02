@@ -5,7 +5,7 @@ latitude: 52.5574707
 longitude: 13.4114818
 postcode: 13187
 city: Berlin
-street: Esplanade
+street: "Esplanade"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

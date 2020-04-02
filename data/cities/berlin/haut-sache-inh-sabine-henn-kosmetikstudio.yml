@@ -5,7 +5,7 @@ latitude: 52.5905586
 longitude: 13.301669200000001
 postcode: 13509
 city: Berlin
-street: Oeserstraße
+street: "Oeserstraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

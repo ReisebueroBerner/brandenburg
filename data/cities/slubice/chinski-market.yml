@@ -5,7 +5,7 @@ latitude: 52.354509400000005
 longitude: 14.5623564
 postcode: 69-100
 city: Słubice
-street: Wojska Polskiego
+street: "Wojska Polskiego"
 housenumber: 9
 phone: ""
 opening_hours: ""

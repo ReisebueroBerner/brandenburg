@@ -5,7 +5,7 @@ latitude: 53.0154572
 longitude: 13.9944854
 postcode: 16278
 city: Angermünde
-street: Grundmühlenweg
+street: "Grundmühlenweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.5342392
 longitude: 12.3300382
 postcode: 14727
 city: Premnitz
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

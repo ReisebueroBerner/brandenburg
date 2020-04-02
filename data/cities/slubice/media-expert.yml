@@ -5,7 +5,7 @@ latitude: 52.3490733
 longitude: 14.563698500000001
 postcode: 69-100
 city: Słubice
-street: Tadeusza Kościuszki
+street: "Tadeusza Kościuszki"
 housenumber: 23a
 phone: "+48 957582022"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-15:00"

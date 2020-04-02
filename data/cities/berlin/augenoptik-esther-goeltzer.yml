@@ -5,7 +5,7 @@ latitude: 52.494492
 longitude: 13.459810800000001
 postcode: 12435
 city: Berlin
-street: Martin-Hoffmann-Straße
+street: "Martin-Hoffmann-Straße"
 housenumber: 16
 phone: "+49 30 53218241"
 opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-13:00"

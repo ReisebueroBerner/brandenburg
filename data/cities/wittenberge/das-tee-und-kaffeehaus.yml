@@ -5,7 +5,7 @@ latitude: 52.997649700000004
 longitude: 11.7592692
 postcode: 19322
 city: Wittenberge
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-12:30"

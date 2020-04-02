@@ -5,7 +5,7 @@ latitude: 52.5388437
 longitude: 13.5568699
 postcode: 12685
 city: Berlin
-street: Scheibenbergstraße
+street: "Scheibenbergstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

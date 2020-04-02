@@ -5,7 +5,7 @@ latitude: 52.5562344
 longitude: 13.5275323
 postcode: 12681
 city: Berlin
-street: Gehrenseestraße
+street: "Gehrenseestraße"
 housenumber: 43A
 phone: ""
 opening_hours: ""

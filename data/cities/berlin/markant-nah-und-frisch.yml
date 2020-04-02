@@ -5,7 +5,7 @@ latitude: 52.4876067
 longitude: 13.2990759
 postcode: 14199
 city: Berlin
-street: Hohenzollerndamm
+street: "Hohenzollerndamm"
 housenumber: 50a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

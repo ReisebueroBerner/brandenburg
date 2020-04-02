@@ -5,7 +5,7 @@ latitude: 52.398166700000004
 longitude: 13.062799400000001
 postcode: 14467
 city: Potsdam
-street: Am Kanal
+street: "Am Kanal"
 housenumber: 12-14
 phone: "+49 331 2004761"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.0042508
 longitude: 14.589339200000001
 postcode: 03172
 city: Schenkendöbern
-street: Kastanienstraße
+street: "Kastanienstraße"
 housenumber: 24
 phone: "+49 35693 242"
 opening_hours: ""

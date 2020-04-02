@@ -5,7 +5,7 @@ latitude: 52.6724576
 longitude: 13.195861800000001
 postcode: 16727
 city: Velten
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 8a
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"

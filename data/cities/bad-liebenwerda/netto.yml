@@ -5,7 +5,7 @@ latitude: 51.5133468
 longitude: 13.3922226
 postcode: 04924
 city: Bad Liebenwerda
-street: An der Feuerwache
+street: "An der Feuerwache"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.421900400000006
 longitude: 13.2991366
 postcode: 12207
 city: Berlin
-street: Wismarer Straße
+street: "Wismarer Straße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

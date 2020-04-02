@@ -5,7 +5,7 @@ latitude: 52.441889
 longitude: 13.3272829
 postcode: 12247
 city: Berlin
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 3-4
 phone: ""
 opening_hours: ""

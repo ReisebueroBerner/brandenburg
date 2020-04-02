@@ -5,7 +5,7 @@ latitude: 52.53010140000001
 longitude: 13.307226400000001
 postcode: 10589
 city: Berlin
-street: Gaußstraße
+street: "Gaußstraße"
 housenumber: 23b
 phone: ""
 opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-15:00"

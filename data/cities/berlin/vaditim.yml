@@ -5,7 +5,7 @@ latitude: 52.500982900000004
 longitude: 13.348325800000001
 postcode: 10787
 city: Berlin
-street: Kleiststraße
+street: "Kleiststraße"
 housenumber: 9-12
 phone: ""
 opening_hours: ""

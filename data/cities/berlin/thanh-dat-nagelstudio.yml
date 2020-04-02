@@ -5,7 +5,7 @@ latitude: 52.51469530000001
 longitude: 13.3053152
 postcode: 10585
 city: Berlin
-street: Thrasoltstraße
+street: "Thrasoltstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-13:00"

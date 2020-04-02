@@ -5,7 +5,7 @@ latitude: 51.9579711
 longitude: 14.708842700000002
 postcode: 03172
 city: Guben
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3A
 phone: ""
 opening_hours: ""

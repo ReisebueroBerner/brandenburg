@@ -5,7 +5,7 @@ latitude: 52.671295300000004
 longitude: 13.569498000000001
 postcode: 16321
 city: Bernau
-street: Krokusstraße
+street: "Krokusstraße"
 housenumber: 14
 phone: "+49 3338 39990"
 opening_hours: ""

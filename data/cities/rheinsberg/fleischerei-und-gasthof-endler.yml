@@ -5,7 +5,7 @@ latitude: 53.0988302
 longitude: 12.8925877
 postcode: 16831
 city: Rheinsberg
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 14
 phone: "+49 33931 2079"
 opening_hours: ""

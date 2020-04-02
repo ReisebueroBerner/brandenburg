@@ -5,7 +5,7 @@ latitude: 52.1879186
 longitude: 12.639148700000002
 postcode: 14806
 city: Bad Belzig
-street: Baitzer Straße
+street: "Baitzer Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

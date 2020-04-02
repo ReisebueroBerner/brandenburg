@@ -5,7 +5,7 @@ latitude: 52.5421825
 longitude: 13.490855400000001
 postcode: 13055
 city: Berlin
-street: Werneuchener Straße
+street: "Werneuchener Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

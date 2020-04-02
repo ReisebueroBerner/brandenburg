@@ -5,7 +5,7 @@ latitude: 51.718466500000005
 longitude: 14.322068600000001
 postcode: 03051
 city: Cottbus
-street: Madlower Chaussee
+street: "Madlower Chaussee"
 housenumber: 4
 phone: "+49 355 4864260"
 opening_hours: "Mo-Sa 08:00-20:00"

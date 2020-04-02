@@ -5,7 +5,7 @@ latitude: 52.4998786
 longitude: 13.3252906
 postcode: 10719
 city: Berlin
-street: Lietzenburger Straße
+street: "Lietzenburger Straße"
 housenumber: 75
 phone: "+493088552902"
 opening_hours: ""

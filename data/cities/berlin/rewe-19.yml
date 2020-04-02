@@ -5,7 +5,7 @@ latitude: 52.56156360000001
 longitude: 13.2138439
 postcode: 13587
 city: Berlin
-street: Rauchstraße
+street: "Rauchstraße"
 housenumber: 56
 phone: "+49 30 33308114"
 opening_hours: "Mo-Sa 07:00-22:00"

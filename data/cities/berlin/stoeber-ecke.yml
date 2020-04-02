@@ -5,7 +5,7 @@ latitude: 52.610773300000005
 longitude: 13.2501245
 postcode: 13503
 city: Berlin
-street: Diakonieweg
+street: "Diakonieweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

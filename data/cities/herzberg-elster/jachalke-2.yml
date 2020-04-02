@@ -5,7 +5,7 @@ latitude: 51.69243530000001
 longitude: 13.236226100000001
 postcode: 04916
 city: Herzberg (Elster)
-street: Schliebener Straße
+street: "Schliebener Straße"
 housenumber: 88
 phone: "+49 3535 6130"
 opening_hours: ""

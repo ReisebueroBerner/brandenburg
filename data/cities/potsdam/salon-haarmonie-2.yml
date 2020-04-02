@@ -5,7 +5,7 @@ latitude: 52.386709
 longitude: 13.103054100000001
 postcode: 14482
 city: Potsdam
-street: Großbeerenstraße
+street: "Großbeerenstraße"
 housenumber: 97
 phone: ""
 opening_hours: "Tu-Fr 08:30-17:00; Sa nach Vereinbarung; PH,Su off"

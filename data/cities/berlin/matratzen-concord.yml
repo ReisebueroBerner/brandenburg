@@ -5,7 +5,7 @@ latitude: 52.56186
 longitude: 13.501996
 postcode: 13053
 city: Berlin
-street: Falkenberger Chaussee
+street: "Falkenberger Chaussee"
 housenumber: 4
 phone: ""
 opening_hours: ""

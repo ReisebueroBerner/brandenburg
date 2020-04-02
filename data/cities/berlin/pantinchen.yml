@@ -5,7 +5,7 @@ latitude: 52.502491000000006
 longitude: 13.430645
 postcode: 10997
 city: Berlin
-street: Pücklerstraße
+street: "Pücklerstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Tu 09:00-12:00,15:00-18:00; We 15:00-18:00; Sa 11:00-15:00"

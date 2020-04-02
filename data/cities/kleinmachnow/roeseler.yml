@@ -5,7 +5,7 @@ latitude: 52.415258
 longitude: 13.2241984
 postcode: 14532
 city: Kleinmachnow
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

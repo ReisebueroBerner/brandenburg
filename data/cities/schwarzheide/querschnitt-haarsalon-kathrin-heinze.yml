@@ -5,7 +5,7 @@ latitude: 51.479891
 longitude: 13.852257100000001
 postcode: 01987
 city: Schwarzheide
-street: Am Bahnhof Wandelhof
+street: "Am Bahnhof Wandelhof"
 housenumber: 11
 phone: "+49 35752 7682"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5977801
 longitude: 13.466605300000001
 postcode: 13129
 city: Berlin
-street: Treseburger Straße
+street: "Treseburger Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"

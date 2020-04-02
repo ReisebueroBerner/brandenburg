@@ -5,7 +5,7 @@ latitude: 52.353615000000005
 longitude: 14.561193000000001
 postcode: 69-100
 city: Słubice
-street: Wojska Polskiego
+street: "Wojska Polskiego"
 housenumber: 167
 phone: "+48 957579217"
 opening_hours: ""

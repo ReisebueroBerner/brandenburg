@@ -5,7 +5,7 @@ latitude: 52.4493498
 longitude: 13.349913
 postcode: 12167
 city: Berlin
-street: Liebenowzeile
+street: "Liebenowzeile"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

@@ -5,7 +5,7 @@ latitude: 52.5792243
 longitude: 13.399558500000001
 postcode: 13156
 city: Berlin
-street: Grabbeallee
+street: "Grabbeallee"
 housenumber: 76-80
 phone: "+4917670589828"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 11:00-14:00"

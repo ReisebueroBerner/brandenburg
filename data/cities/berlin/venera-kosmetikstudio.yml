@@ -5,7 +5,7 @@ latitude: 52.479742900000005
 longitude: 13.3263691
 postcode: 10715
 city: Berlin
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr: 9-18, Sa:8-13"

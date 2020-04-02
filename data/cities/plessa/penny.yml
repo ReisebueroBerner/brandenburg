@@ -5,7 +5,7 @@ latitude: 51.4664231
 longitude: 13.604361500000001
 postcode: 04928
 city: Plessa
-street: Nörvenicher Straße
+street: "Nörvenicher Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 8:00 - 19:00"

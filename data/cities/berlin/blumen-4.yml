@@ -5,7 +5,7 @@ latitude: 52.46216870000001
 longitude: 13.517017200000002
 postcode: 12459
 city: Berlin
-street: Schillerpromenade
+street: "Schillerpromenade"
 housenumber: 6
 phone: ""
 opening_hours: ""

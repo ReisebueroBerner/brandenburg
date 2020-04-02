@@ -5,7 +5,7 @@ latitude: 51.584974
 longitude: 13.241825200000001
 postcode: 04895
 city: Falkenberg/Elster
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

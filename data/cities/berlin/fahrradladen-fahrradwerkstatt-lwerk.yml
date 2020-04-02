@@ -5,7 +5,7 @@ latitude: 52.4853588
 longitude: 13.3169909
 postcode: 10713
 city: Berlin
-street: Wilhelmsaue
+street: "Wilhelmsaue"
 housenumber: 36-38
 phone: "+4930 319802 00"
 opening_hours: ""

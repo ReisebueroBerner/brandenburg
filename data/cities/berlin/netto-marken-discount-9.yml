@@ -5,7 +5,7 @@ latitude: 52.451077500000004
 longitude: 13.385294700000001
 postcode: 12109
 city: Berlin
-street: Mariendorfer Damm
+street: "Mariendorfer Damm"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

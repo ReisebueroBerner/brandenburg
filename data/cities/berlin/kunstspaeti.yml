@@ -5,7 +5,7 @@ latitude: 52.4986125
 longitude: 13.446204300000002
 postcode: 10997
 city: Berlin
-street: Schlesische Straße
+street: "Schlesische Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.719441800000006
 longitude: 14.342969100000001
 postcode: 03050
 city: Cottbus
-street: Gaglower Landstraße
+street: "Gaglower Landstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5526922
 longitude: 13.3616293
 postcode: 13347
 city: Berlin
-street: Oudenarder Straße
+street: "Oudenarder Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 8:00-18:00"

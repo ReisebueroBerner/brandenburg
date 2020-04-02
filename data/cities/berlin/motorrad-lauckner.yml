@@ -5,7 +5,7 @@ latitude: 52.410477
 longitude: 13.2837733
 postcode: 14167
 city: Berlin
-street: Am Stichkanal
+street: "Am Stichkanal"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

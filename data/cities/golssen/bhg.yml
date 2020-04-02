@@ -5,7 +5,7 @@ latitude: 51.972642400000005
 longitude: 13.6048203
 postcode: 15938
 city: Golßen
-street: Straße der Einheit
+street: "Straße der Einheit"
 housenumber: 6
 phone: ""
 opening_hours: ""

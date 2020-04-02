@@ -5,7 +5,7 @@ latitude: 53.1285929
 longitude: 13.489805800000001
 postcode: 17268
 city: Templin
-street: Lychener Straße
+street: "Lychener Straße"
 housenumber: 16
 phone: "+49 3987 2081270"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"

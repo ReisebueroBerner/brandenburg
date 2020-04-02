@@ -5,7 +5,7 @@ latitude: 52.4480632
 longitude: 13.404397900000001
 postcode: 12109
 city: Berlin
-street: Rixdorfer Straße
+street: "Rixdorfer Straße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00"

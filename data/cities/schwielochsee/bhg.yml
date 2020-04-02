@@ -5,7 +5,7 @@ latitude: 52.012488000000005
 longitude: 14.182494
 postcode: 15913
 city: Schwielochsee
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 36
 phone: "+4935478 604"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

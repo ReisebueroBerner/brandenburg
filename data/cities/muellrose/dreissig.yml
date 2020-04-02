@@ -5,7 +5,7 @@ latitude: 52.2457434
 longitude: 14.4138386
 postcode: 15299
 city: Müllrose
-street: Markt
+street: "Markt"
 housenumber: 9
 phone: "+49 33606 71203"
 opening_hours: "Mo-Fr 05:30-18:00; Sa-Su 07:00-18:00"

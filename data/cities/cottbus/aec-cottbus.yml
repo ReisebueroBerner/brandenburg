@@ -5,7 +5,7 @@ latitude: 51.7725152
 longitude: 14.3400256
 postcode: 03044
 city: Cottbus
-street: Gerhart-Hauptmann-Straße
+street: "Gerhart-Hauptmann-Straße"
 housenumber: 
 phone: "+49 355 49486599"
 opening_hours: "Mo-Fr 08:00-18:00"

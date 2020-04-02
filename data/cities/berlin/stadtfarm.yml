@@ -5,7 +5,7 @@ latitude: 52.519981300000005
 longitude: 13.510909100000001
 postcode: 10315
 city: Berlin
-street: Allee der Kosmonauten
+street: "Allee der Kosmonauten"
 housenumber: 16
 phone: "+4930120764907"
 opening_hours: "Mo-Sa 10:00-16:00; Su,PH off"

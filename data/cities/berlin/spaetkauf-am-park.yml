@@ -5,7 +5,7 @@ latitude: 52.4648161
 longitude: 13.5167616
 postcode: 12459
 city: Berlin
-street: Griechische Allee
+street: "Griechische Allee"
 housenumber: 13
 phone: ""
 opening_hours: ""

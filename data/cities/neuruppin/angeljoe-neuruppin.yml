@@ -5,7 +5,7 @@ latitude: 52.9214454
 longitude: 12.785126600000002
 postcode: 16816
 city: Neuruppin
-street: Bütower Weg
+street: "Bütower Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

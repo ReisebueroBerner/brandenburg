@@ -5,7 +5,7 @@ latitude: 52.3371815
 longitude: 14.525491500000001
 postcode: 15234
 city: Frankfurt (Oder)
-street: Damaschkeweg
+street: "Damaschkeweg"
 housenumber: 69
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

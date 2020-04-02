@@ -5,7 +5,7 @@ latitude: 52.523514500000005
 longitude: 12.3119907
 postcode: 14715
 city: Milower Land
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 109
 phone: ""
 opening_hours: ""

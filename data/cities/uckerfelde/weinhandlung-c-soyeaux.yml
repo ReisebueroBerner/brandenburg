@@ -5,7 +5,7 @@ latitude: 53.2463983
 longitude: 13.9448907
 postcode: 17291
 city: Uckerfelde
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

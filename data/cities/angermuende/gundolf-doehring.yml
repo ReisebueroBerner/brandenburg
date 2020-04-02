@@ -5,7 +5,7 @@ latitude: 53.0054359
 longitude: 13.9988124
 postcode: 
 city: Angermünde
-street: Nordring
+street: "Nordring"
 housenumber: 15
 phone: "+49 3331 297700"
 opening_hours: ""

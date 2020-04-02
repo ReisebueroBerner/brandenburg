@@ -5,7 +5,7 @@ latitude: 52.5213904
 longitude: 13.587207900000001
 postcode: 12619
 city: Berlin
-street: Hellersdorfer Straße
+street: "Hellersdorfer Straße"
 housenumber: 77-83
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

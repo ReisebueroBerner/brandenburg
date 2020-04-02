@@ -5,7 +5,7 @@ latitude: 52.487747500000005
 longitude: 13.394219900000001
 postcode: 10965
 city: Berlin
-street: Friesenstraße
+street: "Friesenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

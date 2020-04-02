@@ -5,7 +5,7 @@ latitude: 53.1203567
 longitude: 13.503956200000001
 postcode: 17268
 city: Templin
-street: Heinestraße
+street: "Heinestraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5073135
 longitude: 13.298741300000001
 postcode: 10627
 city: Berlin
-street: Windscheidstraße
+street: "Windscheidstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Th 18:00-20:00;Sa 09:00-13:00; Su off"

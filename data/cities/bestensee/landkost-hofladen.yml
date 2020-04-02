@@ -5,7 +5,7 @@ latitude: 52.224498800000006
 longitude: 13.610197900000001
 postcode: 15741
 city: Bestensee
-street: Motzener Straße
+street: "Motzener Straße"
 housenumber: 111
 phone: "+4933763790"
 opening_hours: "Mo-Fr 08:00-16:30"

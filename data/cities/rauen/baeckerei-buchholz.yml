@@ -5,7 +5,7 @@ latitude: 52.329512
 longitude: 14.026244400000001
 postcode: 15518
 city: Rauen
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

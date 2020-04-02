@@ -5,7 +5,7 @@ latitude: 52.540893700000005
 longitude: 13.5705272
 postcode: 12685
 city: Berlin
-street: Blumberger Damm
+street: "Blumberger Damm"
 housenumber: 86
 phone: "+49 30 5436253"
 opening_hours: ""

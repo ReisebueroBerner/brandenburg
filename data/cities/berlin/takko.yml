@@ -5,7 +5,7 @@ latitude: 52.4331344
 longitude: 13.536068
 postcode: 
 city: Berlin
-street: Rudower Chaussee
+street: "Rudower Chaussee"
 housenumber: 12
 phone: "+49 30 679892615"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.397599500000005
 longitude: 13.3915836
 postcode: 12307
 city: Berlin
-street: Nuthestraße
+street: "Nuthestraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

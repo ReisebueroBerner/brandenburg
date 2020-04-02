@@ -5,7 +5,7 @@ latitude: 52.4916744
 longitude: 13.414356100000001
 postcode: 10967
 city: Berlin
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 133
 phone: ""
 opening_hours: ""

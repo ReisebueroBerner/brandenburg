@@ -5,7 +5,7 @@ latitude: 52.4869519
 longitude: 13.524985200000001
 postcode: 10318
 city: Berlin
-street: Marksburgstraße
+street: "Marksburgstraße"
 housenumber: 43
 phone: "+493050154555"
 opening_hours: "Mo 13:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-14:00"

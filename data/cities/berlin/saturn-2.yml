@@ -5,7 +5,7 @@ latitude: 52.598875400000004
 longitude: 13.354211800000002
 postcode: 13439
 city: Berlin
-street: Senftenberger Ring
+street: "Senftenberger Ring"
 housenumber: 15-17
 phone: ""
 opening_hours: ""

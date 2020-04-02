@@ -5,7 +5,7 @@ latitude: 52.5542396
 longitude: 13.103338800000001
 postcode: 14612
 city: Falkensee
-street: Straße der Einheit
+street: "Straße der Einheit"
 housenumber: 130
 phone: ""
 opening_hours: ""

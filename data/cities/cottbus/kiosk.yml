@@ -5,7 +5,7 @@ latitude: 51.762999
 longitude: 14.3470457
 postcode: 03042
 city: Cottbus
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

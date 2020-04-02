@@ -5,7 +5,7 @@ latitude: 52.5636324
 longitude: 13.7242069
 postcode: 15345
 city: Altlandsberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 35
 phone: "+49 33438 60416"
 opening_hours: "Mo-Fr 08:30-17:00"

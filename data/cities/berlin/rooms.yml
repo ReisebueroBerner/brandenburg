@@ -5,7 +5,7 @@ latitude: 52.468838600000005
 longitude: 13.366472400000001
 postcode: 10829
 city: Berlin
-street: Sachsendamm
+street: "Sachsendamm"
 housenumber: 47
 phone: "+49 30 75687190"
 opening_hours: ""

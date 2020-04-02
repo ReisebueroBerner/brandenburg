@@ -5,7 +5,7 @@ latitude: 51.7663972
 longitude: 14.3335416
 postcode: 03044
 city: Cottbus
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 7
 phone: "+49 355 4944323"
 opening_hours: "Mo-Fr 08:00-18:00"

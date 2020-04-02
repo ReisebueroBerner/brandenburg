@@ -5,7 +5,7 @@ latitude: 52.4674829
 longitude: 13.4319816
 postcode: 12051
 city: Berlin
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 158
 phone: ""
 opening_hours: ""

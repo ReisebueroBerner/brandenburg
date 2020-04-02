@@ -5,7 +5,7 @@ latitude: 52.487307200000004
 longitude: 13.4254026
 postcode: 10967
 city: Berlin
-street: Hermannplatz
+street: "Hermannplatz"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.9796326
 longitude: 14.290934600000002
 postcode: 15868
 city: Lieberose
-street: Thälmannstraße
+street: "Thälmannstraße"
 housenumber: 31
 phone: "+4933671 327067"
 opening_hours: "Mo-Fr 08:00-17:00"

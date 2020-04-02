@@ -5,7 +5,7 @@ latitude: 52.5653888
 longitude: 13.3218788
 postcode: 13405
 city: Berlin
-street: Scharnweberstraße
+street: "Scharnweberstraße"
 housenumber: 118
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 07:00-14:00"

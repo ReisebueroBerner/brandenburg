@@ -5,7 +5,7 @@ latitude: 52.554547400000004
 longitude: 13.406168300000001
 postcode: 10439
 city: Berlin
-street: Bornholmer Straße
+street: "Bornholmer Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

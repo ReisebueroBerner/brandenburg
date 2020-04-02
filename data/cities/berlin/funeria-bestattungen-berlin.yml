@@ -5,7 +5,7 @@ latitude: 52.516027900000005
 longitude: 13.4124938
 postcode: 10179
 city: Berlin
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 62
 phone: "+49 30 398202070"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.524720800000004
 longitude: 13.309413600000001
 postcode: 10589
 city: Berlin
-street: Nordhauser Straße
+street: "Nordhauser Straße"
 housenumber: 8
 phone: ""
 opening_hours: "06:30-21:00"

@@ -5,7 +5,7 @@ latitude: 51.783596200000005
 longitude: 14.320838700000001
 postcode: 03044
 city: Cottbus
-street: Krennewitzer Straße
+street: "Krennewitzer Straße"
 housenumber: 8
 phone: "+49 355 878320"
 opening_hours: ""

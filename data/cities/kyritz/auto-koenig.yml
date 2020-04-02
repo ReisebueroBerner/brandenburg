@@ -5,7 +5,7 @@ latitude: 52.942880300000006
 longitude: 12.4033574
 postcode: 16866
 city: Kyritz
-street: Nußbaumweg
+street: "Nußbaumweg"
 housenumber: 19
 phone: "+49 33971 87280"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.508174000000004
 longitude: 13.374633000000001
 postcode: 10785
 city: Berlin
-street: Alte Potsdamer Straße
+street: "Alte Potsdamer Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 09:00-21:00"

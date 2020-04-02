@@ -5,7 +5,7 @@ latitude: 51.7258087
 longitude: 14.3354598
 postcode: 03050
 city: Cottbus
-street: Kleiststraße
+street: "Kleiststraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00"

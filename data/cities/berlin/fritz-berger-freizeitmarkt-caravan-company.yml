@@ -5,7 +5,7 @@ latitude: 52.4208945
 longitude: 13.3147585
 postcode: 12207
 city: Berlin
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

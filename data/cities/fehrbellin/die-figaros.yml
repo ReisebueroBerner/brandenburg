@@ -5,7 +5,7 @@ latitude: 52.8134275
 longitude: 12.7652791
 postcode: 16833
 city: Fehrbellin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 66
 phone: "+49 3 39 32 7 02 95"
 opening_hours: "Mo,Sa 08:00-13:00; Tu-Fr 08:00-18:00"

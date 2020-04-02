@@ -5,7 +5,7 @@ latitude: 52.5592483
 longitude: 13.3709153
 postcode: 13409
 city: Berlin
-street: Residenzstraße
+street: "Residenzstraße"
 housenumber: 89
 phone: "+49 30 4922677"
 opening_hours: ""

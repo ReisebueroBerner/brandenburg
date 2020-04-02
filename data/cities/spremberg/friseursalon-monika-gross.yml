@@ -5,7 +5,7 @@ latitude: 51.570812000000004
 longitude: 14.376633300000002
 postcode: 03130
 city: Spremberg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 16
 phone: "+49 3563 96995"
 opening_hours: ""

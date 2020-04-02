@@ -5,7 +5,7 @@ latitude: 52.9550604
 longitude: 11.947226
 postcode: 19336
 city: Bad Wilsnack
-street: Große Straße
+street: "Große Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

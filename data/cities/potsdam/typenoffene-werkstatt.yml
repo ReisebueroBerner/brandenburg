@@ -5,7 +5,7 @@ latitude: 52.3875959
 longitude: 13.0799687
 postcode: 14473
 city: Potsdam
-street: Schlaatzweg
+street: "Schlaatzweg"
 housenumber: 5
 phone: "+49 331 5505633"
 opening_hours: "Mo-Fr 07:00-18:00; PH off"

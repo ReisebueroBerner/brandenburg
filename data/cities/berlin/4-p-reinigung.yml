@@ -5,7 +5,7 @@ latitude: 52.5013878
 longitude: 13.424034800000001
 postcode: 10997
 city: Berlin
-street: Mariannenstraße
+street: "Mariannenstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

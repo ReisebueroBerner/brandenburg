@@ -5,7 +5,7 @@ latitude: 52.511886600000004
 longitude: 13.4552469
 postcode: 10245
 city: Berlin
-street: Grünberger Straße
+street: "Grünberger Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

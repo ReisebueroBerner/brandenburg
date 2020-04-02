@@ -5,7 +5,7 @@ latitude: 52.5433456
 longitude: 13.3782326
 postcode: 13357
 city: Berlin
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 43
 phone: "+49 30 41 95 39 70"
 opening_hours: ""

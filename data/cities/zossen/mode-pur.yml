@@ -5,7 +5,7 @@ latitude: 52.1669415
 longitude: 13.471570700000001
 postcode: 15806
 city: Zossen
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 30-32
 phone: "+49 33702 65874"
 opening_hours: ""

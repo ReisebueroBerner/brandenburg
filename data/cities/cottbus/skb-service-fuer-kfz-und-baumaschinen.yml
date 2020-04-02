@@ -5,7 +5,7 @@ latitude: 51.7849761
 longitude: 14.3314728
 postcode: 03044
 city: Cottbus
-street: Walther-Rathenau-Straße
+street: "Walther-Rathenau-Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

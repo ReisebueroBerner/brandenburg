@@ -5,7 +5,7 @@ latitude: 52.4606915
 longitude: 13.384571200000002
 postcode: 12099
 city: Berlin
-street: Tempelhofer Damm
+street: "Tempelhofer Damm"
 housenumber: 182/184
 phone: "+49 30 7526047"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

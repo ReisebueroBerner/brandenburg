@@ -5,7 +5,7 @@ latitude: 52.8394344
 longitude: 13.7701264
 postcode: 16227
 city: Eberswalde
-street: Eberswalder Straße
+street: "Eberswalder Straße"
 housenumber: 4
 phone: "+493334279410"
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"

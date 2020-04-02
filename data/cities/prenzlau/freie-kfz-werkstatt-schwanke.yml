@@ -5,7 +5,7 @@ latitude: 53.3147889
 longitude: 13.8622589
 postcode: 17291
 city: Prenzlau
-street: Baustraße
+street: "Baustraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

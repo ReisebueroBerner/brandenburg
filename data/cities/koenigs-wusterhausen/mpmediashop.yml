@@ -5,7 +5,7 @@ latitude: 52.30158
 longitude: 13.6296333
 postcode: 15711
 city: Königs Wusterhausen
-street: Weg am Krankenhaus
+street: "Weg am Krankenhaus"
 housenumber: 1
 phone: ""
 opening_hours: ""

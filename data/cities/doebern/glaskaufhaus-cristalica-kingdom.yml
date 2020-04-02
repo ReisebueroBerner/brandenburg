@@ -5,7 +5,7 @@ latitude: 51.623203000000004
 longitude: 14.589456
 postcode: 03159
 city: Döbern
-street: Forster Straße
+street: "Forster Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

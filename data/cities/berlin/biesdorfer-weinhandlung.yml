@@ -5,7 +5,7 @@ latitude: 52.525463
 longitude: 13.552786000000001
 postcode: 12683
 city: Berlin
-street: Otto-Nagel-Straße
+street: "Otto-Nagel-Straße"
 housenumber: 84a
 phone: ""
 opening_hours: ""

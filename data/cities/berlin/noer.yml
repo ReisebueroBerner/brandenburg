@@ -5,7 +5,7 @@ latitude: 52.498833600000005
 longitude: 13.44238
 postcode: 10997
 city: Berlin
-street: Falckensteinstraße
+street: "Falckensteinstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

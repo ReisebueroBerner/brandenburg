@@ -5,7 +5,7 @@ latitude: 52.9978695
 longitude: 11.758980800000002
 postcode: 19322
 city: Wittenberge
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 20a
 phone: ""
 opening_hours: ""

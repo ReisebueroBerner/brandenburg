@@ -5,7 +5,7 @@ latitude: 52.439036900000005
 longitude: 13.272584400000001
 postcode: 14169
 city: Berlin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 49a
 phone: ""
 opening_hours: ""

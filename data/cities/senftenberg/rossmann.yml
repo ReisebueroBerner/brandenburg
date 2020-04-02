@@ -5,7 +5,7 @@ latitude: 51.5171111
 longitude: 14.0030485
 postcode: 01968
 city: Senftenberg
-street: Am Neumarkt
+street: "Am Neumarkt"
 housenumber: 2-4
 phone: "+49 3573 148223"
 opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"

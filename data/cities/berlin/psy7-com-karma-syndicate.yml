@@ -5,7 +5,7 @@ latitude: 52.522057600000004
 longitude: 13.4510816
 postcode: 10249
 city: Berlin
-street: Petersburger Straße
+street: "Petersburger Straße"
 housenumber: 47
 phone: "+49 800 7777723"
 opening_hours: "Mo-Fr 13:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.574594600000005
 longitude: 12.976779800000001
 postcode: 14656
 city: Brieselang
-street: Pappelallee
+street: "Pappelallee"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

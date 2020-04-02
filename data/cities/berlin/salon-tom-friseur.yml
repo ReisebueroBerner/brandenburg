@@ -5,7 +5,7 @@ latitude: 52.417541
 longitude: 13.5286644
 postcode: 12524
 city: Berlin
-street: Wegedornstraße
+street: "Wegedornstraße"
 housenumber: 105
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"

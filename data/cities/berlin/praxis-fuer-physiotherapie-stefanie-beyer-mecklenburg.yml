@@ -5,7 +5,7 @@ latitude: 52.547612
 longitude: 13.365336000000001
 postcode: 13347
 city: Berlin
-street: Prinz-Eugen-Straße
+street: "Prinz-Eugen-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.081851300000004
 longitude: 13.9575545
 postcode: 
 city: Angermünde
-street: Schöne Aussicht
+street: "Schöne Aussicht"
 housenumber: 3
 phone: "+49 33334 260"
 opening_hours: ""

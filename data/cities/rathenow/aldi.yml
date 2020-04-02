@@ -5,7 +5,7 @@ latitude: 52.618404600000005
 longitude: 12.351010700000002
 postcode: 14712
 city: Rathenow
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

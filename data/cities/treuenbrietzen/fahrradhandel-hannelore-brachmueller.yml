@@ -5,7 +5,7 @@ latitude: 52.0888367
 longitude: 12.8536389
 postcode: 14929
 city: Treuenbrietzen
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 45A
 phone: "+49 33748 70257"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

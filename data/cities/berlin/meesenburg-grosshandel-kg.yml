@@ -5,7 +5,7 @@ latitude: 52.507173
 longitude: 13.429658000000002
 postcode: 10997
 city: Berlin
-street: Köpenicker Straße
+street: "Köpenicker Straße"
 housenumber: 26-29
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-15:00; Su,PH off"

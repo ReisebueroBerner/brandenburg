@@ -5,7 +5,7 @@ latitude: 52.5290637
 longitude: 13.397754500000001
 postcode: 10115
 city: Berlin
-street: Ackerstraße
+street: "Ackerstraße"
 housenumber: 1a
 phone: "+49 30 2007 6424"
 opening_hours: "Mo-Fr 09:00-18:00"

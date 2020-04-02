@@ -5,7 +5,7 @@ latitude: 52.524934
 longitude: 13.410133
 postcode: 10178
 city: Berlin
-street: Rosa-Luxemburg-Straße
+street: "Rosa-Luxemburg-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30"

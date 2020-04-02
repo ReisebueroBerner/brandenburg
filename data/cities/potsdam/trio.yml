@@ -5,7 +5,7 @@ latitude: 52.4013289
 longitude: 13.0576197
 postcode: 14467
 city: Potsdam
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Fr 08:15-21:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 52.5114608
 longitude: 13.461033400000002
 postcode: 10245
 city: Berlin
-street: Gärtnerstraße
+street: "Gärtnerstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1623753
 longitude: 12.483174700000001
 postcode: 16909
 city: Wittstock/Dosse
-street: Poststraße
+street: "Poststraße"
 housenumber: 18
 phone: "03394-433642"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 07:00-11:00"

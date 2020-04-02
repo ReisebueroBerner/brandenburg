@@ -5,7 +5,7 @@ latitude: 52.60586
 longitude: 12.8765122
 postcode: 14641
 city: Nauen
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 4c
 phone: "+49 3321 455461"
 opening_hours: "Mo-Fr 09:00-18:00"

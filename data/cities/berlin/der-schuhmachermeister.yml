@@ -5,7 +5,7 @@ latitude: 52.4868777
 longitude: 13.358379800000002
 postcode: 10827
 city: Berlin
-street: Crellestraße
+street: "Crellestraße"
 housenumber: 3-4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"

@@ -5,7 +5,7 @@ latitude: 52.3693876
 longitude: 13.1288388
 postcode: 14480
 city: Potsdam
-street: Zum Kirchsteigfeld
+street: "Zum Kirchsteigfeld"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; PH off"

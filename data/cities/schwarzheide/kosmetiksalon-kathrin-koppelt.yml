@@ -5,7 +5,7 @@ latitude: 51.483420100000004
 longitude: 13.8404322
 postcode: 01987
 city: Schwarzheide
-street: Ruhlander Straße
+street: "Ruhlander Straße"
 housenumber: 150
 phone: "+49 35752 7635"
 opening_hours: ""

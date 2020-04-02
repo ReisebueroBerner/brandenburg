@@ -5,7 +5,7 @@ latitude: 52.469058000000004
 longitude: 13.4487763
 postcode: 12055
 city: Berlin
-street: Lahnstraße
+street: "Lahnstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

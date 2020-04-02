@@ -5,7 +5,7 @@ latitude: 52.537911400000006
 longitude: 13.405840000000001
 postcode: 10435
 city: Berlin
-street: Schwedter Straße
+street: "Schwedter Straße"
 housenumber: 37
 phone: "+49-30-41764991"
 opening_hours: "Mo-Sa 10:00-20:00; We off; Su 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.6382441
 longitude: 13.2049602
 postcode: 16761
 city: Hennigsdorf
-street: Poststraße
+street: "Poststraße"
 housenumber: 3
 phone: "+49 3302 209495"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5004889
 longitude: 13.354215
 postcode: 10787
 city: Berlin
-street: Karl-Heinrich-Ulrichs-Straße
+street: "Karl-Heinrich-Ulrichs-Straße"
 housenumber: 4
 phone: "+49 30 26557101"
 opening_hours: ""

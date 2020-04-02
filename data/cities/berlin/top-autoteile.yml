@@ -5,7 +5,7 @@ latitude: 52.457506900000006
 longitude: 13.392154000000001
 postcode: 12099
 city: Berlin
-street: Ordensmeisterstraße
+street: "Ordensmeisterstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

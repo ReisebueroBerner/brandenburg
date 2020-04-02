@@ -5,7 +5,7 @@ latitude: 52.6166099
 longitude: 13.307423900000002
 postcode: 13467
 city: Berlin
-street: Heinsestraße
+street: "Heinsestraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-13:00"

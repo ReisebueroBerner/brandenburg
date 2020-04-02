@@ -5,7 +5,7 @@ latitude: 52.4386779
 longitude: 13.2620906
 postcode: 14169
 city: Berlin
-street: Clayallee
+street: "Clayallee"
 housenumber: 321
 phone: "+49 30 802 40 98"
 opening_hours: "Mo-We 09:00-18:00, Th 09:00-19:00, Fr 09:00-18:00, Sa 08:00-15:00"

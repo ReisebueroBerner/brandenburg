@@ -5,7 +5,7 @@ latitude: 52.4033321
 longitude: 13.5077669
 postcode: 12355
 city: Berlin
-street: Lieselotte-Berger-Straße
+street: "Lieselotte-Berger-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

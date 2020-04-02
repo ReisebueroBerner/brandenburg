@@ -5,7 +5,7 @@ latitude: 52.3771719
 longitude: 13.1292532
 postcode: 14480
 city: Potsdam
-street: Neuendorfer Straße
+street: "Neuendorfer Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"

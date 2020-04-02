@@ -5,7 +5,7 @@ latitude: 52.550349100000005
 longitude: 13.5788253
 postcode: 12679
 city: Berlin
-street: Brodowiner Ring
+street: "Brodowiner Ring"
 housenumber: 8
 phone: ""
 opening_hours: ""

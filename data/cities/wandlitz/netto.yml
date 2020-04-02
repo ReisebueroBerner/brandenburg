@@ -5,7 +5,7 @@ latitude: 52.7166505
 longitude: 13.437739200000001
 postcode: 16348
 city: Wandlitz
-street: Fontanestraße
+street: "Fontanestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

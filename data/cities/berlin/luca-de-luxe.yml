@@ -5,7 +5,7 @@ latitude: 52.49896450000001
 longitude: 13.322644500000001
 postcode: 10719
 city: Berlin
-street: Pfalzburger Straße
+street: "Pfalzburger Straße"
 housenumber: 5
 phone: "+49 30 50919982"
 opening_hours: ""

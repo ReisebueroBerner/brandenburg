@@ -5,7 +5,7 @@ latitude: 52.531248700000006
 longitude: 13.3521073
 postcode: 10559
 city: Berlin
-street: Rathenower Straße
+street: "Rathenower Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-14:30"

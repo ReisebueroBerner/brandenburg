@@ -5,7 +5,7 @@ latitude: 52.5247864
 longitude: 13.405338200000001
 postcode: 10178
 city: Berlin
-street: Neue Schönhauser Straße
+street: "Neue Schönhauser Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

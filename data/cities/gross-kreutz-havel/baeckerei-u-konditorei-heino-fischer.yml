@@ -5,7 +5,7 @@ latitude: 52.45452
 longitude: 12.8132341
 postcode: 14550
 city: Groß Kreutz (Havel)
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 47
 phone: "+49 33207 50977"
 opening_hours: "Mo 06:30-11:00; Tu-Fr 06:30-13:00; Sa 06:30-11:00"

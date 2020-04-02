@@ -5,7 +5,7 @@ latitude: 52.459715800000005
 longitude: 13.382309000000001
 postcode: 12103
 city: Berlin
-street: Kaiserin-Augusta-Straße
+street: "Kaiserin-Augusta-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-16:00"

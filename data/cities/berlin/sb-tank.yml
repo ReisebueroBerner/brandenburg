@@ -5,7 +5,7 @@ latitude: 52.462723600000004
 longitude: 13.3669726
 postcode: 12103
 city: Berlin
-street: Bessemerstraße
+street: "Bessemerstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

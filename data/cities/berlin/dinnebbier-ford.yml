@@ -5,7 +5,7 @@ latitude: 52.4792453
 longitude: 13.307898000000002
 postcode: 14199
 city: Berlin
-street: Forckenbeckstraße
+street: "Forckenbeckstraße"
 housenumber: 94
 phone: ""
 opening_hours: ""

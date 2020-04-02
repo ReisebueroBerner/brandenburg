@@ -5,7 +5,7 @@ latitude: 52.284721000000005
 longitude: 13.5395201
 postcode: 15749
 city: Mittenwalde
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 13:00-19:00; Tu-Fr 08:00-19:00; Sa 07:00-12:00"

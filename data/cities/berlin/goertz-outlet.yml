@@ -5,7 +5,7 @@ latitude: 52.505330300000004
 longitude: 13.618475400000001
 postcode: 12623
 city: Berlin
-street: Alt-Mahlsdorf
+street: "Alt-Mahlsdorf"
 housenumber: 44
 phone: ""
 opening_hours: ""

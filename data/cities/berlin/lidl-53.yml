@@ -5,7 +5,7 @@ latitude: 52.535665900000005
 longitude: 13.352977000000001
 postcode: 10559
 city: Berlin
-street: Quitzowstraße
+street: "Quitzowstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

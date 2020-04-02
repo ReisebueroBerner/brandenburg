@@ -5,7 +5,7 @@ latitude: 52.5401006
 longitude: 13.4243646
 postcode: 10405
 city: Berlin
-street: Prenzlauer Allee
+street: "Prenzlauer Allee"
 housenumber: 192
 phone: ""
 opening_hours: ""

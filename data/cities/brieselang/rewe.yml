@@ -5,7 +5,7 @@ latitude: 52.5822092
 longitude: 12.9984534
 postcode: 14656
 city: Brieselang
-street: Haslacher Straße
+street: "Haslacher Straße"
 housenumber: 2
 phone: "+49 33232 22456"
 opening_hours: "Mo-Sa 07:00-22:00"

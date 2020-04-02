@@ -5,7 +5,7 @@ latitude: 52.459073000000004
 longitude: 13.323200900000002
 postcode: 12163
 city: Berlin
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

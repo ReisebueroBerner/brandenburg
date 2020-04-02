@@ -5,7 +5,7 @@ latitude: 51.47067740000001
 longitude: 13.543650300000001
 postcode: 04910
 city: Elsterwerda
-street: Weinberge
+street: "Weinberge"
 housenumber: 16
 phone: ""
 opening_hours: ""

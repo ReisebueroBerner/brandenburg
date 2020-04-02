@@ -5,7 +5,7 @@ latitude: 52.3852641
 longitude: 12.929891000000001
 postcode: 14542
 city: Werder (Havel)
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 156
 phone: ""
 opening_hours: ""

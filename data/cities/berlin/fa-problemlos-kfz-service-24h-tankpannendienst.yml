@@ -5,7 +5,7 @@ latitude: 52.5741779
 longitude: 13.364616400000001
 postcode: 13409
 city: Berlin
-street: Armbrustweg
+street: "Armbrustweg"
 housenumber: 21
 phone: ""
 opening_hours: ""

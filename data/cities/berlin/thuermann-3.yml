@@ -5,7 +5,7 @@ latitude: 52.45902
 longitude: 13.282944
 postcode: 14195
 city: Berlin
-street: Königin-Luise-Straße
+street: "Königin-Luise-Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""

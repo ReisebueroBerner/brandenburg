@@ -5,7 +5,7 @@ latitude: 52.4628741
 longitude: 13.341995800000001
 postcode: 12157
 city: Berlin
-street: Sachsenwaldstraße
+street: "Sachsenwaldstraße"
 housenumber: 30
 phone: "+49 30 7957425"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00"

@@ -5,7 +5,7 @@ latitude: 52.4734203
 longitude: 13.2966593
 postcode: 14199
 city: Berlin
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.5112864
 longitude: 12.7149297
 postcode: 14778
 city: Päwesin
-street: Brandenburger Straße
+street: "Brandenburger Straße"
 housenumber: 15
 phone: "+49 33838 30775"
 opening_hours: "Mo-Fr 07:00-18:00; Sa-Su,PH 07:00-16:00"

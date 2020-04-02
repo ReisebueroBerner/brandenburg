@@ -5,7 +5,7 @@ latitude: 52.919313700000004
 longitude: 12.802587500000001
 postcode: 16816
 city: Neuruppin
-street: Feldmannstraße
+street: "Feldmannstraße"
 housenumber: 18
 phone: "+49 3391 506770"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off"

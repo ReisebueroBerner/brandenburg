@@ -5,7 +5,7 @@ latitude: 52.8339021
 longitude: 13.8068738
 postcode: 16225
 city: Eberswalde
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 76
 phone: "+491727604651"
 opening_hours: "Mo-Th 12:00-18:00; Fr 10:00-14:00"

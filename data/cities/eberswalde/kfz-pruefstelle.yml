@@ -5,7 +5,7 @@ latitude: 52.851443100000004
 longitude: 13.8214915
 postcode: 16225
 city: Eberswalde
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

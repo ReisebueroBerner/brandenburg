@@ -5,7 +5,7 @@ latitude: 52.865512700000004
 longitude: 14.043231700000002
 postcode: 16248
 city: Oderberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 80
 phone: "+49 33369 76760"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-11:00"

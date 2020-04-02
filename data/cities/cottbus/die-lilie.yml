@@ -5,7 +5,7 @@ latitude: 51.7591662
 longitude: 14.334821600000001
 postcode: 03046
 city: Cottbus
-street: Schloßkirchstraße
+street: "Schloßkirchstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

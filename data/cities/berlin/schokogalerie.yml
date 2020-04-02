@@ -5,7 +5,7 @@ latitude: 52.526012800000004
 longitude: 13.398738000000002
 postcode: 10115
 city: Berlin
-street: Große Hamburger Straße
+street: "Große Hamburger Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 11:30-19:30; Sa 11:30-18:30"

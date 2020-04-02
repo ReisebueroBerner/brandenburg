@@ -5,7 +5,7 @@ latitude: 52.5059058
 longitude: 13.465840600000002
 postcode: 10245
 city: Berlin
-street: Sonntagstraße
+street: "Sonntagstraße"
 housenumber: 29
 phone: "+49 30 490 84 833"
 opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-19:00"

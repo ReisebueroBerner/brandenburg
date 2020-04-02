@@ -5,7 +5,7 @@ latitude: 52.519321100000006
 longitude: 13.299166000000001
 postcode: 14059
 city: Berlin
-street: Spandauer Damm
+street: "Spandauer Damm"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 13:00-16:00"

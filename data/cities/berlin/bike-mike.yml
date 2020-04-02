@@ -5,7 +5,7 @@ latitude: 52.474690100000004
 longitude: 13.423585600000001
 postcode: 12049
 city: Berlin
-street: Allerstraße
+street: "Allerstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5591519
 longitude: 13.211989
 postcode: 13587
 city: Berlin
-street: Streitstraße
+street: "Streitstraße"
 housenumber: 18
 phone: "+49 30 36758360"
 opening_hours: ""

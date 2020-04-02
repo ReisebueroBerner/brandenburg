@@ -5,7 +5,7 @@ latitude: 52.5412362
 longitude: 13.411472100000001
 postcode: 10437
 city: Berlin
-street: Eberswalder Straße
+street: "Eberswalder Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 11:00-21:00; Sa 11:00-18:00"

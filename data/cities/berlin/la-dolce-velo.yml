@@ -5,7 +5,7 @@ latitude: 52.4828175
 longitude: 13.3812686
 postcode: 12101
 city: Berlin
-street: Manfred-von-Richthofen-Straße
+street: "Manfred-von-Richthofen-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"

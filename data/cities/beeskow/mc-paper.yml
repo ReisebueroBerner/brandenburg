@@ -5,7 +5,7 @@ latitude: 52.171879000000004
 longitude: 14.246328
 postcode: 15848
 city: Beeskow
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 32-33
 phone: ""
 opening_hours: ""

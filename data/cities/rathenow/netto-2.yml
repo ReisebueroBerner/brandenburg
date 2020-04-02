@@ -5,7 +5,7 @@ latitude: 52.604606700000005
 longitude: 12.3373659
 postcode: 14712
 city: Rathenow
-street: Brandenburger Straße
+street: "Brandenburger Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

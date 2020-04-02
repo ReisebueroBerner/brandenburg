@@ -5,7 +5,7 @@ latitude: 51.51703800000001
 longitude: 13.392949300000002
 postcode: 04924
 city: Bad Liebenwerda
-street: Nordring
+street: "Nordring"
 housenumber: 11g
 phone: ""
 opening_hours: ""

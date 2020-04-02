@@ -5,7 +5,7 @@ latitude: 52.5332993
 longitude: 13.6233398
 postcode: 12627
 city: Berlin
-street: Jänschwalder Straße
+street: "Jänschwalder Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.3886958
 longitude: 13.4098751
 postcode: 12309
 city: Berlin
-street: Alt-Lichtenrade
+street: "Alt-Lichtenrade"
 housenumber: 129
 phone: "+49 30 3453055"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5101013
 longitude: 13.5017875
 postcode: 
 city: Berlin
-street: Einbecker Straße
+street: "Einbecker Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

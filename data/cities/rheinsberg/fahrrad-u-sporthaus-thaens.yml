@@ -5,7 +5,7 @@ latitude: 53.098867500000004
 longitude: 12.8945643
 postcode: 16831
 city: Rheinsberg
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 16
 phone: "+49 33931 2622"
 opening_hours: ""

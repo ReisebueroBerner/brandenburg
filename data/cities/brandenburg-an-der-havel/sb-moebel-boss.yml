@@ -5,7 +5,7 @@ latitude: 52.4154247
 longitude: 12.501238500000001
 postcode: 14770
 city: Brandenburg an der Havel
-street: August-Sonntag-Straße
+street: "August-Sonntag-Straße"
 housenumber: 10
 phone: "+49 3381 799080"
 opening_hours: ""

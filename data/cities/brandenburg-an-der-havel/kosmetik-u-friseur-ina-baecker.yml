@@ -5,7 +5,7 @@ latitude: 52.401411800000005
 longitude: 12.551818800000001
 postcode: 14776
 city: Brandenburg an der Havel
-street: Wilhelmsdorfer Straße
+street: "Wilhelmsdorfer Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

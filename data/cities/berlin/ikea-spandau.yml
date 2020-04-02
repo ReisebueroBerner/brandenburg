@@ -5,7 +5,7 @@ latitude: 52.5288478
 longitude: 13.213269100000002
 postcode: 13597
 city: Berlin
-street: Gewerbehof
+street: "Gewerbehof"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00"

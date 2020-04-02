@@ -5,7 +5,7 @@ latitude: 52.0954563
 longitude: 13.1567901
 postcode: 14943
 city: Luckenwalde
-street: Brandenburger Straße
+street: "Brandenburger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

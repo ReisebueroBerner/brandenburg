@@ -5,7 +5,7 @@ latitude: 53.121048900000005
 longitude: 13.499826500000001
 postcode: 17268
 city: Templin
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

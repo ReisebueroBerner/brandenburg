@@ -5,7 +5,7 @@ latitude: 52.473249800000005
 longitude: 13.327868500000001
 postcode: 12161
 city: Berlin
-street: Friedrich-Wilhelm-Platz
+street: "Friedrich-Wilhelm-Platz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 07:00-15:00"

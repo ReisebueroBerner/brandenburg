@@ -5,7 +5,7 @@ latitude: 52.712139900000004
 longitude: 13.4390861
 postcode: 16348
 city: Wandlitz
-street: Prenzlauer Straße
+street: "Prenzlauer Straße"
 housenumber: 75
 phone: "+49 33397 62152"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

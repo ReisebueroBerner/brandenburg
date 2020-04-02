@@ -5,7 +5,7 @@ latitude: 52.4590912
 longitude: 13.5276066
 postcode: 12459
 city: Berlin
-street: Rathenaustraße
+street: "Rathenaustraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

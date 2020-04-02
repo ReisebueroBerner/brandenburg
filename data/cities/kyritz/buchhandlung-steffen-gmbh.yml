@@ -5,7 +5,7 @@ latitude: 52.9423782
 longitude: 12.397373900000002
 postcode: 16866
 city: Kyritz
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

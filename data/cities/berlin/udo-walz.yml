@@ -5,7 +5,7 @@ latitude: 52.503855800000004
 longitude: 13.325634
 postcode: 10623
 city: Berlin
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 181/183
 phone: ""
 opening_hours: ""

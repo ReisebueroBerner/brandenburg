@@ -5,7 +5,7 @@ latitude: 52.4358367
 longitude: 13.548461300000001
 postcode: 12489
 city: Berlin
-street: Radickestraße
+street: "Radickestraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

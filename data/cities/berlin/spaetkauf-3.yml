@@ -5,7 +5,7 @@ latitude: 52.4864034
 longitude: 13.3563317
 postcode: 10827
 city: Berlin
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

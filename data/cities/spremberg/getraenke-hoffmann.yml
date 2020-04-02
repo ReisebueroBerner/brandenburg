@@ -5,7 +5,7 @@ latitude: 51.568143500000005
 longitude: 14.375625200000002
 postcode: 03130
 city: Spremberg
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

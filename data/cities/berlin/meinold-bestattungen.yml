@@ -5,7 +5,7 @@ latitude: 52.4620199
 longitude: 13.516923
 postcode: 12459
 city: Berlin
-street: Schillerpromenade
+street: "Schillerpromenade"
 housenumber: 6
 phone: "+49 30 53011010"
 opening_hours: ""

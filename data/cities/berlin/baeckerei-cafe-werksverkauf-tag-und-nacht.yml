@@ -5,7 +5,7 @@ latitude: 52.568274200000005
 longitude: 13.5167847
 postcode: 13059
 city: Berlin
-street: Falkenberger Chaussee
+street: "Falkenberger Chaussee"
 housenumber: 97
 phone: "+49 030 92 84 153"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-18:00, Su 06:00-18:00"

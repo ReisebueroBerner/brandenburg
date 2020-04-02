@@ -5,7 +5,7 @@ latitude: 52.4000136
 longitude: 13.047141700000001
 postcode: 14471
 city: Potsdam
-street: Luisenplatz
+street: "Luisenplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo 08:00-17:30; Tu,Th 08:00-17:00; We,Fr 08:00-14:00; PH,Sa,Su off"

@@ -5,7 +5,7 @@ latitude: 52.627228
 longitude: 13.2251474
 postcode: 13503
 city: Berlin
-street: Hennigsdorfer Straße
+street: "Hennigsdorfer Straße"
 housenumber: 167
 phone: ""
 opening_hours: ""

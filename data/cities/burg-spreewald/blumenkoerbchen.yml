@@ -5,7 +5,7 @@ latitude: 51.8318766
 longitude: 14.148861700000001
 postcode: 03096
 city: Burg (Spreewald)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19a
 phone: "+49 35603 61195"
 opening_hours: ""

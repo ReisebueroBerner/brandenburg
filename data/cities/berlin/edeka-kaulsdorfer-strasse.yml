@@ -5,7 +5,7 @@ latitude: 52.475156500000004
 longitude: 13.568062600000001
 postcode: 12621
 city: Berlin
-street: Kaulsdorfer Straße
+street: "Kaulsdorfer Straße"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

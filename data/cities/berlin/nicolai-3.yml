@@ -5,7 +5,7 @@ latitude: 52.4973795
 longitude: 13.5189465
 postcode: 10319
 city: Berlin
-street: Erich-Kurz-Straße
+street: "Erich-Kurz-Straße"
 housenumber: 11a
 phone: ""
 opening_hours: "Mo-Su 09:00-17:00"

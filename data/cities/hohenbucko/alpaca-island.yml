@@ -5,7 +5,7 @@ latitude: 51.764955
 longitude: 13.469944600000002
 postcode: 04936
 city: Hohenbucko
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 46
 phone: "+49 35364 570004"
 opening_hours: ""

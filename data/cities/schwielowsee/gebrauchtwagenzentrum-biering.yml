@@ -5,7 +5,7 @@ latitude: 52.36281090000001
 longitude: 12.9788644
 postcode: 14548
 city: Schwielowsee
-street: Hauffstraße
+street: "Hauffstraße"
 housenumber: 88
 phone: ""
 opening_hours: ""

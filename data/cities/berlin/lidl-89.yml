@@ -5,7 +5,7 @@ latitude: 52.5699485
 longitude: 13.569238200000001
 postcode: 12689
 city: Berlin
-street: Havemannstraße
+street: "Havemannstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

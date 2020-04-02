@@ -5,7 +5,7 @@ latitude: 52.547444000000006
 longitude: 13.405044100000001
 postcode: 10437
 city: Berlin
-street: Ystader Straße
+street: "Ystader Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

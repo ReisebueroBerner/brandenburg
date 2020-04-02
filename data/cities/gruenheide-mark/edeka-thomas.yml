@@ -5,7 +5,7 @@ latitude: 52.426795500000004
 longitude: 13.822962200000001
 postcode: 15537
 city: Grünheide (Mark)
-street: Am Marktplatz
+street: "Am Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4991058
 longitude: 13.429271300000002
 postcode: 10997
 city: Berlin
-street: Skalitzer Straße
+street: "Skalitzer Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

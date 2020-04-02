@@ -5,7 +5,7 @@ latitude: 52.5499614
 longitude: 13.445233400000001
 postcode: 13086
 city: Berlin
-street: Langhansstraße
+street: "Langhansstraße"
 housenumber: 134
 phone: "+49 30 96069710"
 opening_hours: "Tu-Fr 13:00-18:00"

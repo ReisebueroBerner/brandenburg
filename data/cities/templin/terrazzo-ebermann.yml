@@ -5,7 +5,7 @@ latitude: 53.0474164
 longitude: 13.5238463
 postcode: 17268
 city: Templin
-street: Storkower Straße
+street: "Storkower Straße"
 housenumber: 15
 phone: "+49 39882 235"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.550019000000006
 longitude: 13.345755400000002
 postcode: 13351
 city: Berlin
-street: Kameruner Straße
+street: "Kameruner Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"

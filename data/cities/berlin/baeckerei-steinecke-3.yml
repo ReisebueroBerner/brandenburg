@@ -5,7 +5,7 @@ latitude: 52.4187895
 longitude: 13.154129500000002
 postcode: 14109
 city: Berlin
-street: Königstraße
+street: "Königstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

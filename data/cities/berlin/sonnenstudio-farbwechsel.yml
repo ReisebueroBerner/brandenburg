@@ -5,7 +5,7 @@ latitude: 52.4965929
 longitude: 13.3499482
 postcode: 10781
 city: Berlin
-street: Winterfeldtstraße
+street: "Winterfeldtstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

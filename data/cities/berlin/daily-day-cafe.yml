@@ -5,7 +5,7 @@ latitude: 52.487172400000006
 longitude: 13.3541868
 postcode: 
 city: Berlin
-street: Belziger Straße
+street: "Belziger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

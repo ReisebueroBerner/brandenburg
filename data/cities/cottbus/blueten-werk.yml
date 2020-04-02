@@ -5,7 +5,7 @@ latitude: 51.75990710000001
 longitude: 14.3351047
 postcode: 03046
 city: Cottbus
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 14 - 15
 phone: ""
 opening_hours: ""

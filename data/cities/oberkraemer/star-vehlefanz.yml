@@ -5,7 +5,7 @@ latitude: 52.717981300000005
 longitude: 13.100214500000002
 postcode: 16727
 city: Oberkrämer
-street: Burgwall
+street: "Burgwall"
 housenumber: 1
 phone: "+49 3304 254051"
 opening_hours: "06:00-22:00"

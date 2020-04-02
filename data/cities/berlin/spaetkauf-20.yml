@@ -5,7 +5,7 @@ latitude: 52.5127092
 longitude: 13.4588488
 postcode: 10245
 city: Berlin
-street: Boxhagener Straße
+street: "Boxhagener Straße"
 housenumber: 105
 phone: ""
 opening_hours: ""

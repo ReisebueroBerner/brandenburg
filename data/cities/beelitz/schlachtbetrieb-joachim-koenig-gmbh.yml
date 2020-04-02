@@ -5,7 +5,7 @@ latitude: 52.2347862
 longitude: 12.9703484
 postcode: 14547
 city: Beelitz
-street: Nürnbergstraße
+street: "Nürnbergstraße"
 housenumber: 33
 phone: "+49 33204 42264"
 opening_hours: "Tu,Th 08:00-15:00"

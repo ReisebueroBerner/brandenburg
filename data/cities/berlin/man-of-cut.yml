@@ -5,7 +5,7 @@ latitude: 52.5244629
 longitude: 13.338113000000002
 postcode: 10555
 city: Berlin
-street: Bochumer Straße
+street: "Bochumer Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

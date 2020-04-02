@@ -5,7 +5,7 @@ latitude: 52.4969467
 longitude: 13.352407600000001
 postcode: 10781
 city: Berlin
-street: Winterfeldtstraße
+street: "Winterfeldtstraße"
 housenumber: 52
 phone: "+49 30 216 44 25"
 opening_hours: ""

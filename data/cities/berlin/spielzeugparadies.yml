@@ -5,7 +5,7 @@ latitude: 52.489098600000005
 longitude: 13.4500896
 postcode: 12435
 city: Berlin
-street: Wildenbruchstraße
+street: "Wildenbruchstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

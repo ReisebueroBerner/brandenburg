@@ -5,7 +5,7 @@ latitude: 52.498882300000005
 longitude: 13.4402267
 postcode: 10997
 city: Berlin
-street: Oppelner Straße
+street: "Oppelner Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo 13:00-20:00; Tu-Fr 09:00-18:00; Sa 10:00-15:00"

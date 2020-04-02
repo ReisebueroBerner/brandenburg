@@ -5,7 +5,7 @@ latitude: 52.51677
 longitude: 13.305803000000001
 postcode: 10585
 city: Berlin
-street: Behaimstraße
+street: "Behaimstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

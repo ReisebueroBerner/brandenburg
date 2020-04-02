@@ -5,7 +5,7 @@ latitude: 52.4666848
 longitude: 13.9079148
 postcode: 15537
 city: Grünheide (Mark)
-street: Heidekruger Weg
+street: "Heidekruger Weg"
 housenumber: 10
 phone: "+49 33434 46282"
 opening_hours: "Mo-Su 09:00-18:00"

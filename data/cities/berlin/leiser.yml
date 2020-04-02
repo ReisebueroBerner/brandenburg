@@ -5,7 +5,7 @@ latitude: 52.5898381
 longitude: 13.283781500000002
 postcode: 13507
 city: Berlin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 101
 phone: "+493043775040"
 opening_hours: "Mo-Sa 09:30-19:00"

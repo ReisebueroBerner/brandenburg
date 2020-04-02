@@ -5,7 +5,7 @@ latitude: 52.474217200000005
 longitude: 13.4443835
 postcode: 12055
 city: Berlin
-street: Richardplatz
+street: "Richardplatz"
 housenumber: 7
 phone: ""
 opening_hours: "We-Sa 12:00-18:00"

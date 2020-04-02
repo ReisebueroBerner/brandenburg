@@ -5,7 +5,7 @@ latitude: 52.5760942
 longitude: 13.432276700000001
 postcode: 13089
 city: Berlin
-street: Idunastraße
+street: "Idunastraße"
 housenumber: 2
 phone: "+49 30 364033910"
 opening_hours: ""

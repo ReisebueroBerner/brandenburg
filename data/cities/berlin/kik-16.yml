@@ -5,7 +5,7 @@ latitude: 52.565486
 longitude: 13.571279500000001
 postcode: 12689
 city: Berlin
-street: Wittenberger Straße
+street: "Wittenberger Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

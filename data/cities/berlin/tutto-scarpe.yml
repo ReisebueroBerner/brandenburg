@@ -5,7 +5,7 @@ latitude: 52.5858161
 longitude: 13.402905100000002
 postcode: 13156
 city: Berlin
-street: Dietzgenstraße
+street: "Dietzgenstraße"
 housenumber: 56
 phone: "+49 30 47559010"
 opening_hours: ""

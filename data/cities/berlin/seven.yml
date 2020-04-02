@@ -5,7 +5,7 @@ latitude: 52.4598553
 longitude: 13.335147000000001
 postcode: 12169
 city: Berlin
-street: Schönhauser Straße
+street: "Schönhauser Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

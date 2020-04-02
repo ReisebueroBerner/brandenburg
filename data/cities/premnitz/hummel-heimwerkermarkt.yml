@@ -5,7 +5,7 @@ latitude: 52.528424400000006
 longitude: 12.342799800000002
 postcode: 14727
 city: Premnitz
-street: Erich-Weinert-Straße
+street: "Erich-Weinert-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

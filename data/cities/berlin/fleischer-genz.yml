@@ -5,7 +5,7 @@ latitude: 52.5425729
 longitude: 13.5615894
 postcode: 12685
 city: Berlin
-street: Alt-Marzahn
+street: "Alt-Marzahn"
 housenumber: 58
 phone: ""
 opening_hours: ""

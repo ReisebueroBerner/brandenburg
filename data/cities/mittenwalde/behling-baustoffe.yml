@@ -5,7 +5,7 @@ latitude: 52.260067400000004
 longitude: 13.5479342
 postcode: 15749
 city: Mittenwalde
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.489646
 longitude: 13.3560303
 postcode: 10823
 city: Berlin
-street: Grunewaldstraße
+street: "Grunewaldstraße"
 housenumber: 87
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5397734
 longitude: 13.197324900000002
 postcode: 13597
 city: Berlin
-street: Galenstraße
+street: "Galenstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

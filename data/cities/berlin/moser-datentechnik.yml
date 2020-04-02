@@ -5,7 +5,7 @@ latitude: 52.554797400000005
 longitude: 13.3926975
 postcode: 13359
 city: Berlin
-street: Bornholmer Straße
+street: "Bornholmer Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-We,Fr 14:00-20:00; Th 14:00-17:45"

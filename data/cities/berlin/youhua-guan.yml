@@ -5,7 +5,7 @@ latitude: 52.5528957
 longitude: 13.4148747
 postcode: 10439
 city: Berlin
-street: Kuglerstraße
+street: "Kuglerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 11:00-18:00"

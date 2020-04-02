@@ -5,7 +5,7 @@ latitude: 51.738981200000005
 longitude: 14.334265700000001
 postcode: 03050
 city: Cottbus
-street: Dresdener Straße
+street: "Dresdener Straße"
 housenumber: 58/59
 phone: ""
 opening_hours: ""

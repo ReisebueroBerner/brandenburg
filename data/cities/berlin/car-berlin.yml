@@ -5,7 +5,7 @@ latitude: 52.5005545
 longitude: 13.3036822
 postcode: 10629
 city: Berlin
-street: Dahlmannstraße
+street: "Dahlmannstraße"
 housenumber: 14
 phone: "+49 163 6743199"
 opening_hours: "Mo-Fr 8:00-17:00"

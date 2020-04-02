@@ -5,7 +5,7 @@ latitude: 52.41796900000001
 longitude: 13.2852606
 postcode: 14167
 city: Berlin
-street: Goerzallee
+street: "Goerzallee"
 housenumber: 220
 phone: ""
 opening_hours: ""

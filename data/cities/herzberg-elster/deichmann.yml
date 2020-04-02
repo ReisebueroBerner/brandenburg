@@ -5,7 +5,7 @@ latitude: 51.6911873
 longitude: 13.221625300000001
 postcode: 04916
 city: Herzberg (Elster)
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 12
 phone: "+49 3535 248170"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

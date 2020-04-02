@@ -5,7 +5,7 @@ latitude: 52.2429002
 longitude: 13.6338655
 postcode: 15741
 city: Bestensee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: "+49 3376 364788"
 opening_hours: ""

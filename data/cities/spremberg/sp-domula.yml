@@ -5,7 +5,7 @@ latitude: 51.5677924
 longitude: 14.3718403
 postcode: 03130
 city: Spremberg
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

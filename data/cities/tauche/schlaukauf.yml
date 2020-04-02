@@ -5,7 +5,7 @@ latitude: 52.202316100000004
 longitude: 14.113049
 postcode: 15848
 city: Tauche
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

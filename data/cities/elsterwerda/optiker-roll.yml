@@ -5,7 +5,7 @@ latitude: 51.458258400000005
 longitude: 13.523972400000002
 postcode: 04910
 city: Elsterwerda
-street: Am Markt
+street: "Am Markt"
 housenumber: 5
 phone: ""
 opening_hours: ""

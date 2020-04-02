@@ -5,7 +5,7 @@ latitude: 51.759016800000005
 longitude: 14.333320400000002
 postcode: 03046
 city: Cottbus
-street: Spremberger Straße
+street: "Spremberger Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

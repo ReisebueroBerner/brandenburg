@@ -5,7 +5,7 @@ latitude: 52.5288187
 longitude: 13.317796000000001
 postcode: 10553
 city: Berlin
-street: Huttenstraße
+street: "Huttenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

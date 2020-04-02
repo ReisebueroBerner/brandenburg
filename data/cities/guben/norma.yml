@@ -5,7 +5,7 @@ latitude: 51.951269
 longitude: 14.702868200000001
 postcode: 03172
 city: Guben
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 86
 phone: ""
 opening_hours: ""

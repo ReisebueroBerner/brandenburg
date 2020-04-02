@@ -5,7 +5,7 @@ latitude: 51.983434
 longitude: 13.7716145
 postcode: 15910
 city: Schönwald
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 52.5976985
 longitude: 13.3430388
 postcode: 13435
 city: Berlin
-street: Mehrower Zeile
+street: "Mehrower Zeile"
 housenumber: 9
 phone: ""
 opening_hours: "Nur nach telefonischer Vereinbarung."

@@ -5,7 +5,7 @@ latitude: 52.6092858
 longitude: 12.8804914
 postcode: 14641
 city: Nauen
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 7a
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

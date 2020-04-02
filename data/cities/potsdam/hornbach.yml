@@ -5,7 +5,7 @@ latitude: 52.4748749
 longitude: 12.957521100000001
 postcode: 14476
 city: Potsdam
-street: Am Friedrichspark
+street: "Am Friedrichspark"
 housenumber: 101
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su off"

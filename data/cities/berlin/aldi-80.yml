@@ -5,7 +5,7 @@ latitude: 52.470925
 longitude: 13.125105300000001
 postcode: 14089
 city: Berlin
-street: Ritterfelddamm
+street: "Ritterfelddamm"
 housenumber: 200
 phone: ""
 opening_hours: ""

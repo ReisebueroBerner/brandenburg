@@ -5,7 +5,7 @@ latitude: 53.0283066
 longitude: 13.994641000000001
 postcode: 16278
 city: Angermünde
-street: Prenzlauer Straße
+street: "Prenzlauer Straße"
 housenumber: 
 phone: "+49 3331 298614"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-11:00"

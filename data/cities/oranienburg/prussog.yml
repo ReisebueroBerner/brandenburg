@@ -5,7 +5,7 @@ latitude: 52.753693000000005
 longitude: 13.228815800000001
 postcode: 16515
 city: Oranienburg
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 29
 phone: "+49 3301 3440"
 opening_hours: ""

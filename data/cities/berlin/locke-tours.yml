@@ -5,7 +5,7 @@ latitude: 52.4669413
 longitude: 13.3234419
 postcode: 12161
 city: Berlin
-street: Lefèvrestraße
+street: "Lefèvrestraße"
 housenumber: 21
 phone: "+49 30 852 30 30"
 opening_hours: "Sa 10:00-14:00; Mo-Fr 10:00-19:00"

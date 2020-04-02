@@ -5,7 +5,7 @@ latitude: 52.319120500000004
 longitude: 13.2538032
 postcode: 14974
 city: Ludwigsfelde
-street: Adolf-Rohrbach-Straße
+street: "Adolf-Rohrbach-Straße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

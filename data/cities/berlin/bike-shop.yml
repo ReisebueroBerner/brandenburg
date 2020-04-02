@@ -5,7 +5,7 @@ latitude: 52.490325500000004
 longitude: 13.3924263
 postcode: 10961
 city: Berlin
-street: Solmsstraße
+street: "Solmsstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

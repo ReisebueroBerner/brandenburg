@@ -5,7 +5,7 @@ latitude: 52.092521100000006
 longitude: 12.859673500000001
 postcode: 14929
 city: Treuenbrietzen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: "+49 33748 15609"
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-12:00"

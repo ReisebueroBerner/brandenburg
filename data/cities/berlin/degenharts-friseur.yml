@@ -5,7 +5,7 @@ latitude: 52.4766283
 longitude: 13.479572200000002
 postcode: 12437
 city: Berlin
-street: Köpenicker Landstraße
+street: "Köpenicker Landstraße"
 housenumber: 92
 phone: "+495323642"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.552939800000004
 longitude: 13.4052769
 postcode: 10439
 city: Berlin
-street: Paul-Robeson-Straße
+street: "Paul-Robeson-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

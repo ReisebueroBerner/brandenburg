@@ -5,7 +5,7 @@ latitude: 52.399368800000005
 longitude: 13.5461281
 postcode: 12526
 city: Berlin
-street: Grünbergallee
+street: "Grünbergallee"
 housenumber: 274
 phone: ""
 opening_hours: ""

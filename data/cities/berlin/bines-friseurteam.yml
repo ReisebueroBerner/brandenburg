@@ -5,7 +5,7 @@ latitude: 52.5280439
 longitude: 13.388648000000002
 postcode: 10115
 city: Berlin
-street: Novalisstraße
+street: "Novalisstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

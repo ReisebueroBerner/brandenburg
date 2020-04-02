@@ -5,7 +5,7 @@ latitude: 51.585190600000004
 longitude: 13.2443697
 postcode: 04895
 city: Falkenberg/Elster
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 10
 phone: "+49 35365 3000"
 opening_hours: ""

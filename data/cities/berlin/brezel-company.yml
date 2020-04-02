@@ -5,7 +5,7 @@ latitude: 52.499358400000006
 longitude: 13.3483113
 postcode: 10777
 city: Berlin
-street: Kalckreuthstraße
+street: "Kalckreuthstraße"
 housenumber: 16
 phone: "+49 30 6124181"
 opening_hours: "Mo-Su 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.4390511
 longitude: 13.383333700000001
 postcode: 12107
 city: Berlin
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Sa 08:00-15:00"

@@ -5,7 +5,7 @@ latitude: 52.2688884
 longitude: 14.068004100000001
 postcode: 15526
 city: Bad Saarow
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14-16
 phone: "+49 33631 3350"
 opening_hours: ""

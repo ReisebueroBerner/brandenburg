@@ -5,7 +5,7 @@ latitude: 53.013764300000005
 longitude: 13.991050000000001
 postcode: 
 city: Angermünde
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 20
 phone: "+49 3331 32247"
 opening_hours: ""

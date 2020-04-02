@@ -5,7 +5,7 @@ latitude: 52.630546200000005
 longitude: 13.3140718
 postcode: 16548
 city: Glienicke/Nordbahn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

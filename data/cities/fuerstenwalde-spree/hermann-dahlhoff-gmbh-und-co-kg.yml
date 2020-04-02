@@ -5,7 +5,7 @@ latitude: 52.3560839
 longitude: 14.088919200000001
 postcode: 15517
 city: Fürstenwalde/Spree
-street: James-Watt-Straße
+street: "James-Watt-Straße"
 housenumber: 1
 phone: "+49 3361 59140"
 opening_hours: ""

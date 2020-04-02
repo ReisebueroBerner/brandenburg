@@ -5,7 +5,7 @@ latitude: 52.5633561
 longitude: 13.4124379
 postcode: 13189
 city: Berlin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 29
 phone: "+49 30 2929646"
 opening_hours: "Mo-Fr 10:30-19:00, Sa 10:30-15:00"

@@ -5,7 +5,7 @@ latitude: 52.4668824
 longitude: 13.387372800000001
 postcode: 12099
 city: Berlin
-street: Borussiastraße
+street: "Borussiastraße"
 housenumber: 22-26
 phone: "+49 30 75687780"
 opening_hours: ""

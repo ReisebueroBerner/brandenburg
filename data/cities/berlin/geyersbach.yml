@@ -5,7 +5,7 @@ latitude: 52.5491492
 longitude: 13.407414000000001
 postcode: 10437
 city: Berlin
-street: Kopenhagener Straße
+street: "Kopenhagener Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Tu,Fr,Sa 16:00-18:00+"

@@ -5,7 +5,7 @@ latitude: 52.4902857
 longitude: 13.3130258
 postcode: 10713
 city: Berlin
-street: Hohenzollerndamm
+street: "Hohenzollerndamm"
 housenumber: 33
 phone: ""
 opening_hours: ""

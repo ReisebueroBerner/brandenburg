@@ -5,7 +5,7 @@ latitude: 52.923191300000006
 longitude: 12.8036633
 postcode: 16816
 city: Neuruppin
-street: Präsidentenstraße
+street: "Präsidentenstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Fr 08:00-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 51.3884501
 longitude: 13.618002400000002
 postcode: 04932
 city: Hirschfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 35343 219"
 opening_hours: ""

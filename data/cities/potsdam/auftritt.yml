@@ -5,7 +5,7 @@ latitude: 52.3939431
 longitude: 13.091478100000002
 postcode: 14482
 city: Potsdam
-street: Garnstraße
+street: "Garnstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00"

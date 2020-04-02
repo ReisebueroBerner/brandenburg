@@ -5,7 +5,7 @@ latitude: 51.6031994
 longitude: 14.610921600000001
 postcode: 03159
 city: Döbern
-street: Gewerbegebiet Süd
+street: "Gewerbegebiet Süd"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

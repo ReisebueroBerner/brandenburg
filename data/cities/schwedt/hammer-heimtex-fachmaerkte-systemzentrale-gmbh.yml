@@ -5,7 +5,7 @@ latitude: 53.0686601
 longitude: 14.267043900000001
 postcode: 16303
 city: Schwedt
-street: Kaufweg
+street: "Kaufweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

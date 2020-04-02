@@ -5,7 +5,7 @@ latitude: 53.0939581
 longitude: 12.8992707
 postcode: 16831
 city: Rheinsberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 41
 phone: "+49 33931 34029"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.5491612
 longitude: 13.3472623
 postcode: 13351
 city: Berlin
-street: Togostraße
+street: "Togostraße"
 housenumber: 79a
 phone: "+493081705512"
 opening_hours: ""

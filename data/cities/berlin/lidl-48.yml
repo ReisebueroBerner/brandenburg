@@ -5,7 +5,7 @@ latitude: 52.4652578
 longitude: 13.415656700000001
 postcode: 12099
 city: Berlin
-street: Oberlandstraße
+street: "Oberlandstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

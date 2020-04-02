@@ -5,7 +5,7 @@ latitude: 51.818307000000004
 longitude: 14.345145400000002
 postcode: 03054
 city: Cottbus
-street: Am Spreebogen
+street: "Am Spreebogen"
 housenumber: 19
 phone: "+49 355 873912"
 opening_hours: "Sa 07:00-10:30; Su 07:30-10:00"

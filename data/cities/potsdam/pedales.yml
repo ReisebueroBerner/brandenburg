@@ -5,7 +5,7 @@ latitude: 52.3926268
 longitude: 13.0658452
 postcode: 14473
 city: Potsdam
-street: Babelsberger Straße
+street: "Babelsberger Straße"
 housenumber: 16
 phone: "+49331 88719917"
 opening_hours: "Mo-Fr 07:00-19:00, Sa 09:30-19:00"

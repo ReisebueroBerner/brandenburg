@@ -5,7 +5,7 @@ latitude: 52.4933653
 longitude: 13.379331200000001
 postcode: 10963
 city: Berlin
-street: Möckernstraße
+street: "Möckernstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Tu-We 16:00-20:00; Fr 16:00-19:00; Apr-Sep: Sa 12:00-16:00; PH off"

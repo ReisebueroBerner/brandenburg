@@ -5,7 +5,7 @@ latitude: 52.536399700000004
 longitude: 13.415835300000001
 postcode: 10435
 city: Berlin
-street: Wörther Straße
+street: "Wörther Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

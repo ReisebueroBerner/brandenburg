@@ -5,7 +5,7 @@ latitude: 52.43227
 longitude: 12.9121948
 postcode: 14542
 city: Werder
-street: Kirschweg
+street: "Kirschweg"
 housenumber: 8
 phone: "+4933202 70350"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 06:30-11:00"

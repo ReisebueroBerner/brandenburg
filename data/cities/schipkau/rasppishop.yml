@@ -5,7 +5,7 @@ latitude: 51.5175927
 longitude: 13.8998187
 postcode: 01993
 city: Schipkau
-street: Friedrich-Engels-Straße
+street: "Friedrich-Engels-Straße"
 housenumber: 9
 phone: "+49 35754718893"
 opening_hours: ""

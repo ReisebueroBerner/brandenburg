@@ -5,7 +5,7 @@ latitude: 52.530366300000004
 longitude: 13.3925614
 postcode: 10115
 city: Berlin
-street: Schröderstraße
+street: "Schröderstraße"
 housenumber: 14
 phone: ""
 opening_hours: "We-Fr 14:00-19:00, Sa 14:00-18:00"

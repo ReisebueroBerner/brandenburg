@@ -5,7 +5,7 @@ latitude: 52.60564900000001
 longitude: 12.340454800000002
 postcode: 14712
 city: Rathenow
-street: Wilhelm-Külz-Straße
+street: "Wilhelm-Külz-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

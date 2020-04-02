@@ -5,7 +5,7 @@ latitude: 52.4286819
 longitude: 13.543727500000001
 postcode: 12489
 city: Berlin
-street: Am Studio
+street: "Am Studio"
 housenumber: 20d
 phone: ""
 opening_hours: ""

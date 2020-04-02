@@ -5,7 +5,7 @@ latitude: 52.552215800000006
 longitude: 13.366018200000001
 postcode: 13347
 city: Berlin
-street: Liebenwalder Straße
+street: "Liebenwalder Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

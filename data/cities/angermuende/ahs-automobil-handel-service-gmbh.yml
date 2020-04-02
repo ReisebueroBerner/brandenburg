@@ -5,7 +5,7 @@ latitude: 53.0165881
 longitude: 14.0124299
 postcode: 
 city: Angermünde
-street: Schwedter Straße
+street: "Schwedter Straße"
 housenumber: 20
 phone: "+49 3331 267630"
 opening_hours: ""

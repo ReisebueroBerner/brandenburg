@@ -5,7 +5,7 @@ latitude: 52.4581609
 longitude: 13.4228588
 postcode: 12347
 city: Berlin
-street: Tempelhofer Weg
+street: "Tempelhofer Weg"
 housenumber: 12
 phone: ""
 opening_hours: ""

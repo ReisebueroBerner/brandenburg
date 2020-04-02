@@ -5,7 +5,7 @@ latitude: 52.6696242
 longitude: 13.216646200000001
 postcode: 16727
 city: Velten
-street: Havelring
+street: "Havelring"
 housenumber: 12
 phone: "+49 3304 203666"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

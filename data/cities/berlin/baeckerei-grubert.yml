@@ -5,7 +5,7 @@ latitude: 52.510144100000005
 longitude: 13.5174053
 postcode: 10315
 city: Berlin
-street: Alt-Friedrichsfelde
+street: "Alt-Friedrichsfelde"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Fr 06:00-17:00, Sa 06:00-11:00"

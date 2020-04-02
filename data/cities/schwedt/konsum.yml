@@ -5,7 +5,7 @@ latitude: 53.097014300000005
 longitude: 14.2957403
 postcode: 16303
 city: Schwedt
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

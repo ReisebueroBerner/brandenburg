@@ -5,7 +5,7 @@ latitude: 52.5450413
 longitude: 13.499054300000001
 postcode: 13055
 city: Berlin
-street: Große-Leege-Straße
+street: "Große-Leege-Straße"
 housenumber: 12F
 phone: "+49 30/9826323"
 opening_hours: "09:00-21:00"

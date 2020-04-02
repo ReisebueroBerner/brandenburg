@@ -5,7 +5,7 @@ latitude: 52.492409200000004
 longitude: 13.396557600000001
 postcode: 10961
 city: Berlin
-street: Mittenwalder Straße
+street: "Mittenwalder Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5051251
 longitude: 13.392588700000001
 postcode: 10969
 city: Berlin
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 95
 phone: ""
 opening_hours: ""

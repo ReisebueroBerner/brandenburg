@@ -5,7 +5,7 @@ latitude: 52.479762900000004
 longitude: 12.575807300000001
 postcode: 14778
 city: Beetzsee
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

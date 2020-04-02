@@ -5,7 +5,7 @@ latitude: 52.970947100000004
 longitude: 13.7480182
 postcode: 16247
 city: Joachimsthal
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.142186900000006
 longitude: 12.5955784
 postcode: 14806
 city: Bad Belzig
-street: Brücker Landstraße
+street: "Brücker Landstraße"
 housenumber: 1d
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

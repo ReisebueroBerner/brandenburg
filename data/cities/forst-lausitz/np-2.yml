@@ -5,7 +5,7 @@ latitude: 51.727453700000005
 longitude: 14.647476200000002
 postcode: 03149
 city: Forst (Lausitz)
-street: Triebeler Straße
+street: "Triebeler Straße"
 housenumber: 106
 phone: ""
 opening_hours: "07:00-20:00"

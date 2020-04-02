@@ -5,7 +5,7 @@ latitude: 52.5211855
 longitude: 13.347703300000001
 postcode: 10557
 city: Berlin
-street: Bartningallee
+street: "Bartningallee"
 housenumber: 29
 phone: ""
 opening_hours: "May-Sep: Mo-Sa 08:00-19:00; May-Sep: Su,PH 09:00-19:00; Oct-Apr: Mo-Sa 08:00-18:00; Oct-Apr: Su,PH 09:00-18:00"

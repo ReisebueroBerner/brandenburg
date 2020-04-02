@@ -5,7 +5,7 @@ latitude: 52.49513880000001
 longitude: 13.4324329
 postcode: 10999
 city: Berlin
-street: Reichenberger Straße
+street: "Reichenberger Straße"
 housenumber: 120
 phone: ""
 opening_hours: "Mo-Su 12:00-20:00"

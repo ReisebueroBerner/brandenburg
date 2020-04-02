@@ -5,7 +5,7 @@ latitude: 52.860089900000006
 longitude: 14.041146600000001
 postcode: 16248
 city: Oderberg
-street: Freienwalder Straße
+street: "Freienwalder Straße"
 housenumber: 25
 phone: "+49 33369 779999"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-13:00"

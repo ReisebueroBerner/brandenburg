@@ -5,7 +5,7 @@ latitude: 52.139555200000004
 longitude: 12.587355
 postcode: 14806
 city: Bad Belzig
-street: Sandberger Straße
+street: "Sandberger Straße"
 housenumber: 6
 phone: "+49 33841 30301"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"

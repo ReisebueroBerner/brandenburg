@@ -5,7 +5,7 @@ latitude: 52.5158415
 longitude: 12.3087599
 postcode: 14715
 city: Milow
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00"

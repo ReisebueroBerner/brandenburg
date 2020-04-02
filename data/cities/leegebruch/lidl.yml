@@ -5,7 +5,7 @@ latitude: 52.7244765
 longitude: 13.1881497
 postcode: 16767
 city: Leegebruch
-street: Eichenallee
+street: "Eichenallee"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

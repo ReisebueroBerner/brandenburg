@@ -5,7 +5,7 @@ latitude: 52.5455814
 longitude: 13.4108003
 postcode: 10437
 city: Berlin
-street: Milastraße
+street: "Milastraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"

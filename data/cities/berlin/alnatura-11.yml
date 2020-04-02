@@ -5,7 +5,7 @@ latitude: 52.5915551
 longitude: 13.286028600000002
 postcode: 13507
 city: Berlin
-street: Bernstorffstraße
+street: "Bernstorffstraße"
 housenumber: 13a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

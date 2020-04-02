@@ -5,7 +5,7 @@ latitude: 52.542687
 longitude: 13.438272300000001
 postcode: 10409
 city: Berlin
-street: Naugarder Straße
+street: "Naugarder Straße"
 housenumber: 45 II
 phone: ""
 opening_hours: "Mo-Fr 06:30-20:00; Sa-Su 07:00-18:00"

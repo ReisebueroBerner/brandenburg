@@ -5,7 +5,7 @@ latitude: 52.4985701
 longitude: 13.3509802
 postcode: 10777
 city: Berlin
-street: Motzstraße
+street: "Motzstraße"
 housenumber: 9
 phone: "+49 030 23630637"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"

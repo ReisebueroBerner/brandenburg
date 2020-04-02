@@ -5,7 +5,7 @@ latitude: 52.4513813
 longitude: 13.5086057
 postcode: 12487
 city: Berlin
-street: Sterndamm
+street: "Sterndamm"
 housenumber: 33
 phone: "+49 30 32894152"
 opening_hours: ""

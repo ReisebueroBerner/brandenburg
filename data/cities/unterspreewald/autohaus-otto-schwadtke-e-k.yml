@@ -5,7 +5,7 @@ latitude: 52.0825126
 longitude: 13.8720586
 postcode: 15910
 city: Unterspreewald
-street: Leibscher Hauptstraße
+street: "Leibscher Hauptstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:15"

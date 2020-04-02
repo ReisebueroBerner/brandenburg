@@ -5,7 +5,7 @@ latitude: 53.093137500000005
 longitude: 13.4591048
 postcode: 17268
 city: Templin
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 23
 phone: "+49 3987 551801"
 opening_hours: ""

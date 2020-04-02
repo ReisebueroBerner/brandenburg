@@ -5,7 +5,7 @@ latitude: 52.342972100000004
 longitude: 14.5279208
 postcode: 15234
 city: Frankfurt (Oder)
-street: Markendorfer Straße
+street: "Markendorfer Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

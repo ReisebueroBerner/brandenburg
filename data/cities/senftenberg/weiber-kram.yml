@@ -5,7 +5,7 @@ latitude: 51.52181
 longitude: 14.0049047
 postcode: 01968
 city: Senftenberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19
 phone: "+49 3573 148117"
 opening_hours: ""

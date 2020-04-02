@@ -5,7 +5,7 @@ latitude: 52.6277434
 longitude: 12.3506453
 postcode: 14712
 city: Rathenow
-street: Falkenweg
+street: "Falkenweg"
 housenumber: 2-3
 phone: "+49 3385 541910"
 opening_hours: ""

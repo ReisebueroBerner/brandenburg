@@ -5,7 +5,7 @@ latitude: 52.46202520000001
 longitude: 13.435261
 postcode: 12347
 city: Berlin
-street: Wederstraße
+street: "Wederstraße"
 housenumber: 91
 phone: ""
 opening_hours: ""

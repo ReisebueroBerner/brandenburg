@@ -5,7 +5,7 @@ latitude: 52.4184636
 longitude: 13.754747900000002
 postcode: 15537
 city: Erkner
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

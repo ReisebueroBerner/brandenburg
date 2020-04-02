@@ -5,7 +5,7 @@ latitude: 52.5071719
 longitude: 13.3955563
 postcode: 10969
 city: Berlin
-street: Rudi-Dutschke-Straße
+street: "Rudi-Dutschke-Straße"
 housenumber: 6
 phone: "+49 30 25927192"
 opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00"

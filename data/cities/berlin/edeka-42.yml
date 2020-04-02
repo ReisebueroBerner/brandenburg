@@ -5,7 +5,7 @@ latitude: 52.5299667
 longitude: 13.6208656
 postcode: 12627
 city: Berlin
-street: Riesaer Straße
+street: "Riesaer Straße"
 housenumber: 102
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

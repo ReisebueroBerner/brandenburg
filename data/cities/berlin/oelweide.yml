@@ -5,7 +5,7 @@ latitude: 52.5005949
 longitude: 13.364191100000001
 postcode: 10785
 city: Berlin
-street: Pohlstraße
+street: "Pohlstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

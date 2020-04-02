@@ -5,7 +5,7 @@ latitude: 52.160917000000005
 longitude: 12.780845500000002
 postcode: 14822
 city: Linthe
-street: Westfalenstraße
+street: "Westfalenstraße"
 housenumber: 4
 phone: "+49 33844 519210"
 opening_hours: ""

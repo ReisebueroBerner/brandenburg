@@ -5,7 +5,7 @@ latitude: 52.485111700000004
 longitude: 13.3526606
 postcode: 10823
 city: Berlin
-street: Eisenacher Straße
+street: "Eisenacher Straße"
 housenumber: 63
 phone: "+49 30 7829339"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.53552010000001
 longitude: 13.640631800000001
 postcode: 15366
 city: Hoppegarten
-street: Hoppegartener Straße
+street: "Hoppegartener Straße"
 housenumber: 47
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.369579300000005
 longitude: 14.0062072
 postcode: 17291
 city: Schenkenberg
-street: Kleptow
+street: "Kleptow"
 housenumber: 25h
 phone: ""
 opening_hours: "Mo-Fr 07:00-16:00; PH off"

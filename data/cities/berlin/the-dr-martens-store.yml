@@ -5,7 +5,7 @@ latitude: 52.5233866
 longitude: 13.404260800000001
 postcode: 10178
 city: Berlin
-street: Dircksenstraße
+street: "Dircksenstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 11:00-20:00"

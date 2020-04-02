@@ -5,7 +5,7 @@ latitude: 52.401763100000004
 longitude: 13.0572739
 postcode: 14467
 city: Potsdam
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 87
 phone: ""
 opening_hours: ""

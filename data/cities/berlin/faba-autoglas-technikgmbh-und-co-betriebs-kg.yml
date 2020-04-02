@@ -5,7 +5,7 @@ latitude: 52.598032100000005
 longitude: 13.3271873
 postcode: 13437
 city: Berlin
-street: Blomberger Weg
+street: "Blomberger Weg"
 housenumber: 6B
 phone: ""
 opening_hours: ""

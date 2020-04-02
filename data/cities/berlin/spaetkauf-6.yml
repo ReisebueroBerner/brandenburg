@@ -5,7 +5,7 @@ latitude: 52.4699984
 longitude: 13.425431600000001
 postcode: 12051
 city: Berlin
-street: Warthestraße
+street: "Warthestraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

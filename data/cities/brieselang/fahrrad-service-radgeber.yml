@@ -5,7 +5,7 @@ latitude: 52.581675600000004
 longitude: 12.9991713
 postcode: 14656
 city: Brieselang
-street: Am Markt
+street: "Am Markt"
 housenumber: 11
 phone: "+49 33232 39947"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"

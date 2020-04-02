@@ -5,7 +5,7 @@ latitude: 52.7336437
 longitude: 13.244325300000002
 postcode: 16515
 city: Oranienburg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 198
 phone: "+493301-203782"
 opening_hours: ""

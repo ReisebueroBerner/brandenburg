@@ -5,7 +5,7 @@ latitude: 52.5337606
 longitude: 13.476586200000002
 postcode: 13055
 city: Berlin
-street: Landsberger Allee
+street: "Landsberger Allee"
 housenumber: 201
 phone: "+49 30 5591244"
 opening_hours: "Mo-Fr 08:00-16:00"

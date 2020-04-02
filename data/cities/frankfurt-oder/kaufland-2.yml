@@ -5,7 +5,7 @@ latitude: 52.342871
 longitude: 14.546556
 postcode: 15230
 city: Frankfurt (Oder)
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

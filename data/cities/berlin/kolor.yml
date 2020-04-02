@@ -5,7 +5,7 @@ latitude: 52.499846600000005
 longitude: 13.410046800000002
 postcode: 10969
 city: Berlin
-street: Bergfriedstraße
+street: "Bergfriedstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

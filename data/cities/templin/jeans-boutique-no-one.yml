@@ -5,7 +5,7 @@ latitude: 53.119216400000006
 longitude: 13.499596
 postcode: 17268
 city: Templin
-street: Am Markt
+street: "Am Markt"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

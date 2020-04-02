@@ -5,7 +5,7 @@ latitude: 52.492184900000005
 longitude: 13.4248337
 postcode: 12047
 city: Berlin
-street: Sanderstraße
+street: "Sanderstraße"
 housenumber: 8
 phone: "+49 30 61671220"
 opening_hours: ""

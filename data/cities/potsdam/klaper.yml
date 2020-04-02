@@ -5,7 +5,7 @@ latitude: 52.401178200000004
 longitude: 13.0641373
 postcode: 14467
 city: Potsdam
-street: Hebbelstraße
+street: "Hebbelstraße"
 housenumber: 1A
 phone: "+493312413145"
 opening_hours: "Mo-Th 08:00 -17:00;Fr 08:00-13:00"

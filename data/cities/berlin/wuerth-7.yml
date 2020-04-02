@@ -5,7 +5,7 @@ latitude: 52.554293200000004
 longitude: 13.542159100000001
 postcode: 12681
 city: Berlin
-street: Bitterfelder Straße
+street: "Bitterfelder Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 06:30-18:00, Fr 06:30-16:00"

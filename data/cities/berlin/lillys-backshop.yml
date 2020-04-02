@@ -5,7 +5,7 @@ latitude: 52.5309959
 longitude: 13.3312013
 postcode: 10551
 city: Berlin
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

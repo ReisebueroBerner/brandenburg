@@ -5,7 +5,7 @@ latitude: 52.5140399
 longitude: 13.747927
 postcode: 15370
 city: Fredersdorf-Vogelsdorf
-street: Ernst-Thälmann-Straße
+street: "Ernst-Thälmann-Straße"
 housenumber: 28c
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

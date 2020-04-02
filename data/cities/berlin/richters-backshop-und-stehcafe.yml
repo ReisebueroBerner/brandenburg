@@ -5,7 +5,7 @@ latitude: 52.50484590000001
 longitude: 13.357015700000002
 postcode: 10785
 city: Berlin
-street: Lützowstraße
+street: "Lützowstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 06:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.5936606
 longitude: 13.3344026
 postcode: 13437
 city: Berlin
-street: Roedernallee
+street: "Roedernallee"
 housenumber: 86-87
 phone: "+4930 414796 0"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-15:00"

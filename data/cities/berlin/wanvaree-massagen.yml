@@ -5,7 +5,7 @@ latitude: 52.532212900000005
 longitude: 13.388887100000002
 postcode: 10115
 city: Berlin
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 91
 phone: ""
 opening_hours: ""

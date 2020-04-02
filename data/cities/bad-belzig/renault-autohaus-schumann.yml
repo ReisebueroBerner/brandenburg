@@ -5,7 +5,7 @@ latitude: 52.1464517
 longitude: 12.6127754
 postcode: 14806
 city: Bad Belzig
-street: Im Gewerbepark Seedoche
+street: "Im Gewerbepark Seedoche"
 housenumber: 2
 phone: "+49 33841 5880"
 opening_hours: ""

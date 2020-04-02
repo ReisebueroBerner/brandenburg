@@ -5,7 +5,7 @@ latitude: 52.5999046
 longitude: 12.303327300000001
 postcode: 14712
 city: Rathenow
-street: Sandweg
+street: "Sandweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

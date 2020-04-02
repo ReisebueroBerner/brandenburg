@@ -5,7 +5,7 @@ latitude: 51.6464969
 longitude: 14.2379209
 postcode: 03116
 city: Drebkau
-street: Spremberger Straße
+street: "Spremberger Straße"
 housenumber: 8
 phone: "+49 35602 510042"
 opening_hours: "24/7"

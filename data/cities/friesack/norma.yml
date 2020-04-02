@@ -5,7 +5,7 @@ latitude: 52.7453797
 longitude: 12.5808893
 postcode: 14662
 city: Friesack
-street: Hamburger Straße
+street: "Hamburger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

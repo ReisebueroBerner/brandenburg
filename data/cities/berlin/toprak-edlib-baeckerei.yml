@@ -5,7 +5,7 @@ latitude: 52.4869356
 longitude: 13.427260400000002
 postcode: 12047
 city: Berlin
-street: Sonnenallee
+street: "Sonnenallee"
 housenumber: 16
 phone: ""
 opening_hours: ""

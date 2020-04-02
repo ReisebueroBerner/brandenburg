@@ -5,7 +5,7 @@ latitude: 52.4073633
 longitude: 13.440035900000002
 postcode: 12529
 city: Schönefeld
-street: Attilastraße
+street: "Attilastraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

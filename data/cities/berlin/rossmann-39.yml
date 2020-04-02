@@ -5,7 +5,7 @@ latitude: 52.537588400000004
 longitude: 13.605182300000001
 postcode: 12627
 city: Berlin
-street: Stendaler Straße
+street: "Stendaler Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

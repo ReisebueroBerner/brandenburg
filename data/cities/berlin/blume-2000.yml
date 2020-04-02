@@ -5,7 +5,7 @@ latitude: 52.510337500000006
 longitude: 13.271551800000001
 postcode: 14050
 city: Berlin
-street: Lindenallee
+street: "Lindenallee"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su 10:00-13:00"

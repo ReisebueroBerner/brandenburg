@@ -5,7 +5,7 @@ latitude: 52.542875200000005
 longitude: 13.196556800000002
 postcode: 13585
 city: Berlin
-street: Falkenseer Damm
+street: "Falkenseer Damm"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

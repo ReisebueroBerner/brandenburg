@@ -5,7 +5,7 @@ latitude: 53.12476160000001
 longitude: 13.501325900000001
 postcode: 17268
 city: Templin
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00; Su,PH 07:30-18:00"

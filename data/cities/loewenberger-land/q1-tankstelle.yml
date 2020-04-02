@@ -5,7 +5,7 @@ latitude: 52.822286600000005
 longitude: 13.2149335
 postcode: 16775
 city: Löwenberger Land
-street: Alte Grüneberger Landstraße
+street: "Alte Grüneberger Landstraße"
 housenumber: 1
 phone: "+49 33051 90386"
 opening_hours: ""

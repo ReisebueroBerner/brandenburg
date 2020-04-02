@@ -5,7 +5,7 @@ latitude: 52.4904026
 longitude: 13.4491758
 postcode: 12435
 city: Berlin
-street: Bouchéstraße
+street: "Bouchéstraße"
 housenumber: 79a
 phone: ""
 opening_hours: ""

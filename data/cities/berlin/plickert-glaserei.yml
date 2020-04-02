@@ -5,7 +5,7 @@ latitude: 52.5129024
 longitude: 13.459448700000001
 postcode: 10247
 city: Berlin
-street: Kreutzigerstraße
+street: "Kreutzigerstraße"
 housenumber: 14-15
 phone: ""
 opening_hours: "Mo-Tu 07:00-10:00,13:00-16:00; We 07:00-10:00,13:00-18:00; Th 07:00-10:00,13:00-16:00; Fr 07:00-10:00,13:00-15:00"

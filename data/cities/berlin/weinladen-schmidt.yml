@@ -5,7 +5,7 @@ latitude: 52.511598600000006
 longitude: 13.269111
 postcode: 14052
 city: Berlin
-street: Reichsstraße
+street: "Reichsstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"

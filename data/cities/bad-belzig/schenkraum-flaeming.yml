@@ -5,7 +5,7 @@ latitude: 52.1111562
 longitude: 12.535376800000002
 postcode: 14806
 city: Bad Belzig
-street: Gruboer Straße
+street: "Gruboer Straße"
 housenumber: 16 A
 phone: ""
 opening_hours: ""

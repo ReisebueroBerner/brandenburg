@@ -5,7 +5,7 @@ latitude: 52.673244700000005
 longitude: 13.569849300000001
 postcode: 16321
 city: Bernau bei Berlin
-street: Krokusstraße
+street: "Krokusstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

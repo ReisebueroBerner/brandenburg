@@ -5,7 +5,7 @@ latitude: 52.3638799
 longitude: 14.5250883
 postcode: 15234
 city: Frankfurt (Oder)
-street: Berliner Chaussee
+street: "Berliner Chaussee"
 housenumber: 101a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

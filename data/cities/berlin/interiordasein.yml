@@ -5,7 +5,7 @@ latitude: 52.563484
 longitude: 13.393185500000001
 postcode: 13359
 city: Berlin
-street: Steegerstraße
+street: "Steegerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

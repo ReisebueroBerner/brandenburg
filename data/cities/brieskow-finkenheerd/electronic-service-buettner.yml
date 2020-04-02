@@ -5,7 +5,7 @@ latitude: 52.252278200000006
 longitude: 14.5792914
 postcode: 15295
 city: Brieskow-Finkenheerd
-street: Akazienweg
+street: "Akazienweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

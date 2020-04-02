@@ -5,7 +5,7 @@ latitude: 52.491103200000005
 longitude: 13.326107700000001
 postcode: 10717
 city: Berlin
-street: Güntzelstraße
+street: "Güntzelstraße"
 housenumber: 47
 phone: "+49308732115"
 opening_hours: ""

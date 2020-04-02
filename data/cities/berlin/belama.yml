@@ -5,7 +5,7 @@ latitude: 52.4534376
 longitude: 13.4736252
 postcode: 12437
 city: Berlin
-street: Späthstraße
+street: "Späthstraße"
 housenumber: 80-81
 phone: "+493083103396"
 opening_hours: "Mo-Fr 11:00-19:00, Sa 11:00-16:00"

@@ -5,7 +5,7 @@ latitude: 52.5056827
 longitude: 13.3214766
 postcode: 10623
 city: Berlin
-street: Savignyplatz
+street: "Savignyplatz"
 housenumber: 11
 phone: ""
 opening_hours: ""

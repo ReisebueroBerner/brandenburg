@@ -5,7 +5,7 @@ latitude: 52.5522458
 longitude: 13.374397400000001
 postcode: 13357
 city: Berlin
-street: Uferstraße
+street: "Uferstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

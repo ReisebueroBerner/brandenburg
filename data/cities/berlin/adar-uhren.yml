@@ -5,7 +5,7 @@ latitude: 52.495234100000005
 longitude: 13.361382500000001
 postcode: 10783
 city: Berlin
-street: Potsdamer Straße
+street: "Potsdamer Straße"
 housenumber: 155
 phone: "+49 1516 3069630"
 opening_hours: "Mo-Fr 10:00-19:00; PH closed"

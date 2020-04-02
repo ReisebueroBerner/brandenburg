@@ -5,7 +5,7 @@ latitude: 53.1114295
 longitude: 13.517925400000001
 postcode: 17268
 city: Templin
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 2
 phone: "+49 3987 208712"
 opening_hours: ""

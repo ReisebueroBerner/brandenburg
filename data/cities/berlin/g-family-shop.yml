@@ -5,7 +5,7 @@ latitude: 52.566481
 longitude: 13.519858500000002
 postcode: 13057
 city: Berlin
-street: Warnitzer Straße
+street: "Warnitzer Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

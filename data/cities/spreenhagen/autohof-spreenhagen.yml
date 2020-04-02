@@ -5,7 +5,7 @@ latitude: 52.32398250000001
 longitude: 13.900267900000001
 postcode: 15528
 city: Spreenhagen
-street: Storkower Straße
+street: "Storkower Straße"
 housenumber: 1A
 phone: "+49 33633 510"
 opening_hours: ""

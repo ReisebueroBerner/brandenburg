@@ -5,7 +5,7 @@ latitude: 52.4914831
 longitude: 13.3195039
 postcode: 10713
 city: Berlin
-street: Sigmaringer Straße
+street: "Sigmaringer Straße"
 housenumber: 18
 phone: "+49 30 8647680"
 opening_hours: ""

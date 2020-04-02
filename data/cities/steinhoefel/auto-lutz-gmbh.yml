@@ -5,7 +5,7 @@ latitude: 52.4274975
 longitude: 14.246869400000001
 postcode: 15518
 city: Steinhöfel
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 49
 phone: "+49 33635 3090"
 opening_hours: "Mo-Fr 08:00-17:00"

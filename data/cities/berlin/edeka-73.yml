@@ -5,7 +5,7 @@ latitude: 52.441928600000004
 longitude: 13.458882800000001
 postcode: 12351
 city: Berlin
-street: Rudower Straße
+street: "Rudower Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

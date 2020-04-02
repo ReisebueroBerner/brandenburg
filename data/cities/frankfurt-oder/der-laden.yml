@@ -5,7 +5,7 @@ latitude: 52.343533400000005
 longitude: 14.547902
 postcode: 15230
 city: Frankfurt (Oder)
-street: Halbe Stadt
+street: "Halbe Stadt"
 housenumber: 5
 phone: "+49 335 2839798"
 opening_hours: "Mo-Fr 10:00-18:00; PH off"

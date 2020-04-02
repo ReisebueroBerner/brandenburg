@@ -5,7 +5,7 @@ latitude: 52.533044800000006
 longitude: 13.3241844
 postcode: 10553
 city: Berlin
-street: Sickingenstraße
+street: "Sickingenstraße"
 housenumber: 9-13
 phone: "+4930 6139500"
 opening_hours: ""

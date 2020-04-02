@@ -5,7 +5,7 @@ latitude: 52.5088656
 longitude: 14.1385102
 postcode: 15374
 city: Müncheberg
-street: Münchehofer Weg
+street: "Münchehofer Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

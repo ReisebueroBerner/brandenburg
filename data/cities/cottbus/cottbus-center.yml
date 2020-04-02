@@ -5,7 +5,7 @@ latitude: 51.782257200000004
 longitude: 14.317045400000001
 postcode: 03044
 city: Cottbus
-street: Sielower Chaussee
+street: "Sielower Chaussee"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

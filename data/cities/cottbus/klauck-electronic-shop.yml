@@ -5,7 +5,7 @@ latitude: 51.754893200000005
 longitude: 14.307112900000002
 postcode: 03046
 city: Cottbus
-street: Karl-Liebknecht-Straße
+street: "Karl-Liebknecht-Straße"
 housenumber: 53A
 phone: ""
 opening_hours: ""

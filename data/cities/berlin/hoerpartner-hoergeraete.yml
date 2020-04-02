@@ -5,7 +5,7 @@ latitude: 52.514482
 longitude: 13.6109813
 postcode: 12623
 city: Berlin
-street: Ridbacher Straße
+street: "Ridbacher Straße"
 housenumber: 5
 phone: "+49 30 56 58 38 28"
 opening_hours: ""

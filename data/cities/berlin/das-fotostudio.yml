@@ -5,7 +5,7 @@ latitude: 52.5154166
 longitude: 13.478237600000002
 postcode: 10367
 city: Berlin
-street: Möllendorffstraße
+street: "Möllendorffstraße"
 housenumber: 115
 phone: ""
 opening_hours: "Mo-Th 09:30-18:00, Fr 09:30-15:00; Sa 09:30-13:00"

@@ -5,7 +5,7 @@ latitude: 52.5241928
 longitude: 13.333198800000002
 postcode: 10555
 city: Berlin
-street: Alt-Moabit
+street: "Alt-Moabit"
 housenumber: 74
 phone: "+4930 39741119"
 opening_hours: "Mo-Sa 08:00-20:00"

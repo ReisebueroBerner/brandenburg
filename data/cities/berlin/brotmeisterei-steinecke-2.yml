@@ -5,7 +5,7 @@ latitude: 52.4916392
 longitude: 13.291075200000002
 postcode: 14193
 city: Berlin
-street: Caspar-Theyß-Straße
+street: "Caspar-Theyß-Straße"
 housenumber: 16
 phone: "+493082407102"
 opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-17:00"

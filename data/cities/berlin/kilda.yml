@@ -5,7 +5,7 @@ latitude: 52.532003700000004
 longitude: 13.4320891
 postcode: 10407
 city: Berlin
-street: Hufelandstraße
+street: "Hufelandstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

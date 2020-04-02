@@ -5,7 +5,7 @@ latitude: 52.444864800000005
 longitude: 13.407629600000002
 postcode: 12109
 city: Berlin
-street: Dardanellenweg
+street: "Dardanellenweg"
 housenumber: 50
 phone: ""
 opening_hours: ""

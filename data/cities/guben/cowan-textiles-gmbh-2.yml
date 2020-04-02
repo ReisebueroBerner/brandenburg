@@ -5,7 +5,7 @@ latitude: 51.9519529
 longitude: 14.676690700000002
 postcode: 03172
 city: Guben
-street: Friedrich-Schiller-Straße
+street: "Friedrich-Schiller-Straße"
 housenumber: 5b
 phone: ""
 opening_hours: ""

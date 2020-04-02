@@ -5,7 +5,7 @@ latitude: 52.542340800000005
 longitude: 13.370128300000001
 postcode: 13347
 city: Berlin
-street: Reinickendorfer Straße
+street: "Reinickendorfer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00"

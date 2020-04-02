@@ -5,7 +5,7 @@ latitude: 52.5370544
 longitude: 13.2721785
 postcode: 13629
 city: Berlin
-street: Jungfernheideweg
+street: "Jungfernheideweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

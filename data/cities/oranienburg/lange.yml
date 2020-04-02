@@ -5,7 +5,7 @@ latitude: 52.7766224
 longitude: 13.2355221
 postcode: 16515
 city: Oranienburg
-street: Waldweg
+street: "Waldweg"
 housenumber: 13
 phone: ""
 opening_hours: ""

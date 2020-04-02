@@ -5,7 +5,7 @@ latitude: 52.5328432
 longitude: 13.208911200000001
 postcode: 13597
 city: Berlin
-street: Freiheit
+street: "Freiheit"
 housenumber: 4
 phone: "+49 30 3308040"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

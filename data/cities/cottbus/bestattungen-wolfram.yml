@@ -5,7 +5,7 @@ latitude: 51.748355600000004
 longitude: 14.3317008
 postcode: 03050
 city: Cottbus
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

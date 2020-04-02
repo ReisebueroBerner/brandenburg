@@ -5,7 +5,7 @@ latitude: 52.291608200000006
 longitude: 13.313130300000001
 postcode: 14974
 city: Ludwigsfelde
-street: Alt-Löwenbruch
+street: "Alt-Löwenbruch"
 housenumber: 57
 phone: ""
 opening_hours: "nach telefonischer Vereinbarung"

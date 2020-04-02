@@ -5,7 +5,7 @@ latitude: 52.321217100000005
 longitude: 14.5351993
 postcode: 15232
 city: Frankfurt (Oder)
-street: Darjesstraße
+street: "Darjesstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

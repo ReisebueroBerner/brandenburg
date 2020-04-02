@@ -5,7 +5,7 @@ latitude: 52.4713239
 longitude: 13.384204500000001
 postcode: 12101
 city: Berlin
-street: Hoeppnerstraße
+street: "Hoeppnerstraße"
 housenumber: 3-13
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

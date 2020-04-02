@@ -5,7 +5,7 @@ latitude: 52.4046894
 longitude: 12.992719200000002
 postcode: 14469
 city: Potsdam
-street: Kaiser-Friedrich-Straße
+street: "Kaiser-Friedrich-Straße"
 housenumber: 102b
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00; PH,Su off"

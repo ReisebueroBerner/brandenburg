@@ -5,7 +5,7 @@ latitude: 52.414188100000004
 longitude: 13.0373061
 postcode: 14469
 city: Potsdam
-street: Alexander-Klein-Straße
+street: "Alexander-Klein-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

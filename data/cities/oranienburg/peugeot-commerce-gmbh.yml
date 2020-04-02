@@ -5,7 +5,7 @@ latitude: 52.773657400000005
 longitude: 13.261899900000001
 postcode: 16515
 city: Oranienburg
-street: Am Heidering
+street: "Am Heidering"
 housenumber: 2
 phone: "+49 3301 20770"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-14:00"

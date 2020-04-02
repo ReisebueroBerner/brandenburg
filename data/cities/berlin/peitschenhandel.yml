@@ -5,7 +5,7 @@ latitude: 52.4722857
 longitude: 13.4436174
 postcode: 12055
 city: Berlin
-street: Kirchhofstraße
+street: "Kirchhofstraße"
 housenumber: 44
 phone: "+49 30 40509713"
 opening_hours: "Mo-Th 14:00-18:00, Fr-Sa 14:00-20:00"

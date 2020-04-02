@@ -5,7 +5,7 @@ latitude: 52.5005651
 longitude: 13.3451517
 postcode: 10789
 city: Berlin
-street: Lietzenburger Straße
+street: "Lietzenburger Straße"
 housenumber: 4
 phone: "+49 152 27067296"
 opening_hours: "Mo-Fr 11:00-23:00; Sa-Su 12:00-21:00"

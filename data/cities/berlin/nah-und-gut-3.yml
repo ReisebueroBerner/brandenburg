@@ -5,7 +5,7 @@ latitude: 52.4945279
 longitude: 13.400548700000002
 postcode: 10961
 city: Berlin
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 183
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00"

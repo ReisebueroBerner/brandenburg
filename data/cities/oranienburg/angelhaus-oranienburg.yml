@@ -5,7 +5,7 @@ latitude: 52.755045
 longitude: 13.241652700000001
 postcode: 16515
 city: Oranienburg
-street: Lehnitzstraße
+street: "Lehnitzstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

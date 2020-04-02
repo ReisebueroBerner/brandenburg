@@ -5,7 +5,7 @@ latitude: 52.5055885
 longitude: 13.365221400000001
 postcode: 10785
 city: Berlin
-street: Schöneberger Ufer
+street: "Schöneberger Ufer"
 housenumber: 65
 phone: "+49 30 28 38 53 52"
 opening_hours: "Tu-Fr 13:00-18:00; Sa 12:00-18:00 || Nach Vereinbarung"

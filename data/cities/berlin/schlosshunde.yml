@@ -5,7 +5,7 @@ latitude: 52.5168369
 longitude: 13.2974426
 postcode: 10585
 city: Berlin
-street: Schustehrusstraße
+street: "Schustehrusstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

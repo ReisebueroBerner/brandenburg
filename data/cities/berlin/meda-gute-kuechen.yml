@@ -5,7 +5,7 @@ latitude: 52.42940960000001
 longitude: 13.552984
 postcode: 12489
 city: Berlin
-street: Glienicker Weg
+street: "Glienicker Weg"
 housenumber: 187
 phone: ""
 opening_hours: ""

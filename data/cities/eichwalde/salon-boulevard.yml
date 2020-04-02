@@ -5,7 +5,7 @@ latitude: 52.3731529
 longitude: 13.6182832
 postcode: 15732
 city: Eichwalde
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: "+49 30 84 111 620"
 opening_hours: ""

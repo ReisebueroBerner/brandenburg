@@ -5,7 +5,7 @@ latitude: 52.481155
 longitude: 13.3471934
 postcode: 10827
 city: Berlin
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 54
 phone: "+49 30 81828589"
 opening_hours: "24/7"

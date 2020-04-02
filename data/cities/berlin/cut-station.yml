@@ -5,7 +5,7 @@ latitude: 52.5091218
 longitude: 13.497900600000001
 postcode: 10317
 city: Berlin
-street: Weitlingstraße
+street: "Weitlingstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

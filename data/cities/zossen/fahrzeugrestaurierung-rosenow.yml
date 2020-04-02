@@ -5,7 +5,7 @@ latitude: 52.243768800000005
 longitude: 13.3852361
 postcode: 15806
 city: Zossen
-street: Zossener Straße
+street: "Zossener Straße"
 housenumber: 23
 phone: "+49 3377 330 550"
 opening_hours: ""

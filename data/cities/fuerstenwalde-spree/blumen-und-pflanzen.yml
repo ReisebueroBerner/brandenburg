@@ -5,7 +5,7 @@ latitude: 52.3639875
 longitude: 14.061485600000001
 postcode: 15517
 city: Fürstenwalde/Spree
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH 09:00-16:00"

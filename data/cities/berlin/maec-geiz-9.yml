@@ -5,7 +5,7 @@ latitude: 52.476491800000005
 longitude: 13.2892823
 postcode: 14199
 city: Berlin
-street: Berkaer Straße
+street: "Berkaer Straße"
 housenumber: 5
 phone: "+49 30 89 72 91 97"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-15:00"

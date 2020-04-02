@@ -5,7 +5,7 @@ latitude: 52.4730247
 longitude: 13.3140832
 postcode: 14197
 city: Berlin
-street: Rüdesheimer Straße
+street: "Rüdesheimer Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

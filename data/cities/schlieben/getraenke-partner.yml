@@ -5,7 +5,7 @@ latitude: 51.724633700000005
 longitude: 13.384757800000001
 postcode: 04936
 city: Schlieben
-street: Kleiner Markt
+street: "Kleiner Markt"
 housenumber: 5
 phone: "+49 35361 424"
 opening_hours: ""

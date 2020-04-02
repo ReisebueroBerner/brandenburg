@@ -5,7 +5,7 @@ latitude: 52.4902201
 longitude: 13.361547600000002
 postcode: 10827
 city: Berlin
-street: Willmanndamm
+street: "Willmanndamm"
 housenumber: 17
 phone: ""
 opening_hours: ""

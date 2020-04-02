@@ -5,7 +5,7 @@ latitude: 52.4860903
 longitude: 13.435137300000001
 postcode: 12045
 city: Berlin
-street: Weichselstraße
+street: "Weichselstraße"
 housenumber: 54
 phone: ""
 opening_hours: "24/7"

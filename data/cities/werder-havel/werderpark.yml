@@ -5,7 +5,7 @@ latitude: 52.363487500000005
 longitude: 12.932223100000002
 postcode: 14542
 city: Werder (Havel)
-street: Auf dem Strengfeld
+street: "Auf dem Strengfeld"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

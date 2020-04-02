@@ -5,7 +5,7 @@ latitude: 52.5290733
 longitude: 13.1278406
 postcode: 13591
 city: Berlin
-street: Nennhauser Damm
+street: "Nennhauser Damm"
 housenumber: 170
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

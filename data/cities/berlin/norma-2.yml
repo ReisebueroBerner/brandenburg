@@ -5,7 +5,7 @@ latitude: 52.5586866
 longitude: 13.3749078
 postcode: 13359
 city: Berlin
-street: Drontheimer Straße
+street: "Drontheimer Straße"
 housenumber: 32-32a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

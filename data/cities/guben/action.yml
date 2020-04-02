@@ -5,7 +5,7 @@ latitude: 51.9490423
 longitude: 14.7172537
 postcode: 03172
 city: Guben
-street: Berthold-Lissner-Straße
+street: "Berthold-Lissner-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

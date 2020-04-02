@@ -5,7 +5,7 @@ latitude: 53.0158083
 longitude: 13.9995364
 postcode: 16278
 city: Angermünde
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 69
 phone: "+49 3331-23833"
 opening_hours: "Tu, Th, Fr 09:00-12:00, 13:00-16:30"

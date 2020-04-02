@@ -5,7 +5,7 @@ latitude: 52.4996019
 longitude: 13.3645382
 postcode: 10785
 city: Berlin
-street: Kurfürstenstraße
+street: "Kurfürstenstraße"
 housenumber: 24
 phone: "+49 30 2612726"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.5648829
 longitude: 13.3292727
 postcode: 13403
 city: Berlin
-street: Friedrich-Karl-Straße
+street: "Friedrich-Karl-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

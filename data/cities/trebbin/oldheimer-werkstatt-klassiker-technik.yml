@@ -5,7 +5,7 @@ latitude: 52.218379000000006
 longitude: 13.203383800000001
 postcode: 14959
 city: Trebbin
-street: Grenzstraße
+street: "Grenzstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

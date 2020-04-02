@@ -5,7 +5,7 @@ latitude: 52.4930931
 longitude: 13.424656800000001
 postcode: 12047
 city: Berlin
-street: Bürknerstraße
+street: "Bürknerstraße"
 housenumber: 22-23
 phone: ""
 opening_hours: "Mo-Sa 09:00-21:00"

@@ -5,7 +5,7 @@ latitude: 52.4006832
 longitude: 13.0534019
 postcode: 14467
 city: Potsdam
-street: Dortustraße
+street: "Dortustraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 11:00-19:00"

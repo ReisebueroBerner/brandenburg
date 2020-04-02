@@ -5,7 +5,7 @@ latitude: 52.427996300000004
 longitude: 13.557094600000001
 postcode: 12489
 city: Berlin
-street: Adlergestell
+street: "Adlergestell"
 housenumber: 350-351
 phone: "+4930-278791-0"
 opening_hours: "Mo-Fr 07:30-16:30"

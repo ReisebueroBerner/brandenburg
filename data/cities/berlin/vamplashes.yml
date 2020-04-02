@@ -5,7 +5,7 @@ latitude: 52.503490600000006
 longitude: 13.4768605
 postcode: 10317
 city: Berlin
-street: Kernhofer Straße
+street: "Kernhofer Straße"
 housenumber: 18
 phone: "+4915203999222"
 opening_hours: ""

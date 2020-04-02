@@ -5,7 +5,7 @@ latitude: 51.9579856
 longitude: 14.7035984
 postcode: 03172
 city: Guben
-street: Cottbuser Platz
+street: "Cottbuser Platz"
 housenumber: 21
 phone: "+49 3561 2777"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-10:00; PH off"

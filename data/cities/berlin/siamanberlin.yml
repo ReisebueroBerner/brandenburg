@@ -5,7 +5,7 @@ latitude: 52.505022600000004
 longitude: 13.339804
 postcode: 10787
 city: Berlin
-street: Budapester Straße
+street: "Budapester Straße"
 housenumber: 41
 phone: "+49 30 88922026"
 opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-21:00"

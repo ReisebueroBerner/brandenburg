@@ -5,7 +5,7 @@ latitude: 52.5503341
 longitude: 13.4973486
 postcode: 13053
 city: Berlin
-street: Degnerstraße
+street: "Degnerstraße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Fr 15:00-18:00"

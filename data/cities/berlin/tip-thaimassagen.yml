@@ -5,7 +5,7 @@ latitude: 52.467041
 longitude: 13.330977800000001
 postcode: 12161
 city: Berlin
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 48
 phone: "+49 30 85401368"
 opening_hours: ""

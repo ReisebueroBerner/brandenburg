@@ -5,7 +5,7 @@ latitude: 51.761410000000005
 longitude: 14.325416100000002
 postcode: 03046
 city: Cottbus
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 139
 phone: "+49 355 4837060"
 opening_hours: ""

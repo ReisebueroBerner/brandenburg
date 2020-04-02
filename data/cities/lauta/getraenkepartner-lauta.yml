@@ -5,7 +5,7 @@ latitude: 51.4568444
 longitude: 14.094888800000001
 postcode: 02991
 city: Lauta
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

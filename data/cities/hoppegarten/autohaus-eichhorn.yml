@@ -5,7 +5,7 @@ latitude: 52.543349400000004
 longitude: 13.634438800000002
 postcode: 15366
 city: Hoppegarten
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 13a
 phone: ""
 opening_hours: ""

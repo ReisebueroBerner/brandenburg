@@ -5,7 +5,7 @@ latitude: 52.549839000000006
 longitude: 13.457111000000001
 postcode: 13088
 city: Berlin
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 91
 phone: "+49 030 99271420"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

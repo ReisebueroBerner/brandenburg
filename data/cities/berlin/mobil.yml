@@ -5,7 +5,7 @@ latitude: 52.5351884
 longitude: 13.432363100000002
 postcode: 10405
 city: Berlin
-street: Greifswalder Straße
+street: "Greifswalder Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

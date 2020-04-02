@@ -5,7 +5,7 @@ latitude: 52.486029900000005
 longitude: 13.338967400000001
 postcode: 10825
 city: Berlin
-street: Wartburgstraße
+street: "Wartburgstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

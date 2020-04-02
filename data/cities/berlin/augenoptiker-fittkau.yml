@@ -5,7 +5,7 @@ latitude: 52.631260700000006
 longitude: 13.499767
 postcode: 13125
 city: Berlin
-street: Karower Chaussee
+street: "Karower Chaussee"
 housenumber: 23
 phone: "+49309495492"
 opening_hours: ""

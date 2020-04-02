@@ -5,7 +5,7 @@ latitude: 52.138743100000006
 longitude: 12.6047802
 postcode: 14806
 city: Bad Belzig
-street: Friedrich-Schiller-Straße
+street: "Friedrich-Schiller-Straße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

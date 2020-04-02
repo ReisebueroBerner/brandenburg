@@ -5,7 +5,7 @@ latitude: 52.36644870000001
 longitude: 14.0690907
 postcode: 15517
 city: Fürstenwalde/Spree
-street: Johann-Sebastian-Bach-Straße
+street: "Johann-Sebastian-Bach-Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

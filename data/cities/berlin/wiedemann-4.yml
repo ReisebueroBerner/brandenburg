@@ -5,7 +5,7 @@ latitude: 52.4720511
 longitude: 13.3350424
 postcode: 12159
 city: Berlin
-street: Lauterstraße
+street: "Lauterstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

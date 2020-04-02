@@ -5,7 +5,7 @@ latitude: 52.4395687
 longitude: 13.351439500000001
 postcode: 12247
 city: Berlin
-street: Kaiser-Wilhelm-Straße
+street: "Kaiser-Wilhelm-Straße"
 housenumber: 117
 phone: ""
 opening_hours: "24/7"

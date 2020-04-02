@@ -5,7 +5,7 @@ latitude: 52.5498616
 longitude: 13.514708800000001
 postcode: 13053
 city: Berlin
-street: Gehrenseestraße
+street: "Gehrenseestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

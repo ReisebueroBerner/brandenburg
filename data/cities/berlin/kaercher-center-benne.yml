@@ -5,7 +5,7 @@ latitude: 52.4897129
 longitude: 13.4088103
 postcode: 10967
 city: Berlin
-street: Körtestraße
+street: "Körtestraße"
 housenumber: 31
 phone: "+49 30 6932077"
 opening_hours: "Mo-Fr 07:30-16:00"

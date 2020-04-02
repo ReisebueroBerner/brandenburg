@@ -5,7 +5,7 @@ latitude: 52.356998600000004
 longitude: 14.561709500000001
 postcode: 
 city: Słubice
-street: Bolesława Chrobrego
+street: "Bolesława Chrobrego"
 housenumber: 2
 phone: ""
 opening_hours: ""

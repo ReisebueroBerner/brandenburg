@@ -5,7 +5,7 @@ latitude: 52.402834600000006
 longitude: 13.055429400000001
 postcode: 14467
 city: Potsdam
-street: Jägerstraße
+street: "Jägerstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; We 10:00-13:00,14:00-19:00; Sa 10:00-16:00"

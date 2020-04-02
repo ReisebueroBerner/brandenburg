@@ -5,7 +5,7 @@ latitude: 52.474524300000006
 longitude: 13.292670800000002
 postcode: 14199
 city: Berlin
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 33-35
 phone: "+49308232433"
 opening_hours: "Mo-Fr 08:00-13:00"

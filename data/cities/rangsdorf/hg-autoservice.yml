@@ -5,7 +5,7 @@ latitude: 52.2777302
 longitude: 13.466137100000001
 postcode: 15834
 city: Rangsdorf
-street: Mittenwalder Straße
+street: "Mittenwalder Straße"
 housenumber: 11
 phone: "+49 33708 70367"
 opening_hours: ""

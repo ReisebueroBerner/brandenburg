@@ -5,7 +5,7 @@ latitude: 52.4741082
 longitude: 13.484529100000001
 postcode: 12437
 city: Berlin
-street: Köpenicker Landstraße
+street: "Köpenicker Landstraße"
 housenumber: 151
 phone: "+49 30 220 154 36"
 opening_hours: "Mo-Fr 08:30-17:00"

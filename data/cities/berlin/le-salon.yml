@@ -5,7 +5,7 @@ latitude: 52.5004111
 longitude: 13.305804
 postcode: 10629
 city: Berlin
-street: Waitzstraße
+street: "Waitzstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

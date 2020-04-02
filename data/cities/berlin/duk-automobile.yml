@@ -5,7 +5,7 @@ latitude: 52.5723429
 longitude: 13.4300709
 postcode: 13089
 city: Berlin
-street: Rothenbachstraße
+street: "Rothenbachstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

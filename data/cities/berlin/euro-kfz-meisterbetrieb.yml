@@ -5,7 +5,7 @@ latitude: 52.5086061
 longitude: 13.4956764
 postcode: 10317
 city: Berlin
-street: Eitelstraße
+street: "Eitelstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.4833233
 longitude: 13.3541719
 postcode: 10827
 city: Berlin
-street: Feurigstraße
+street: "Feurigstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

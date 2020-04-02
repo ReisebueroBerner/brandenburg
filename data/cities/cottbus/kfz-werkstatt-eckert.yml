@@ -5,7 +5,7 @@ latitude: 51.735399300000005
 longitude: 14.3655158
 postcode: 03042
 city: Cottbus
-street: An der Aue
+street: "An der Aue"
 housenumber: 3
 phone: "+49 355 723007"
 opening_hours: "Mo-Fr 07:00-17:30"

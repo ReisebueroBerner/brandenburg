@@ -5,7 +5,7 @@ latitude: 52.1027605
 longitude: 12.6774135
 postcode: 14806
 city: Planetal
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

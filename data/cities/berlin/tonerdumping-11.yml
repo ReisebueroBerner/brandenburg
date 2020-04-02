@@ -5,7 +5,7 @@ latitude: 52.547296900000006
 longitude: 13.4128573
 postcode: 10437
 city: Berlin
-street: Schönhauser Allee
+street: "Schönhauser Allee"
 housenumber: 125
 phone: "+49 30 44038979"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"

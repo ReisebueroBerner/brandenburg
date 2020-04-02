@@ -5,7 +5,7 @@ latitude: 51.74661570000001
 longitude: 13.9487904
 postcode: 03205
 city: Calau
-street: Platz des Friedens
+street: "Platz des Friedens"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

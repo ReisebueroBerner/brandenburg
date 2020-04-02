@@ -5,7 +5,7 @@ latitude: 52.551205
 longitude: 13.415682100000001
 postcode: 10439
 city: Berlin
-street: Rodenbergstraße
+street: "Rodenbergstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

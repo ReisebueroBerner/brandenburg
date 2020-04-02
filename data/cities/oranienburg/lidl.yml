@@ -5,7 +5,7 @@ latitude: 52.748367900000005
 longitude: 13.2362154
 postcode: 16515
 city: Oranienburg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

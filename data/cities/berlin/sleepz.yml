@@ -5,7 +5,7 @@ latitude: 52.5065741
 longitude: 13.3863994
 postcode: 10969
 city: Berlin
-street: Kochstraße
+street: "Kochstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.1721841
 longitude: 14.248786
 postcode: 15848
 city: Beeskow
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off"

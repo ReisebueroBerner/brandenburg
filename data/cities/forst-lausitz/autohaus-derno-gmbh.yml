@@ -5,7 +5,7 @@ latitude: 51.7395312
 longitude: 14.645972400000002
 postcode: 03149
 city: Forst (Lausitz)
-street: Planckstraße
+street: "Planckstraße"
 housenumber: 10
 phone: "+49 (0)3562 666382"
 opening_hours: ""

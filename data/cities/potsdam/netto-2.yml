@@ -5,7 +5,7 @@ latitude: 52.381106300000006
 longitude: 13.136496500000002
 postcode: 14480
 city: Potsdam
-street: Flotowstraße
+street: "Flotowstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

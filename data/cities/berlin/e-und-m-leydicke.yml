@@ -5,7 +5,7 @@ latitude: 52.49265990000001
 longitude: 13.366646300000001
 postcode: 10783
 city: Berlin
-street: Mansteinstraße
+street: "Mansteinstraße"
 housenumber: 4
 phone: "+49302162973"
 opening_hours: ""

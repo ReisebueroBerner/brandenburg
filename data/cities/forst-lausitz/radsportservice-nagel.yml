@@ -5,7 +5,7 @@ latitude: 51.74378230000001
 longitude: 14.645095600000001
 postcode: 03149
 city: Forst (Lausitz)
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

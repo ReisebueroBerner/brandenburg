@@ -5,7 +5,7 @@ latitude: 52.4356585
 longitude: 13.261196600000002
 postcode: 14169
 city: Berlin
-street: Clayallee
+street: "Clayallee"
 housenumber: 352
 phone: ""
 opening_hours: "Mo-Su 09:00-22:00; Mo-Su 22:00-24:00 nur nach Terminvereinbarung"

@@ -5,7 +5,7 @@ latitude: 52.561632200000005
 longitude: 13.723217300000002
 postcode: 15345
 city: Altlandsberg
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 12
 phone: "+49 33438 16695"
 opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.5503639
 longitude: 13.437731000000001
 postcode: 13086
 city: Berlin
-street: Lehderstraße
+street: "Lehderstraße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Fr 15:00-18:00"

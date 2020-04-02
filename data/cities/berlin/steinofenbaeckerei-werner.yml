@@ -5,7 +5,7 @@ latitude: 52.434633600000005
 longitude: 13.5020959
 postcode: 12487
 city: Berlin
-street: Eisenhutweg
+street: "Eisenhutweg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 06:00-17:30"

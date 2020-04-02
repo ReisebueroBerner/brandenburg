@@ -5,7 +5,7 @@ latitude: 52.467459500000004
 longitude: 13.422692600000001
 postcode: 12051
 city: Berlin
-street: Emser Straße
+street: "Emser Straße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

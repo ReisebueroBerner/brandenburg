@@ -5,7 +5,7 @@ latitude: 52.447385100000005
 longitude: 13.6169744
 postcode: 12587
 city: Berlin
-street: Charlotte-E.-Pauly-Straße
+street: "Charlotte-E.-Pauly-Straße"
 housenumber: 6
 phone: "+49 30 43209989"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

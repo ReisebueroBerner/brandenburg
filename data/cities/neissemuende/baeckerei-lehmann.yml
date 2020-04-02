@@ -5,7 +5,7 @@ latitude: 52.0197325
 longitude: 14.71836
 postcode: 15898
 city: Neißemünde
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 33675 442"
 opening_hours: ""

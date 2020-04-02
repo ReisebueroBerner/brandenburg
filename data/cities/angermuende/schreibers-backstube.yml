@@ -5,7 +5,7 @@ latitude: 53.0172162
 longitude: 14.001948500000001
 postcode: 
 city: Angermünde
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 17
 phone: "+49 3331 26026"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"

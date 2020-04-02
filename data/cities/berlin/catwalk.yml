@@ -5,7 +5,7 @@ latitude: 52.5224873
 longitude: 13.384139800000002
 postcode: 10117
 city: Berlin
-street: Albrechtstraße
+street: "Albrechtstraße"
 housenumber: 7
 phone: "+4930 27 59 45 65"
 opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"

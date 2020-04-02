@@ -5,7 +5,7 @@ latitude: 52.491337800000004
 longitude: 13.376493400000001
 postcode: 10965
 city: Berlin
-street: Katzbachstraße
+street: "Katzbachstraße"
 housenumber: 1a
 phone: "+49 30 78893148"
 opening_hours: ""

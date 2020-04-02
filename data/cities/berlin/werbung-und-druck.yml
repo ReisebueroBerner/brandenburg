@@ -5,7 +5,7 @@ latitude: 52.402114000000005
 longitude: 13.564900300000001
 postcode: 12526
 city: Berlin
-street: Buntzelstraße
+street: "Buntzelstraße"
 housenumber: 92
 phone: ""
 opening_hours: ""

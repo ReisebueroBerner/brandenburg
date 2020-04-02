@@ -5,7 +5,7 @@ latitude: 51.758091900000004
 longitude: 14.329407000000002
 postcode: 03046
 city: Cottbus
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 2
 phone: "+49 355 6110"
 opening_hours: "Mo-Sa 09:30-20:00; PH off"

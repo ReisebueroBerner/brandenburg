@@ -5,7 +5,7 @@ latitude: 52.252399000000004
 longitude: 12.985963
 postcode: 14547
 city: Beelitz
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 107
 phone: ""
 opening_hours: "24/7"

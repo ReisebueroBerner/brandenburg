@@ -5,7 +5,7 @@ latitude: 52.2537831
 longitude: 13.2445591
 postcode: 14959
 city: Trebbin
-street: Ahornstraße
+street: "Ahornstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

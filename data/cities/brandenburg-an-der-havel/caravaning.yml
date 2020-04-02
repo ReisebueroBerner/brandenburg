@@ -5,7 +5,7 @@ latitude: 52.4174774
 longitude: 12.533731600000001
 postcode: 14770
 city: Brandenburg an der Havel
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 53
 phone: "+49 3381 8900200"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.425629300000004
 longitude: 12.524657900000001
 postcode: 14772
 city: Brandenburg an der Havel
-street: Gördenallee
+street: "Gördenallee"
 housenumber: 204
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

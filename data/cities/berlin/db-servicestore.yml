@@ -5,7 +5,7 @@ latitude: 52.505175200000004
 longitude: 13.320278400000001
 postcode: 10623
 city: Berlin
-street: Else-Ury-Bogen
+street: "Else-Ury-Bogen"
 housenumber: 604
 phone: ""
 opening_hours: "06:00-23:00"

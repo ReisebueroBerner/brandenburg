@@ -5,7 +5,7 @@ latitude: 52.5564419
 longitude: 13.5540988
 postcode: 12679
 city: Berlin
-street: Märkische Allee
+street: "Märkische Allee"
 housenumber: 276
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

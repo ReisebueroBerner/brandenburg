@@ -5,7 +5,7 @@ latitude: 52.4873896
 longitude: 13.428767
 postcode: 12047
 city: Berlin
-street: Reuterstraße
+street: "Reuterstraße"
 housenumber: 62
 phone: ""
 opening_hours: ""

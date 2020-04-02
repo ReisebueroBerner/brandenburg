@@ -5,7 +5,7 @@ latitude: 52.286847900000005
 longitude: 13.0040486
 postcode: 14554
 city: Seddiner See
-street: Pappelallee
+street: "Pappelallee"
 housenumber: 38
 phone: "+49 3320524898"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.506381600000005
 longitude: 13.3203484
 postcode: 10623
 city: Berlin
-street: Bleibtreustraße
+street: "Bleibtreustraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.1111098
 longitude: 13.484865800000001
 postcode: 17268
 city: Templin
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

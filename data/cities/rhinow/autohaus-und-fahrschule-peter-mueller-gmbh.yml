@@ -5,7 +5,7 @@ latitude: 52.753983100000006
 longitude: 12.3387802
 postcode: 14728
 city: Rhinow
-street: Rübehorster Straße
+street: "Rübehorster Straße"
 housenumber: 13
 phone: "+49 33875 3560"
 opening_hours: ""

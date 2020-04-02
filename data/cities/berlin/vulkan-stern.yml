@@ -5,7 +5,7 @@ latitude: 52.529197200000006
 longitude: 13.3429465
 postcode: 10551
 city: Berlin
-street: Stromstraße
+street: "Stromstraße"
 housenumber: 48
 phone: "+49 30 39406731"
 opening_hours: "Mo-Su,PH 11:00-03:00"

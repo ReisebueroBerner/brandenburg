@@ -5,7 +5,7 @@ latitude: 52.084627100000006
 longitude: 14.646232300000001
 postcode: 15898
 city: Neuzelle
-street: Lieberoser Straße
+street: "Lieberoser Straße"
 housenumber: 1
 phone: "+49 336526162"
 opening_hours: ""

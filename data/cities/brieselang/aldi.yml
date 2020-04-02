@@ -5,7 +5,7 @@ latitude: 52.5825146
 longitude: 12.9985254
 postcode: 14656
 city: Brieselang
-street: Hans-Klakow-Straße
+street: "Hans-Klakow-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

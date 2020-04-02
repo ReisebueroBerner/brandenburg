@@ -5,7 +5,7 @@ latitude: 52.4907796
 longitude: 13.4520639
 postcode: 12435
 city: Berlin
-street: Kiefholzstraße
+street: "Kiefholzstraße"
 housenumber: 425
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00"

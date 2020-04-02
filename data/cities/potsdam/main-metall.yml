@@ -5,7 +5,7 @@ latitude: 52.38131550000001
 longitude: 13.104714900000001
 postcode: 14482
 city: Potsdam
-street: Fritz-Zubeil-Straße
+street: "Fritz-Zubeil-Straße"
 housenumber: 68
 phone: ""
 opening_hours: ""

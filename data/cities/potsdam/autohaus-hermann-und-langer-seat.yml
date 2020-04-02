@@ -5,7 +5,7 @@ latitude: 52.379059000000005
 longitude: 13.1104009
 postcode: 14482
 city: Potsdam
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 10
 phone: "+49 331 70478140"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"

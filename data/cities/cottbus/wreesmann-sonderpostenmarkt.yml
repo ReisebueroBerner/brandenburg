@@ -5,7 +5,7 @@ latitude: 51.7338182
 longitude: 14.3350849
 postcode: 03050
 city: Cottbus
-street: Hardenbergstraße
+street: "Hardenbergstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

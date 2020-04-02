@@ -5,7 +5,7 @@ latitude: 52.527124900000004
 longitude: 13.3517495
 postcode: 10559
 city: Berlin
-street: Wilsnacker Straße
+street: "Wilsnacker Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

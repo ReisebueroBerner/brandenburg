@@ -5,7 +5,7 @@ latitude: 51.575600900000005
 longitude: 14.389265600000002
 postcode: 03130
 city: Spremberg
-street: Adolf-Damaschke-Platz
+street: "Adolf-Damaschke-Platz"
 housenumber: 23
 phone: ""
 opening_hours: ""

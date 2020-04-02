@@ -5,7 +5,7 @@ latitude: 51.641883400000005
 longitude: 13.6996417
 postcode: 03238
 city: Finsterwalde
-street: Sonnewalder Straße
+street: "Sonnewalder Straße"
 housenumber: 78
 phone: "+49 3531 2340"
 opening_hours: ""

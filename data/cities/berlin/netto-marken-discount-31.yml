@@ -5,7 +5,7 @@ latitude: 52.5252095
 longitude: 13.415486600000001
 postcode: 10178
 city: Berlin
-street: Alex-Wedding-Straße
+street: "Alex-Wedding-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

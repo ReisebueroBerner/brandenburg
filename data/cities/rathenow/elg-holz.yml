@@ -5,7 +5,7 @@ latitude: 52.6166192
 longitude: 12.332920300000001
 postcode: 14712
 city: Rathenow
-street: Rhinower Straße
+street: "Rhinower Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00; PH closed"

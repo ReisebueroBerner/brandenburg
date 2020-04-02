@@ -5,7 +5,7 @@ latitude: 52.862768800000005
 longitude: 13.744541700000001
 postcode: 16244
 city: Schorfheide
-street: Messingwerkstraße
+street: "Messingwerkstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

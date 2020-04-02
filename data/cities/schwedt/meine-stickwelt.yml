@@ -5,7 +5,7 @@ latitude: 53.055919900000006
 longitude: 14.285364800000002
 postcode: 16303
 city: Schwedt
-street: Flinkenberg
+street: "Flinkenberg"
 housenumber: 16
 phone: ""
 opening_hours: ""

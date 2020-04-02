@@ -5,7 +5,7 @@ latitude: 53.0778382
 longitude: 11.8625418
 postcode: 19348
 city: Perleberg
-street: Poststraße
+street: "Poststraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

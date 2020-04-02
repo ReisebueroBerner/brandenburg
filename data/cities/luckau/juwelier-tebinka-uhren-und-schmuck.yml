@@ -5,7 +5,7 @@ latitude: 51.852179400000004
 longitude: 13.714223
 postcode: 15926
 city: Luckau
-street: Am Markt
+street: "Am Markt"
 housenumber: 15
 phone: "+49 3544 2072"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

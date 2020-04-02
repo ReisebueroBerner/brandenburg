@@ -5,7 +5,7 @@ latitude: 51.759078
 longitude: 14.329924100000001
 postcode: 03046
 city: Cottbus
-street: Stadtpromenade
+street: "Stadtpromenade"
 housenumber: 11
 phone: ""
 opening_hours: ""

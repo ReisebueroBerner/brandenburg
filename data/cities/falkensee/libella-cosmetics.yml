@@ -5,7 +5,7 @@ latitude: 52.583933800000004
 longitude: 13.0788015
 postcode: 14612
 city: Falkensee
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

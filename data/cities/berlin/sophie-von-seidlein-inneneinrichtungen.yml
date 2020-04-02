@@ -5,7 +5,7 @@ latitude: 52.5046412
 longitude: 13.293159500000002
 postcode: 14057
 city: Berlin
-street: Suarezstraße
+street: "Suarezstraße"
 housenumber: 43
 phone: "+49 30 88624242"
 opening_hours: ""

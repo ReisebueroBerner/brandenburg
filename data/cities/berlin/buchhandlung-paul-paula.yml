@@ -5,7 +5,7 @@ latitude: 52.504387900000005
 longitude: 13.4765431
 postcode: 10317
 city: Berlin
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 121
 phone: ""
 opening_hours: "Mo 12:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 52.492125900000005
 longitude: 13.389946700000001
 postcode: 10961
 city: Berlin
-street: Gneisenaustraße
+street: "Gneisenaustraße"
 housenumber: 7a
 phone: "+4930 37443933"
 opening_hours: "Mo-Sa 11:00-19:00"

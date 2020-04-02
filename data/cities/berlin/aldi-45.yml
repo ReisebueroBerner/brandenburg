@@ -5,7 +5,7 @@ latitude: 52.564697
 longitude: 13.4497666
 postcode: 13086
 city: Berlin
-street: Rennbahnstraße
+street: "Rennbahnstraße"
 housenumber: 65,66,67
 phone: ""
 opening_hours: ""

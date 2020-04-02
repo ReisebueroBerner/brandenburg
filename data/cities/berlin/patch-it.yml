@@ -5,7 +5,7 @@ latitude: 52.546639400000004
 longitude: 13.1994544
 postcode: 13585
 city: Berlin
-street: Falkenhagener Straße
+street: "Falkenhagener Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"

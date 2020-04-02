@@ -5,7 +5,7 @@ latitude: 52.6153854
 longitude: 13.3482157
 postcode: 13469
 city: Berlin
-street: Zabel-Krüger-Damm
+street: "Zabel-Krüger-Damm"
 housenumber: 176
 phone: ""
 opening_hours: ""

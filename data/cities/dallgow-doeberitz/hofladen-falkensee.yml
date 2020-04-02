@@ -5,7 +5,7 @@ latitude: 52.54401480000001
 longitude: 13.0912825
 postcode: 14624
 city: Dallgow-Döberitz
-street: Dallgower Straße
+street: "Dallgower Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:30-18:30; Su 10:00-17:00; PH off"

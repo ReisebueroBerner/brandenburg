@@ -5,7 +5,7 @@ latitude: 53.3217105
 longitude: 13.8767258
 postcode: 17291
 city: Prenzlau
-street: Brüssower Allee
+street: "Brüssower Allee"
 housenumber: 50
 phone: "+49 3984 718352"
 opening_hours: ""

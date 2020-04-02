@@ -5,7 +5,7 @@ latitude: 52.440587
 longitude: 13.380966
 postcode: 
 city: Berlin
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

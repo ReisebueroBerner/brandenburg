@@ -5,7 +5,7 @@ latitude: 52.584760100000004
 longitude: 13.0679908
 postcode: 14612
 city: Falkensee
-street: Moselstraße
+street: "Moselstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5009584
 longitude: 13.4306791
 postcode: 10997
 city: Berlin
-street: Lausitzer Platz
+street: "Lausitzer Platz"
 housenumber: 14
 phone: "+49 30 6127416"
 opening_hours: ""

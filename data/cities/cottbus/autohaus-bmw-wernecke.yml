@@ -5,7 +5,7 @@ latitude: 51.779238500000005
 longitude: 14.321003200000002
 postcode: 03044
 city: Cottbus
-street: Lamsfelder Straße
+street: "Lamsfelder Straße"
 housenumber: 2
 phone: "+49 355 494490"
 opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-13:00; PH off"

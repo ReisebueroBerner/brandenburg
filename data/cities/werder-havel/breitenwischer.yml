@@ -5,7 +5,7 @@ latitude: 52.3674996
 longitude: 12.930127700000002
 postcode: 14542
 city: Werder (Havel)
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 55
 phone: "+49 3327 43260"
 opening_hours: ""

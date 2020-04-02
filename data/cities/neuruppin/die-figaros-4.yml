@@ -5,7 +5,7 @@ latitude: 52.926291000000006
 longitude: 12.806711
 postcode: 16816
 city: Neuruppin
-street: Schinkelstraße
+street: "Schinkelstraße"
 housenumber: 8
 phone: "+49 3391 27 87"
 opening_hours: "Tu-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-13:00"

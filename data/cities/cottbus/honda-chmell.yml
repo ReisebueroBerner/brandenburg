@@ -5,7 +5,7 @@ latitude: 51.754944
 longitude: 14.3243679
 postcode: 03046
 city: Cottbus
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 38
 phone: "+49 355 486950"
 opening_hours: ""

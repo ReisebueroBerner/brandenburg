@@ -5,7 +5,7 @@ latitude: 52.491195000000005
 longitude: 13.301246200000001
 postcode: 10709
 city: Berlin
-street: Cicerostraße
+street: "Cicerostraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Th 07:30-18:00;Fr 07:30-16:00"

@@ -5,7 +5,7 @@ latitude: 52.5252982
 longitude: 13.4666958
 postcode: 10369
 city: Berlin
-street: Rudolf-Seiffert-Straße
+street: "Rudolf-Seiffert-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

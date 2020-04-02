@@ -5,7 +5,7 @@ latitude: 52.4137963
 longitude: 12.5060044
 postcode: 14770
 city: Brandenburg an der Havel
-street: Magdeburger Landstraße
+street: "Magdeburger Landstraße"
 housenumber: 190
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

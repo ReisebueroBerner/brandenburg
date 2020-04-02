@@ -5,7 +5,7 @@ latitude: 52.398773600000006
 longitude: 13.050608400000002
 postcode: 14467
 city: Potsdam
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 13
 phone: ""
 opening_hours: "We-Fr 15:00-19:00; Sa 12:00-16:00; Und nach Vereinbarung; PH off"

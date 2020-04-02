@@ -5,7 +5,7 @@ latitude: 52.549092800000004
 longitude: 13.5964267
 postcode: 16356
 city: Ahrensfelde
-street: Landsberger Chaussee
+street: "Landsberger Chaussee"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

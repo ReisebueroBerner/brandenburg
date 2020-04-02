@@ -5,7 +5,7 @@ latitude: 52.3936847
 longitude: 13.033397
 postcode: 14471
 city: Potsdam
-street: Geschwister-Scholl-Straße
+street: "Geschwister-Scholl-Straße"
 housenumber: 18
 phone: "+49 331 24375022"
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; Sa 09:00-13:00"

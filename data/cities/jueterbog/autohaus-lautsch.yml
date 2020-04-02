@@ -5,7 +5,7 @@ latitude: 51.984272700000005
 longitude: 13.0649382
 postcode: 14913
 city: Jüterbog
-street: Dennewitzer Straße
+street: "Dennewitzer Straße"
 housenumber: 44
 phone: "+49 3372 42440"
 opening_hours: ""

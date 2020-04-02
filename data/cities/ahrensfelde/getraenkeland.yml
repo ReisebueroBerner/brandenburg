@@ -5,7 +5,7 @@ latitude: 52.596465200000004
 longitude: 13.5988865
 postcode: 16356
 city: Ahrensfelde
-street: McDonald's-Straße
+street: "McDonald's-Straße"
 housenumber: 3
 phone: "+49 33394 566070"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"

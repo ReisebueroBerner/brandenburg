@@ -5,7 +5,7 @@ latitude: 51.867753900000004
 longitude: 13.4362697
 postcode: 15936
 city: Dahme/Mark
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

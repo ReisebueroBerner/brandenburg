@@ -5,7 +5,7 @@ latitude: 53.0966226
 longitude: 12.8956072
 postcode: 16831
 city: Rheinsberg
-street: Rhinstraße
+street: "Rhinstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

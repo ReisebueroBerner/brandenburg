@@ -5,7 +5,7 @@ latitude: 52.5240079
 longitude: 13.4620289
 postcode: 10249
 city: Berlin
-street: Hermann-Blankenstein-Straße
+street: "Hermann-Blankenstein-Straße"
 housenumber: 38
 phone: "+49 30 26349548"
 opening_hours: "Mo-Sa 09:00-20:00"

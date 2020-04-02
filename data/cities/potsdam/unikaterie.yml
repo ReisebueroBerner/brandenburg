@@ -5,7 +5,7 @@ latitude: 52.4007888
 longitude: 13.0518932
 postcode: 14467
 city: Potsdam
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo 12:00-18:00; Tu-Sa 11:00-18:30; PH,Su off"

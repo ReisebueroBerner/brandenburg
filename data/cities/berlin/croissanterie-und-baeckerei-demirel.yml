@@ -5,7 +5,7 @@ latitude: 52.545356000000005
 longitude: 13.3779836
 postcode: 13357
 city: Berlin
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

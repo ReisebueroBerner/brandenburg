@@ -5,7 +5,7 @@ latitude: 52.4890714
 longitude: 13.4544639
 postcode: 12435
 city: Berlin
-street: Elsenstraße
+street: "Elsenstraße"
 housenumber: 101
 phone: "+49 30 75548482"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"

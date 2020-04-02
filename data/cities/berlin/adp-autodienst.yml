@@ -5,7 +5,7 @@ latitude: 52.55580500000001
 longitude: 13.437648900000001
 postcode: 13086
 city: Berlin
-street: Pistoriusstraße
+street: "Pistoriusstraße"
 housenumber: 97
 phone: "+4930 477902 0"
 opening_hours: ""

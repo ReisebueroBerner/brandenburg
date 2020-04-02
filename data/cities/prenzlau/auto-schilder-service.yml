@@ -5,7 +5,7 @@ latitude: 53.3132681
 longitude: 13.8666923
 postcode: 17291
 city: Prenzlau
-street: Grabowstraße
+street: "Grabowstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

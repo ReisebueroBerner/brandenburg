@@ -5,7 +5,7 @@ latitude: 52.672803800000004
 longitude: 13.6002323
 postcode: 16321
 city: Bernau bei Berlin
-street: Merkurstraße
+street: "Merkurstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

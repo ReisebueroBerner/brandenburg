@@ -5,7 +5,7 @@ latitude: 51.7240388
 longitude: 14.3628827
 postcode: 03051
 city: Cottbus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 (0)355 86690591"
 opening_hours: ""

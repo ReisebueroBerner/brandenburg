@@ -5,7 +5,7 @@ latitude: 52.5401639
 longitude: 13.4141486
 postcode: 10435
 city: Berlin
-street: Knaackstraße
+street: "Knaackstraße"
 housenumber: 97
 phone: ""
 opening_hours: ""

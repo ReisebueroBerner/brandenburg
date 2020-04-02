@@ -5,7 +5,7 @@ latitude: 52.581934100000005
 longitude: 13.2938573
 postcode: 13509
 city: Berlin
-street: Wittestraße
+street: "Wittestraße"
 housenumber: 27A
 phone: ""
 opening_hours: ""

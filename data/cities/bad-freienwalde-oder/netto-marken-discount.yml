@@ -5,7 +5,7 @@ latitude: 52.7838459
 longitude: 14.037137000000001
 postcode: 16259
 city: Bad Freienwalde (Oder)
-street: Scheunenstraße
+street: "Scheunenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.5083702
 longitude: 13.2809474
 postcode: 14057
 city: Berlin
-street: Messedamm
+street: "Messedamm"
 housenumber: 8-10
 phone: ""
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 52.5344351
 longitude: 13.192234800000001
 postcode: 13581
 city: Berlin
-street: Brunsbütteler Damm
+street: "Brunsbütteler Damm"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-15:00"

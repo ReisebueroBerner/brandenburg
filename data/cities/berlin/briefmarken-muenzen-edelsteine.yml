@@ -5,7 +5,7 @@ latitude: 52.478833200000004
 longitude: 13.438363800000001
 postcode: 12043
 city: Berlin
-street: Ganghoferstraße
+street: "Ganghoferstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00"

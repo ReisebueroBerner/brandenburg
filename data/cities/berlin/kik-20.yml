@@ -5,7 +5,7 @@ latitude: 52.4784037
 longitude: 13.426139200000001
 postcode: 12053
 city: Berlin
-street: Rollbergstraße
+street: "Rollbergstraße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.493081600000004
 longitude: 13.3533927
 postcode: 10781
 city: Berlin
-street: Goltzstraße
+street: "Goltzstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

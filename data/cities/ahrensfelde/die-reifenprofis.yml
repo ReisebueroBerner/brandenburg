@@ -5,7 +5,7 @@ latitude: 52.602794200000005
 longitude: 13.5239071
 postcode: 16356
 city: Ahrensfelde
-street: Bernauer Straße
+street: "Bernauer Straße"
 housenumber: 6
 phone: "+493091142982"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

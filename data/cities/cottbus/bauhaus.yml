@@ -5,7 +5,7 @@ latitude: 51.763454700000004
 longitude: 14.359517100000001
 postcode: 03042
 city: Cottbus
-street: Paul-Greifzu-Straße
+street: "Paul-Greifzu-Straße"
 housenumber: 2
 phone: "+49 355 4943600"
 opening_hours: "Mo-Sa 08:00-20:00"

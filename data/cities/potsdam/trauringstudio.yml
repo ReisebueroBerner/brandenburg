@@ -5,7 +5,7 @@ latitude: 52.4004222
 longitude: 13.055498900000002
 postcode: 14467
 city: Potsdam
-street: Brandenburger Straße
+street: "Brandenburger Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

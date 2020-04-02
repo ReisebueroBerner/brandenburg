@@ -5,7 +5,7 @@ latitude: 51.9571088
 longitude: 14.6865135
 postcode: 03172
 city: Guben
-street: Cottbuser Straße
+street: "Cottbuser Straße"
 housenumber: 33
 phone: "+49 3561 433027"
 opening_hours: ""

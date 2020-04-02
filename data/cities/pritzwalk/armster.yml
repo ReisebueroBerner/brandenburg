@@ -5,7 +5,7 @@ latitude: 53.151245700000004
 longitude: 12.186087200000001
 postcode: 16928
 city: Pritzwalk
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 22A
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.517670800000005
 longitude: 13.465545400000002
 postcode: 10247
 city: Berlin
-street: Samariterstraße
+street: "Samariterstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Tu-We 14:00-20:00; Th 14:00-18:00; Fr by appointment"

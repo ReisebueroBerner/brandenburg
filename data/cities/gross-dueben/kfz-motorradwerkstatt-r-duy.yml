@@ -5,7 +5,7 @@ latitude: 51.56583800000001
 longitude: 14.5652003
 postcode: 02959
 city: Groß Düben
-street: Schleifer Weg
+street: "Schleifer Weg"
 housenumber: 3
 phone: "+49 35773 73037"
 opening_hours: ""

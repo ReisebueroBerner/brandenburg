@@ -5,7 +5,7 @@ latitude: 52.5588489
 longitude: 13.412253600000001
 postcode: 13187
 city: Berlin
-street: Brennerstraße
+street: "Brennerstraße"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00 || nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 52.5971531
 longitude: 14.2356297
 postcode: 15320
 city: Neuhardenberg
-street: Karl-Marx-Allee
+street: "Karl-Marx-Allee"
 housenumber: 6a
 phone: ""
 opening_hours: ""

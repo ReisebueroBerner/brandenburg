@@ -5,7 +5,7 @@ latitude: 52.358157600000006
 longitude: 13.1182806
 postcode: 14478
 city: Potsdam
-street: Verkehrshof
+street: "Verkehrshof"
 housenumber: 6
 phone: "+4933186810"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-15:00"

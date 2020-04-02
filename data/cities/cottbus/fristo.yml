@@ -5,7 +5,7 @@ latitude: 51.766157500000006
 longitude: 14.358022600000002
 postcode: 03042
 city: Cottbus
-street: Stadtring
+street: "Stadtring"
 housenumber: 8
 phone: "+49 355 7294656"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

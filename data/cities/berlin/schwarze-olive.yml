@@ -5,7 +5,7 @@ latitude: 52.4928898
 longitude: 13.382046
 postcode: 
 city: Berlin
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 75
 phone: ""
 opening_hours: "Tu-Fr 08:00-20:00; Sa 08:00-18:00"

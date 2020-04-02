@@ -5,7 +5,7 @@ latitude: 52.414992600000005
 longitude: 12.504976800000001
 postcode: 14770
 city: Brandenburg an der Havel
-street: Carl-Reichstein-Straße
+street: "Carl-Reichstein-Straße"
 housenumber: 35
 phone: "+49 3381 798970"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.1628338
 longitude: 12.4849074
 postcode: 16909
 city: Wittstock/Dosse
-street: Markt
+street: "Markt"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 51.53743600000001
 longitude: 13.411836000000001
 postcode: 04924
 city: Bad Liebenwerda
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

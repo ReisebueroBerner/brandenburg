@@ -5,7 +5,7 @@ latitude: 52.7540321
 longitude: 13.227391
 postcode: 16515
 city: Oranienburg
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 4-8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

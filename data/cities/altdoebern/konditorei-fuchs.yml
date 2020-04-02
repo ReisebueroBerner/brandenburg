@@ -5,7 +5,7 @@ latitude: 51.650078400000005
 longitude: 14.032861700000002
 postcode: 03229
 city: Altdöbern
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

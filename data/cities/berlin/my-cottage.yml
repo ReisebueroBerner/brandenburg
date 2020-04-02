@@ -5,7 +5,7 @@ latitude: 52.5138071
 longitude: 13.278813900000001
 postcode: 14050
 city: Berlin
-street: Haeselerstraße
+street: "Haeselerstraße"
 housenumber: 20
 phone: "+49 30 98365094"
 opening_hours: "Mo-Su 08:30-18:00"

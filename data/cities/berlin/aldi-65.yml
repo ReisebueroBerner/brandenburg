@@ -5,7 +5,7 @@ latitude: 52.429979100000004
 longitude: 13.3788116
 postcode: 12277
 city: Berlin
-street: Wilhelm-von-Siemens-Straße
+street: "Wilhelm-von-Siemens-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

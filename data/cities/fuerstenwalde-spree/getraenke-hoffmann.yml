@@ -5,7 +5,7 @@ latitude: 52.358092400000004
 longitude: 14.050484800000001
 postcode: 15517
 city: Fürstenwalde/Spree
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

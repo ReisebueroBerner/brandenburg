@@ -5,7 +5,7 @@ latitude: 51.722623500000005
 longitude: 14.624262300000002
 postcode: 03149
 city: Forst (Lausitz)
-street: Ebereschenweg
+street: "Ebereschenweg"
 housenumber: 19
 phone: "+49 3562 660225"
 opening_hours: ""

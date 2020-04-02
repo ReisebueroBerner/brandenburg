@@ -5,7 +5,7 @@ latitude: 52.484019100000005
 longitude: 13.5063887
 postcode: 10317
 city: Berlin
-street: Blockdammweg
+street: "Blockdammweg"
 housenumber: 32-36
 phone: ""
 opening_hours: ""

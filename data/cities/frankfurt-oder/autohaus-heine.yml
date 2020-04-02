@@ -5,7 +5,7 @@ latitude: 52.3626445
 longitude: 14.531572400000002
 postcode: 15234
 city: Frankfurt (Oder)
-street: An der Brauerei
+street: "An der Brauerei"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:30; Sa 08:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 52.788928500000004
 longitude: 14.240875500000001
 postcode: 16259
 city: Oderaue
-street: Zollbrücke
+street: "Zollbrücke"
 housenumber: 20
 phone: "+49 33457 5065"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.5215857
 longitude: 13.407074000000001
 postcode: 10178
 city: Berlin
-street: Karl-Liebknecht-Straße
+street: "Karl-Liebknecht-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"

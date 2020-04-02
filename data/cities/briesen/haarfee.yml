@@ -5,7 +5,7 @@ latitude: 51.819503000000005
 longitude: 14.2423984
 postcode: 03096
 city: Briesen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.339937000000006
 longitude: 13.608600000000001
 postcode: 15738
 city: Zeuthen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14
 phone: "+49 33762 70397"
 opening_hours: "Mo-Sa 07:00-21:00"

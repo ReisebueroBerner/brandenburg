@@ -5,7 +5,7 @@ latitude: 52.2599298
 longitude: 14.4309291
 postcode: 15299
 city: Müllrose
-street: Gewerbeparkring
+street: "Gewerbeparkring"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 06:30-17:00; PH off"

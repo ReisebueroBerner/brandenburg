@@ -5,7 +5,7 @@ latitude: 52.045501800000004
 longitude: 14.018095200000001
 postcode: 15913
 city: Märkische Heide
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: "+49 35471 612"
 opening_hours: "Mo-Fr 07:00-18:15; Sa 08:00-12:00"

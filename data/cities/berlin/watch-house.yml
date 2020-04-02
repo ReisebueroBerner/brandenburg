@@ -5,7 +5,7 @@ latitude: 52.4860721
 longitude: 13.3633562
 postcode: 10829
 city: Berlin
-street: Naumannstraße
+street: "Naumannstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:00"

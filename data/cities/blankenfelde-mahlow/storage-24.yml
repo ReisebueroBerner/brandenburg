@@ -5,7 +5,7 @@ latitude: 52.314799
 longitude: 13.444406800000001
 postcode: 15827
 city: Blankenfelde-Mahlow
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 22
 phone: ""
 opening_hours: "24/7"

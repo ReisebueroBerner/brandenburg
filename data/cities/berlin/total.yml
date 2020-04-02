@@ -5,7 +5,7 @@ latitude: 52.5171307
 longitude: 13.1802214
 postcode: 13593
 city: Berlin
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 324
 phone: ""
 opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00"

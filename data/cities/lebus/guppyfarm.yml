@@ -5,7 +5,7 @@ latitude: 52.42102190000001
 longitude: 14.522061800000001
 postcode: 15326
 city: Lebus
-street: Am Elisenberg
+street: "Am Elisenberg"
 housenumber: 15C
 phone: "+49 33604 5150"
 opening_hours: ""

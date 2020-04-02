@@ -5,7 +5,7 @@ latitude: 52.59798180000001
 longitude: 12.2962097
 postcode: 14712
 city: Rathenow
-street: Horstenweg
+street: "Horstenweg"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00"

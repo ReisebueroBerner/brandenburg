@@ -5,7 +5,7 @@ latitude: 52.4228175
 longitude: 13.509762100000001
 postcode: 12355
 city: Berlin
-street: Köpenicker Straße
+street: "Köpenicker Straße"
 housenumber: 79A
 phone: ""
 opening_hours: ""

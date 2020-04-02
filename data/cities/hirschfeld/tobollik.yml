@@ -5,7 +5,7 @@ latitude: 51.3867192
 longitude: 13.6172278
 postcode: 04932
 city: Hirschfeld
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 1
 phone: "+49 35343 785524"
 opening_hours: ""

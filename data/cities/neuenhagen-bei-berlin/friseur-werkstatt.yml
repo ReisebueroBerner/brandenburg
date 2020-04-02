@@ -5,7 +5,7 @@ latitude: 52.522552600000004
 longitude: 13.6975078
 postcode: 15366
 city: Neuenhagen bei Berlin
-street: Wolterstraße
+street: "Wolterstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

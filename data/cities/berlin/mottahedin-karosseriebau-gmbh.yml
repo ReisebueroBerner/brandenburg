@@ -5,7 +5,7 @@ latitude: 52.4170743
 longitude: 13.2927171
 postcode: 14167
 city: Berlin
-street: Lichterfelder Weg
+street: "Lichterfelder Weg"
 housenumber: 9
 phone: ""
 opening_hours: ""

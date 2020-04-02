@@ -5,7 +5,7 @@ latitude: 52.5250792
 longitude: 13.4056139
 postcode: 10178
 city: Berlin
-street: Weinmeisterstraße
+street: "Weinmeisterstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

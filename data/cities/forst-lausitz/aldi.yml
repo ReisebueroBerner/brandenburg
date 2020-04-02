@@ -5,7 +5,7 @@ latitude: 51.7456431
 longitude: 14.633967
 postcode: 03149
 city: Forst (Lausitz)
-street: Cottbuser Straße
+street: "Cottbuser Straße"
 housenumber: 92
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 52.4890855
 longitude: 13.447038000000001
 postcode: 12435
 city: Berlin
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

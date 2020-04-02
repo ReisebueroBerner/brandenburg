@@ -5,7 +5,7 @@ latitude: 52.582367000000005
 longitude: 13.0114946
 postcode: 14656
 city: Brieselang
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-We 07:00-20:00; Th-Sa 07:00-21:00"

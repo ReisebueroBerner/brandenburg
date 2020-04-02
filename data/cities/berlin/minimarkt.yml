@@ -5,7 +5,7 @@ latitude: 52.5578622
 longitude: 13.395150200000002
 postcode: 13359
 city: Berlin
-street: Grüntaler Straße
+street: "Grüntaler Straße"
 housenumber: 59A
 phone: ""
 opening_hours: ""

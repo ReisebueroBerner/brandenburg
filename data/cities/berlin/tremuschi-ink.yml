@@ -5,7 +5,7 @@ latitude: 52.507707
 longitude: 13.4559373
 postcode: 10245
 city: Berlin
-street: Revaler Straße
+street: "Revaler Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

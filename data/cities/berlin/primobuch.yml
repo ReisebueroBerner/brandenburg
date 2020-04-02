@@ -5,7 +5,7 @@ latitude: 52.4627106
 longitude: 13.315178600000001
 postcode: 12163
 city: Berlin
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 11:00-18:00"

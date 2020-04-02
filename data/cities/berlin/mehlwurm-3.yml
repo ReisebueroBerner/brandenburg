@@ -5,7 +5,7 @@ latitude: 52.52794900000001
 longitude: 13.338511700000002
 postcode: 10551
 city: Berlin
-street: Arminiusstraße
+street: "Arminiusstraße"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:00"

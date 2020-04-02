@@ -5,7 +5,7 @@ latitude: 52.105054200000005
 longitude: 14.2615248
 postcode: 15848
 city: Friedland
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 22
 phone: "+49 33676 5128"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.6056819
 longitude: 13.4277519
 postcode: 13127
 city: Berlin
-street: Kalvinistenweg
+street: "Kalvinistenweg"
 housenumber: 52
 phone: ""
 opening_hours: ""

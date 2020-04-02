@@ -5,7 +5,7 @@ latitude: 52.468828800000004
 longitude: 13.341799100000001
 postcode: 12157
 city: Berlin
-street: Cranachstraße
+street: "Cranachstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

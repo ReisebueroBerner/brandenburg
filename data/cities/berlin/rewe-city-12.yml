@@ -5,7 +5,7 @@ latitude: 52.522330000000004
 longitude: 13.403390900000002
 postcode: 10178
 city: Berlin
-street: Litfaß-Platz
+street: "Litfaß-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:00"

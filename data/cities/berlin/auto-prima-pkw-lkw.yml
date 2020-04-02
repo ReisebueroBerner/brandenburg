@@ -5,7 +5,7 @@ latitude: 52.470367
 longitude: 13.383724500000001
 postcode: 12099
 city: Berlin
-street: Tempelhofer Damm
+street: "Tempelhofer Damm"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00,Sa 10:00-16:00"

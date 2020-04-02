@@ -5,7 +5,7 @@ latitude: 51.7724648
 longitude: 14.325595400000001
 postcode: 03044
 city: Cottbus
-street: Sielower Landstraße
+street: "Sielower Landstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

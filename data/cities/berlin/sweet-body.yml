@@ -5,7 +5,7 @@ latitude: 52.553957600000004
 longitude: 13.415649400000001
 postcode: 10439
 city: Berlin
-street: Wisbyer Straße
+street: "Wisbyer Straße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Fr 10:00-21:00; Sa,Su 11:00-20:00"

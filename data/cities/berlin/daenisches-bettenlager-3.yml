@@ -5,7 +5,7 @@ latitude: 52.5600485
 longitude: 13.429260900000001
 postcode: 13089
 city: Berlin
-street: Prenzlauer Promenade
+street: "Prenzlauer Promenade"
 housenumber: 43
 phone: "+49 30 2537460"
 opening_hours: ""

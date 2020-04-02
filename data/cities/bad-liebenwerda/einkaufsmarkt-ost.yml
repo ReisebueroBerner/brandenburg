@@ -5,7 +5,7 @@ latitude: 51.5240139
 longitude: 13.4013956
 postcode: 04924
 city: Bad Liebenwerda
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

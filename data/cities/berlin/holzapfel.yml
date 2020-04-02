@@ -5,7 +5,7 @@ latitude: 52.48879590000001
 longitude: 13.3952582
 postcode: 10961
 city: Berlin
-street: Bergmannstraße
+street: "Bergmannstraße"
 housenumber: 25
 phone: "+493078990610"
 opening_hours: ""

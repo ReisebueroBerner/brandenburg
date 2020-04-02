@@ -5,7 +5,7 @@ latitude: 52.5525833
 longitude: 13.4382736
 postcode: 13086
 city: Berlin
-street: Langhansstraße
+street: "Langhansstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

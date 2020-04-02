@@ -5,7 +5,7 @@ latitude: 52.4354731
 longitude: 13.5417781
 postcode: 12489
 city: Berlin
-street: Adlergestell
+street: "Adlergestell"
 housenumber: 259
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00; PH off"

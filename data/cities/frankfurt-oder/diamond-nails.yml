@@ -5,7 +5,7 @@ latitude: 52.3367367
 longitude: 14.547279000000001
 postcode: 15230
 city: Frankfurt (Oder)
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

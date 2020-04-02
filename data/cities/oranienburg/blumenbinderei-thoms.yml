@@ -5,7 +5,7 @@ latitude: 52.75229160000001
 longitude: 13.216136200000001
 postcode: 16515
 city: Oranienburg
-street: Germendorfer Allee
+street: "Germendorfer Allee"
 housenumber: 13a
 phone: "+49 3301 3192"
 opening_hours: ""

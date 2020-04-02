@@ -5,7 +5,7 @@ latitude: 52.552092800000004
 longitude: 13.4287129
 postcode: 13189
 city: Berlin
-street: Wisbyer Straße
+street: "Wisbyer Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 52.8654652
 longitude: 14.0438214
 postcode: 16248
 city: Oderberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

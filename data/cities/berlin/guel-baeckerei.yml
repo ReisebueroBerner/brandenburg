@@ -5,7 +5,7 @@ latitude: 52.4760975
 longitude: 13.4332908
 postcode: 12053
 city: Berlin
-street: Morusstraße
+street: "Morusstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

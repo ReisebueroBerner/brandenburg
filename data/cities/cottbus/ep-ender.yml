@@ -5,7 +5,7 @@ latitude: 51.7587762
 longitude: 14.3353
 postcode: 03046
 city: Cottbus
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 18 - 19
 phone: ""
 opening_hours: ""

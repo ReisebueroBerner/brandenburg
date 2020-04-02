@@ -5,7 +5,7 @@ latitude: 52.53806470000001
 longitude: 13.408938200000001
 postcode: 10435
 city: Berlin
-street: Kastanienallee
+street: "Kastanienallee"
 housenumber: 21
 phone: ""
 opening_hours: ""

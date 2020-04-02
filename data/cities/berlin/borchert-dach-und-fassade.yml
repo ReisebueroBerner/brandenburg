@@ -5,7 +5,7 @@ latitude: 52.4275448
 longitude: 13.503638700000002
 postcode: 12357
 city: Berlin
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 76-78
 phone: "+49 30 66623999"
 opening_hours: "Mo-Fr 07:00-16:00"

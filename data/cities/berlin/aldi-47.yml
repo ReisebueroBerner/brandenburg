@@ -5,7 +5,7 @@ latitude: 52.4054907
 longitude: 13.523854
 postcode: 12524
 city: Berlin
-street: Schönefelder Chaussee
+street: "Schönefelder Chaussee"
 housenumber: 174
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

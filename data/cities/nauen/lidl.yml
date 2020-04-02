@@ -5,7 +5,7 @@ latitude: 52.602789300000005
 longitude: 12.880442400000002
 postcode: 14641
 city: Nauen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 38-42
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

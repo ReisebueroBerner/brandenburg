@@ -5,7 +5,7 @@ latitude: 52.559019400000004
 longitude: 13.086503400000002
 postcode: 14612
 city: Falkensee
-street: Heinkelstraße
+street: "Heinkelstraße"
 housenumber: 6
 phone: "+49 3322 129595"
 opening_hours: "Mo-Fr 08:00-18:00"

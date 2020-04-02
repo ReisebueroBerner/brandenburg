@@ -5,7 +5,7 @@ latitude: 52.6078873
 longitude: 12.339432700000001
 postcode: 14712
 city: Rathenow
-street: Fehrbelliner Straße
+street: "Fehrbelliner Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

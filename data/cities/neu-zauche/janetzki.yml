@@ -5,7 +5,7 @@ latitude: 51.9256952
 longitude: 14.0895703
 postcode: 15913
 city: Neu Zauche
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 35475 686"
 opening_hours: ""

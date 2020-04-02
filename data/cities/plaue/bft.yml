@@ -5,7 +5,7 @@ latitude: 52.4070508
 longitude: 12.3991477
 postcode: 14774
 city: Plaue
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 69b
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su, PH 08:00-21:00"

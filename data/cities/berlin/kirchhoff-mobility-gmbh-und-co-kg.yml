@@ -5,7 +5,7 @@ latitude: 52.455957100000006
 longitude: 13.450930900000001
 postcode: 12359
 city: Berlin
-street: Scheveninger Straße
+street: "Scheveninger Straße"
 housenumber: 20-22
 phone: "+49 (0)30 - 325984680"
 opening_hours: ""

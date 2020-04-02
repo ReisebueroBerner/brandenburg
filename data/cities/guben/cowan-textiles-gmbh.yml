@@ -5,7 +5,7 @@ latitude: 51.9223526
 longitude: 14.7002611
 postcode: 03172
 city: Guben
-street: Forster Straße
+street: "Forster Straße"
 housenumber: 89
 phone: "+49 3561 6868269"
 opening_hours: ""

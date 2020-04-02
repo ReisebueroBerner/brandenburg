@@ -5,7 +5,7 @@ latitude: 53.0155758
 longitude: 14.016182500000001
 postcode: 16278
 city: Angermünde
-street: Mudrowweg
+street: "Mudrowweg"
 housenumber: 40
 phone: "+49 3331 24060"
 opening_hours: ""

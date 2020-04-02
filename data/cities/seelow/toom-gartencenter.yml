@@ -5,7 +5,7 @@ latitude: 52.529858000000004
 longitude: 14.3656398
 postcode: 
 city: Seelow
-street: Ebertstraße
+street: "Ebertstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

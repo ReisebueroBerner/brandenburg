@@ -5,7 +5,7 @@ latitude: 52.3751964
 longitude: 13.1132193
 postcode: 14482
 city: Potsdam
-street: Fritz-Zubeil-Straße
+street: "Fritz-Zubeil-Straße"
 housenumber: 95
 phone: "+49 331 97991530"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 52.416482900000005
 longitude: 12.5252075
 postcode: 14770
 city: Brandenburg an der Havel
-street: Spittastraße
+street: "Spittastraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

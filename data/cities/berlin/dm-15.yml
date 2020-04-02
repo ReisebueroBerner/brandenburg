@@ -5,7 +5,7 @@ latitude: 52.5675126
 longitude: 13.4118826
 postcode: 13187
 city: Berlin
-street: Garbátyplatz
+street: "Garbátyplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00"

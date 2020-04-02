@@ -5,7 +5,7 @@ latitude: 52.5381962
 longitude: 13.4205593
 postcode: 10405
 city: Berlin
-street: Sredzkistraße
+street: "Sredzkistraße"
 housenumber: 53
 phone: "+49 30 44048259"
 opening_hours: "Mo-Su,PH 06:00-20:00"

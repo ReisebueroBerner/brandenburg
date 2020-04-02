@@ -5,7 +5,7 @@ latitude: 51.692813300000005
 longitude: 13.2354
 postcode: 04916
 city: Herzberg (Elster)
-street: Mönchstraße
+street: "Mönchstraße"
 housenumber: 22
 phone: "+49 3535 23366"
 opening_hours: ""

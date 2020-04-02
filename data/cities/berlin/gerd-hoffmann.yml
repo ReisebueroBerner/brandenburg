@@ -5,7 +5,7 @@ latitude: 52.5197432
 longitude: 13.4701146
 postcode: 10247
 city: Berlin
-street: Pettenkoferstraße
+street: "Pettenkoferstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

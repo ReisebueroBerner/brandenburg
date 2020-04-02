@@ -5,7 +5,7 @@ latitude: 52.4128054
 longitude: 13.3631516
 postcode: 12279
 city: Berlin
-street: Marienfelder Allee
+street: "Marienfelder Allee"
 housenumber: 151
 phone: ""
 opening_hours: "Mo-Fr 9:00-20:00; Sa 9:00-18:00"
